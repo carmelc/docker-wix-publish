@@ -86,7 +86,7 @@
     max-width: 99999px;
     min-width: 0px;
     component-layout: ComponentLayout;
-    width: 268px;
+    width: 364px;
     align-self: start;
     item-margin-bottom: 3.7313432835820897%;
     item-margin-left: 0%;
@@ -94,7 +94,7 @@
     item-margin-top: 0px;
     order: 1;
     item-layout: StackItemLayout;
-    layout-spx-refWidth: 390;
+    layout-spx-refWidth: 1280;
     layout-spx-resolverType: "scale";
     layout-type: SingleLayoutData;
     comp-id: ;
@@ -150,7 +150,7 @@
     min-height: 0px;
     min-width: 0px;
     component-layout: ComponentLayout;
-    width: 268px;
+    width: 364px;
     flex-direction: column;
     container-layout: StackContainerLayout;
     align-self: center;
@@ -160,7 +160,7 @@
     grid-row-start: 1;
     justify-self: center;
     item-margin-bottom: 0%;
-    item-margin-left: 0px;
+    item-margin-left: 96px;
     item-margin-right: 0%;
     item-margin-top: 0%;
     item-layout: GridItemLayout;
