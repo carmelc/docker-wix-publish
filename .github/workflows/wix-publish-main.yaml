@@ -55,4 +55,4 @@ jobs:
             -e WIX_CLI_APP_INFO=${{ secrets.WIX_CLI_APP_INFO }} \
             --memory="8192m" \
             --name run-wix-dev-once \
-            -d ghcr.io/${{ github.repository }}/my-image:latest | tee publish_output.txt
+            -d ghcr.io/${{ github.repository }}/run-wix-dev-once:latest | tee publish_output.txt
