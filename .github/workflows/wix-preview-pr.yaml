@@ -1,4 +1,4 @@
-name: Create Wix Deploy Preview
+name: Wix Deploy Preview
 
 on:
   pull_request:
@@ -6,7 +6,6 @@ on:
 permissions:
   contents: read
   pull-requests: write
-  packages: write
 
 jobs:
   wix-deploy-preview-for-pr:
