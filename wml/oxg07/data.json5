@@ -1,10 +1,10 @@
 {
   externalRefs: {
-    'variants-ljvh5z773': 'variants-ljvh5z773',
-    'variants-ljvh5z772': 'variants-ljvh5z772',
     'comp-kbgakgyt': 'comp-kbgakgyt',
     'comp-kd5px9hr': 'comp-kd5px9hr',
     'comp-ljvfr7jd': 'comp-ljvfr7jd',
+    'variants-ljvh5z772': 'variants-ljvh5z772',
+    'variants-ljvh5z773': 'variants-ljvh5z773',
   },
   components: {
     'comp-ljvh5z7f': {

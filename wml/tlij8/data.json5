@@ -1,10 +1,10 @@
 {
   externalRefs: {
-    'variants-ljpox79b1': 'variants-ljpox79b1',
-    'variants-ljpox79b2': 'variants-ljpox79b2',
-    'comp-lk9fm7rj': 'comp-lk9fm7rj',
     'comp-kbgakgyt': 'comp-kbgakgyt',
     'comp-kd5px9hr': 'comp-kd5px9hr',
+    'comp-lk9fm7rj': 'comp-lk9fm7rj',
+    'variants-ljpox79b1': 'variants-ljpox79b1',
+    'variants-ljpox79b2': 'variants-ljpox79b2',
   },
   components: {
     'comp-ljpox75j': {

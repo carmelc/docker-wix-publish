@@ -1,13 +1,13 @@
 {
   externalRefs: {
-    'variants-lkpez1501': 'variants-lkpez1501',
-    'variants-lkpez1502': 'variants-lkpez1502',
     'comp-kbgakgyt': 'comp-kbgakgyt',
     'comp-kd5px9hr': 'comp-kd5px9hr',
     'comp-ljvfr7jd': 'comp-ljvfr7jd',
     'comp-lkpez4j0_r_comp-l45l1x5f_r_comp-l45kw2h61_r_comp-l2p8ua2t': 'comp-lkpez4j0_r_comp-l45l1x5f_r_comp-l45kw2h61_r_comp-l2p8ua2t',
     'comp-lkpez4j0_r_comp-l45l1x5f_r_comp-l45kw2h61_r_comp-l2ra0yve': 'comp-lkpez4j0_r_comp-l45l1x5f_r_comp-l45kw2h61_r_comp-l2ra0yve',
     'comp-lkpez4j0_r_comp-l45l1x5f_r_comp-l45kw2h61_r_comp-l61z6xb0': 'comp-lkpez4j0_r_comp-l45l1x5f_r_comp-l45kw2h61_r_comp-l61z6xb0',
+    'variants-lkpez1501': 'variants-lkpez1501',
+    'variants-lkpez1502': 'variants-lkpez1502',
   },
   components: {
     'comp-lkpez11r': {
@@ -103,6 +103,7 @@
               behaviourParams_item_video_speed: 1,
               behaviourParams_item_video_volume: 0,
               controllers_behaviourParams_item_overlay_enabled: true,
+              controllers_behaviourParams_item_overlay_hoverAnimationBehavior: 'APPEARS',
               controllers_behaviourParams_item_overlay_overlayType: 'FULL',
               controllers_behaviourParams_item_overlay_size_percent: 100,
               controllers_behaviourParams_item_overlay_size_pixel: 110,
@@ -170,6 +171,7 @@
               layoutParams_thumbnails_alignment: 'BOTTOM',
               layoutParams_thumbnails_size: 120,
               layoutParams_thumbnails_spacing: 4,
+              variant_count: 0,
             },
             type: 'ProGalleryProperties',
           },

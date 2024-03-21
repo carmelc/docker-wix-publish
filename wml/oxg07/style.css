@@ -70,7 +70,7 @@
     skin: wixui.skins.ImageX;
     spx-ref-width: 1280;
     spx-resolver-type: scale;
-    background-color: rgba(var(--color_15),1.0);
+    background-color: rgba(var(--color_15),1);
     style-style-borderColor-additionalData-alpha: "0.0";
     style-style-borderColor-value: "#ffffff";
     style-style-borderWidth-value: "0px";
@@ -213,7 +213,7 @@
     skin: wysiwyg.viewer.skins.area.DefaultAreaSkin;
     spx-ref-width: 1280;
     spx-resolver-type: scale;
-    background: rgba(var(--color_11),0.0);
+    background: rgba(var(--color_11),0);
     border-color: rgba(initial,0);
     border-width: 0px;
     border-radius: 0px;
@@ -424,7 +424,7 @@
     skin: wysiwyg.viewer.skins.area.DefaultAreaSkin;
     spx-ref-width: 1280;
     spx-resolver-type: scale;
-    background: rgba(var(--color_18),0.0);
+    background: rgba(var(--color_18),0);
     border-color: rgba(initial,0);
     border-width: 0px;
     border-radius: 0px;
@@ -459,7 +459,7 @@
     skin: wysiwyg.viewer.skins.area.DefaultAreaSkin;
     spx-ref-width: 1280;
     spx-resolver-type: scale;
-    background: rgba(var(--color_18),0.0);
+    background: rgba(var(--color_18),0);
     border-color: rgba(initial,0);
     border-width: 0px;
     border-radius: 0px;
@@ -560,7 +560,7 @@
     skin: wysiwyg.viewer.skins.area.DefaultAreaSkin;
     spx-ref-width: 1280;
     spx-resolver-type: scale;
-    background: rgba(var(--color_18),0.0);
+    background: rgba(var(--color_18),0);
     border-color: rgba(initial,0);
     border-width: 0px;
     border-radius: 0px;
@@ -704,7 +704,7 @@
     skin: wysiwyg.viewer.skins.area.DefaultAreaSkin;
     spx-ref-width: 1280;
     spx-resolver-type: scale;
-    background: rgba(var(--color_11),0.0);
+    background: rgba(var(--color_11),0);
     border-color: rgba(initial,0);
     border-width: 0px;
     border-radius: 0px;
@@ -853,7 +853,7 @@
     skin: wysiwyg.viewer.skins.area.DefaultAreaSkin;
     spx-ref-width: 1280;
     spx-resolver-type: scale;
-    background: rgba(238,238,238,0.0);
+    background: rgba(238,238,238,0);
     border-color: rgba(0,0,0,1);
     border-width: 0spx;
     border-radius: 0spx 0spx 0spx 0spx;
@@ -886,7 +886,7 @@
     skin: wixui.skins.ImageX;
     spx-ref-width: 1280;
     spx-resolver-type: scale;
-    background-color: rgba(0,0,0,0.0);
+    background-color: rgba(0,0,0,0);
     style-style-borderColor-value: "#ffffff";
     style-style-borderWidth-value: "0";
     style-style-boxShadow-additionalData-boxShadowToggleOn: "false";
@@ -1310,7 +1310,7 @@
     skin: wysiwyg.viewer.skins.area.DefaultAreaSkin;
     spx-ref-width: 1263;
     spx-resolver-type: scale;
-    background: rgba(238,238,238,0.0);
+    background: rgba(238,238,238,0);
     border-color: rgba(0,0,0,1);
     border-width: 0spx;
     border-radius: 0spx 0spx 0spx 0spx;
@@ -1438,7 +1438,7 @@
     skin: wysiwyg.viewer.skins.area.DefaultAreaSkin;
     spx-ref-width: 1280;
     spx-resolver-type: scale;
-    background: rgba(var(--color_11),0.0);
+    background: rgba(var(--color_11),0);
     border-color: rgba(initial,0);
     border-width: 0px;
     border-radius: 0px;
@@ -1473,7 +1473,7 @@
     skin: wysiwyg.viewer.skins.area.DefaultAreaSkin;
     spx-ref-width: 1280;
     spx-resolver-type: scale;
-    background: rgba(var(--color_11),0.0);
+    background: rgba(var(--color_11),0);
     border-color: rgba(initial,0);
     border-width: 0px;
     border-radius: 0px;
@@ -2669,7 +2669,7 @@
     skin: wixui.skins.ImageX;
     spx-ref-width: 1280;
     spx-resolver-type: scale;
-    background-color: rgba(var(--color_15),1.0);
+    background-color: rgba(var(--color_15),1);
     style-style-borderColor-additionalData-alpha: "0.0";
     style-style-borderColor-value: "#ffffff";
     style-style-borderWidth-value: "0px";
@@ -3182,7 +3182,7 @@
     skin: wysiwyg.viewer.skins.area.DefaultAreaSkin;
     spx-ref-width: 1280;
     spx-resolver-type: scale;
-    background: rgba(238,238,238,0.0);
+    background: rgba(238,238,238,0);
     border-color: rgba(0,0,0,1);
     border-width: 0px;
     border-radius: 0px 0px 0px 0px;

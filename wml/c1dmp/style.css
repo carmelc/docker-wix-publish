@@ -100,7 +100,7 @@
     comp-id: ;
     class-name: wysiwyg.viewer.components.WRichText;
     page-id: ;
-    skin: wysiwyg.viewer.skins.WRichTextNewSkin;
+    skin: wysiwyg.viewer.skins.WRichTextThemeSkin;
     spx-ref-width: 1280;
     spx-resolver-type: scale;
     color: rgb(255,255,255);
@@ -173,7 +173,7 @@
     skin: wysiwyg.viewer.skins.area.DefaultAreaSkin;
     spx-ref-width: 1280;
     spx-resolver-type: scale;
-    background: rgba(var(--color_15),0.0);
+    background: rgba(var(--color_15),0);
     border-color: rgba(initial,0);
     border-width: 0px;
     border-radius: 0px;
@@ -415,8 +415,8 @@
     comp-id: ;
     class-name: wysiwyg.viewer.components.WRichText;
     page-id: ;
-    skin: wysiwyg.viewer.skins.WRichTextNewSkin;
-    spx-ref-width: 768;
+    skin: wysiwyg.viewer.skins.WRichTextThemeSkin;
+    spx-ref-width: 1280;
     spx-resolver-type: scale;
     color: rgb(255,255,255);
     font-size: 60px;
@@ -457,7 +457,7 @@
     skin: wysiwyg.viewer.skins.area.DefaultAreaSkin;
     spx-ref-width: 768;
     spx-resolver-type: scale;
-    background: rgba(var(--color_15),0.0);
+    background: rgba(var(--color_15),0);
     border-color: rgba(initial,0);
     border-width: 0px;
     border-radius: 0px;
@@ -556,8 +556,8 @@
     comp-id: ;
     class-name: wysiwyg.viewer.components.WRichText;
     page-id: ;
-    skin: wysiwyg.viewer.skins.WRichTextNewSkin;
-    spx-ref-width: 390;
+    skin: wysiwyg.viewer.skins.WRichTextThemeSkin;
+    spx-ref-width: 1280;
     spx-resolver-type: scale;
     color: rgb(255,255,255);
     font-size: 42px;

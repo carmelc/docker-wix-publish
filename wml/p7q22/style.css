@@ -36,7 +36,7 @@
     skin: wysiwyg.viewer.skins.area.RectangleArea;
     spx-ref-width: 1280;
     spx-resolver-type: scale;
-    background: rgba(var(--color_11),0.0);
+    background: rgba(var(--color_11),0);
     style-type: ComponentStyle;
   }
 
@@ -168,7 +168,7 @@
 
 }
 
-@media (max-width: 750px) and (canvas-size: 390px) {
+@media (max-width: 1000px) and (canvas-size: 768px) {
   #comp-lkpeyye0 {
     presets-layout: "variants-lbc5mkrs";
     presets-style: "variants-lbc5mkrs";
