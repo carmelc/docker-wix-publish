@@ -230,7 +230,7 @@
   skin: wysiwyg.viewer.skins.inlinePopup.ResponsiveInlinePopupWithColorBG;
   spx-ref-width: 390;
   spx-resolver-type: scale;
-  background: rgba(var(--color_18),1.0);
+  background: rgba(var(--color_18),1);
   style-style-containerBackground-value: "color_18";
   style-type: ComponentStyle;
 }
@@ -319,7 +319,7 @@
   style-style-txtexpanded-value: "color_11";
   style-style-txts-value: "color_13";
   style-style-txtsSub-value: "color_13";
-  padding-vertical: 0.0;
+  padding-vertical: 0;
   style-type: ComponentStyle;
 }
 
@@ -348,7 +348,7 @@
   spx-ref-width: 768;
   spx-resolver-type: scale;
   style-style-arrowColor-value: "color_15";
-  background: rgba(var(--color_18),0.0);
+  background: rgba(var(--color_18),0);
   style-style-bgexpanded-additionalData-alpha: "1";
   style-style-bgexpanded-value: "color_18";
   background-color-hover: rgba(230,234,245,1);
@@ -375,7 +375,7 @@
   style-style-txtexpanded-value: "color_11";
   style-style-txts-value: "color_16";
   style-style-txtsSub-value: "color_16";
-  padding-vertical: 0.0;
+  padding-vertical: 0;
   style-type: ComponentStyle;
 }
 
@@ -400,7 +400,7 @@
   spx-ref-width: 768;
   spx-resolver-type: scale;
   style-style-arrowColor-value: "color_15";
-  background: rgba(var(--color_18),0.0);
+  background: rgba(var(--color_18),0);
   style-style-bgexpanded-additionalData-alpha: "0.0";
   style-style-bgexpanded-value: "color_18";
   background-color-hover: rgba(230,234,245,1);
@@ -427,7 +427,7 @@
   style-style-txtexpanded-value: "color_11";
   style-style-txts-value: "color_16";
   style-style-txtsSub-value: "color_16";
-  padding-vertical: 0.0;
+  padding-vertical: 0;
   style-type: ComponentStyle;
 }
 
@@ -871,7 +871,7 @@
   skin: wysiwyg.viewer.skins.area.DefaultAreaSkin;
   spx-ref-width: 1280;
   spx-resolver-type: scale;
-  background: rgba(var(--color_11),0.0);
+  background: rgba(var(--color_11),0);
   border-color: rgba(initial,0);
   border-width: 0px;
   border-radius: 0px;
@@ -904,7 +904,7 @@
   skin: wysiwyg.viewer.skins.area.DefaultAreaSkin;
   spx-ref-width: 1280;
   spx-resolver-type: scale;
-  background: rgba(var(--color_11),0.0);
+  background: rgba(var(--color_11),0);
   border-color: rgba(initial,0);
   border-width: 0px;
   border-radius: 0px;
@@ -2694,7 +2694,7 @@
   skin: wysiwyg.viewer.skins.area.DefaultAreaSkin;
   spx-ref-width: 1280;
   spx-resolver-type: scale;
-  background: rgba(var(--color_11),0.0);
+  background: rgba(var(--color_11),0);
   border-color: rgba(initial,0);
   border-width: 0px;
   border-radius: 0px;
@@ -2727,7 +2727,7 @@
   skin: wysiwyg.viewer.skins.area.DefaultAreaSkin;
   spx-ref-width: 1280;
   spx-resolver-type: scale;
-  background: rgba(var(--color_11),0.0);
+  background: rgba(var(--color_11),0);
   border-color: rgba(initial,0);
   border-width: 0px;
   border-radius: 0px;
@@ -3553,7 +3553,7 @@
   spx-ref-width: 1280;
   spx-resolver-type: scale;
   style-style-arrowColor-value: "color_15";
-  background: rgba(var(--color_11),0.0);
+  background: rgba(var(--color_11),0);
   style-style-bgexpanded-additionalData-alpha: "0.0";
   style-style-bgexpanded-value: "color_11";
   background-color-hover: rgba(230,234,245,1);
@@ -3561,7 +3561,7 @@
   style-style-bgs-value: "color_11";
   style-style-bgsSub-additionalData-alpha: "0.0";
   style-style-bgsSub-value: "color_11";
-  border-color: rgba(var(--color_15),0.0);
+  border-color: rgba(var(--color_15),0);
   border-width: 0px;
   font: overrides(var(--font_8),initial initial 30px initial);
   style-style-fntSubMenu-value: "font_8";
@@ -3580,7 +3580,7 @@
   style-style-txtexpanded-value: "color_15";
   style-style-txts-value: "color_18";
   style-style-txtsSub-value: "color_18";
-  padding-vertical: 0.0;
+  padding-vertical: 0;
   style-type: ComponentStyle;
 }
 
@@ -3592,7 +3592,7 @@
   spx-ref-width: 1280;
   spx-resolver-type: scale;
   style-style-arrowColor-value: "color_15";
-  background: rgba(var(--color_11),0.0);
+  background: rgba(var(--color_11),0);
   style-style-bgexpanded-additionalData-alpha: "0.0";
   style-style-bgexpanded-value: "color_11";
   background-color-hover: rgba(230,234,245,1);
@@ -3600,7 +3600,7 @@
   style-style-bgs-value: "color_11";
   style-style-bgsSub-additionalData-alpha: "0.0";
   style-style-bgsSub-value: "color_11";
-  border-color: rgba(var(--color_15),0.0);
+  border-color: rgba(var(--color_15),0);
   border-width: 0px;
   font: overrides(var(--font_8),initial initial 20px initial);
   style-style-fntSubMenu-value: "font_8";
@@ -3619,7 +3619,7 @@
   style-style-txtexpanded-value: "color_15";
   style-style-txts-value: "color_18";
   style-style-txtsSub-value: "color_18";
-  padding-vertical: 0.0;
+  padding-vertical: 0;
   style-type: ComponentStyle;
 }
 
@@ -3631,7 +3631,7 @@
   spx-ref-width: 1280;
   spx-resolver-type: scale;
   style-style-arrowColor-value: "color_15";
-  background: rgba(var(--color_11),0.0);
+  background: rgba(var(--color_11),0);
   style-style-bgexpanded-additionalData-alpha: "0.0";
   style-style-bgexpanded-value: "color_11";
   background-color-hover: rgba(230,234,245,1);
@@ -3639,7 +3639,7 @@
   style-style-bgs-value: "color_11";
   style-style-bgsSub-additionalData-alpha: "0.0";
   style-style-bgsSub-value: "color_11";
-  border-color: rgba(var(--color_15),0.0);
+  border-color: rgba(var(--color_15),0);
   border-width: 0px;
   font: overrides(var(--font_8),initial initial 30px initial);
   style-style-fntSubMenu-overrides-fontSize: "30px";
@@ -3659,7 +3659,7 @@
   style-style-txtexpanded-value: "color_15";
   style-style-txts-value: "color_18";
   style-style-txtsSub-value: "color_18";
-  padding-vertical: 0.0;
+  padding-vertical: 0;
   style-type: ComponentStyle;
 }
 
@@ -4025,7 +4025,7 @@
   skin: wysiwyg.viewer.skins.area.DefaultAreaSkin;
   spx-ref-width: 1280;
   spx-resolver-type: scale;
-  background: rgba(var(--color_11),0.0);
+  background: rgba(var(--color_11),0);
   border-color: rgba(initial,0);
   border-width: 0px;
   border-radius: 0px;

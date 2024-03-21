@@ -1,10 +1,10 @@
 {
   externalRefs: {
-    'variants-ljvfn2r02': 'variants-ljvfn2r02',
-    'variants-ljvfn2r01': 'variants-ljvfn2r01',
     'comp-kbgakgyt': 'comp-kbgakgyt',
     'comp-kd5px9hr': 'comp-kd5px9hr',
     'comp-ljvfr7jd': 'comp-ljvfr7jd',
+    'variants-ljvfn2r01': 'variants-ljvfn2r01',
+    'variants-ljvfn2r02': 'variants-ljvfn2r02',
   },
   components: {
     bj7et: {

@@ -1,9 +1,9 @@
 {
   externalRefs: {
-    'variants-ljclok931': 'variants-ljclok931',
-    'variants-ljclok932': 'variants-ljclok932',
     'comp-kd5px9hr': 'comp-kd5px9hr',
     tlij8: 'tlij8',
+    'variants-ljclok931': 'variants-ljclok931',
+    'variants-ljclok932': 'variants-ljclok932',
   },
   components: {
     c1dmp: {
@@ -90,7 +90,7 @@
         type: 'WRichTextProperties',
       },
       structure: {
-        skin: 'wysiwyg.viewer.skins.WRichTextNewSkin',
+        skin: 'wysiwyg.viewer.skins.WRichTextThemeSkin',
       },
     },
     'comp-ljpobc0m': {

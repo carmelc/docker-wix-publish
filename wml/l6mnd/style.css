@@ -178,7 +178,7 @@
     skin: wysiwyg.viewer.skins.area.DefaultAreaSkin;
     spx-ref-width: 1280;
     spx-resolver-type: scale;
-    background: rgba(var(--color_11),0.0);
+    background: rgba(var(--color_11),0);
     border-color: rgba(initial,0);
     border-width: 0px;
     border-radius: 0px;

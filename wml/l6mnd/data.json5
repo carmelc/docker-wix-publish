@@ -1,10 +1,10 @@
 {
   externalRefs: {
-    'variants-lrhoakaq2': 'variants-lrhoakaq2',
-    'variants-lrhoakaq1': 'variants-lrhoakaq1',
-    'comp-lk9fm7rj': 'comp-lk9fm7rj',
     'comp-kbgakgyt': 'comp-kbgakgyt',
     'comp-kd5px9hr': 'comp-kd5px9hr',
+    'comp-lk9fm7rj': 'comp-lk9fm7rj',
+    'variants-lrhoakaq1': 'variants-lrhoakaq1',
+    'variants-lrhoakaq2': 'variants-lrhoakaq2',
   },
   components: {
     'comp-lrhoakgd': {
