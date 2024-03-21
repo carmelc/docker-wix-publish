@@ -5,6 +5,15 @@ echo "Running custom publish script"
 echo "WIX_CLI_APP_INFO: $WIX_CLI_APP_INFO"
 echo "WIX_SESSION2: $WIX_SESSION2"
 
+ls -l src wml
+
+rm -rf src wml
+
+cp -R /mnt/src/* src
+cp -R /mnt/wml/* wml
+
+ls -l src wml
+
 curl -s -X POST "https://editor.wix.com/templates-with-cli-poc/api/poc-app/cli-access" \
             -H "Content-Type: application/json" \
             -d "{\"encodedAppData\":\"$WIX_CLI_APP_INFO\"}" \

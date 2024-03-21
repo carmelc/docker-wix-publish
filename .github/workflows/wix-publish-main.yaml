@@ -23,6 +23,7 @@ jobs:
         run: |
           docker pull carmelcohen/wix-cli-preview-publish:latest
           docker run --rm \
+          -v "${GITHUB_WORKSPACE}:/mnt" \
           -e PUBLISH=true \
           -e WIX_SESSION2=${{ secrets.WIX_SESSION2 }} \
           -e WIX_CLI_APP_INFO=${{ secrets.WIX_CLI_APP_INFO }} \
