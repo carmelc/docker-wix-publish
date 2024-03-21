@@ -33,8 +33,10 @@ jobs:
         id: pull-image
         run: |
           if docker pull ghcr.io/${{ github.repository }}/run-wix-dev-once:latest; then
+            echo "The docker image exists"
             echo "exists=true" >> $GITHUB_OUTPUT
           else
+            echo "The docker image DOES NOT exist"
             echo "exists=false" >> $GITHUB_OUTPUT
           fi
 
