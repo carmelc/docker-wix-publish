@@ -1,0 +1,44 @@
+<Page codeName="page1" id="l6mnd">
+  <RefComponent id="comp-lrhoakgd" />
+  <Section codeName="section5" id="comp-lrhocm8g">
+    <Container codeName="box6" id="comp-lrhocm95">
+      <Container codeName="box5" id="comp-lrhocm98">
+        <WRichText codeName="text8" id="comp-lrhocm9m">
+          <![CDATA[<h1 class="font_0">PRIVACY POLICY</h1>]]>
+        </WRichText>
+        <VectorImage codeName="vectorImage2" displayMode="fit" id="comp-lrhocm9b" src="11062b_a96638b4ca9a45a6941f2e66f580078a.svg" />
+      </Container>
+    </Container>
+    <Container codeName="box4" id="comp-lrhocm9s2">
+      <Container codeName="box74" id="comp-lrholmco">
+        <WRichText codeName="text44" id="comp-lrhof5wk">
+          <![CDATA[<h2 class="font_6">A legal disclaimer</h2>]]>
+        </WRichText>
+        <WRichText codeName="text7" id="comp-lrhocm9u1">
+          <![CDATA[<p class="font_8"><span>The explanations and information provided on this page are only general and high-level explanations and information on how to write your own document of a Privacy Policy. You should not rely on this article as legal advice or as recommendations regarding what you should actually do, because we cannot know in advance what are the specific privacy policies you wish to establish between your business and your customers and visitors. We recommend that you seek legal advice to help you understand and to assist you in the creation of your own Privacy Policy.</span></p>]]>
+        </WRichText>
+        <WRichText codeName="text46" id="comp-lrhohmqt">
+          <![CDATA[<h2 class="font_6">Privacy Policy - the basics</h2>]]>
+        </WRichText>
+        <WRichText codeName="text45" id="comp-lrhohlf4">
+          <![CDATA[<p class="font_8">Having said that, a privacy policy is a statement that discloses some or all of the ways a website collects, uses, discloses, processes, and manages the data of its visitors and customers. It usually also includes a statement regarding the website&rsquo;s commitment to protecting its visitors&rsquo; or customers&rsquo; privacy, and an explanation about the different mechanisms the website is implementing in order to protect privacy.&nbsp;</p>
+
+<p class="font_8">&nbsp;</p>
+
+<p class="font_8">Different jurisdictions have different legal obligations of what must be included in a Privacy Policy. You are responsible to make sure you are following the relevant legislation to your activities and location.</p>]]>
+        </WRichText>
+        <WRichText codeName="text48" id="comp-lrhojuzm">
+          <![CDATA[<h2 class="font_6">What to include in the Privacy Policy</h2>]]>
+        </WRichText>
+        <WRichText codeName="text47" id="comp-lrhojud1">
+          <![CDATA[<p class="font_8">Generally speaking, a Privacy Policy often addresses these types of issues: the types of information the website is collecting and the manner in which it collects the data; an explanation about why is the website collecting these types of information; what are the website&rsquo;s practices on sharing the information with third parties; ways in which your visitors an customers can exercise their rights according to the relevant privacy legislation; the specific practices regarding minors&rsquo; data collection; and much much more.&nbsp;</p>
+
+<p class="font_8"><br />
+To learn more about this, check out our article &ldquo;<span style="text-decoration:underline"><a dataquery="#textLink_lrhokw3b">Creating a Privacy Policy</a></span>&rdquo;.</p>]]>
+        </WRichText>
+      </Container>
+    </Container>
+  </Section>
+  <RefComponent id="comp-lrhoaknv" />
+  <RefComponent id="comp-lrhoakub" />
+</Page>

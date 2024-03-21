@@ -1,0 +1,97 @@
+<Page codeName="page1" id="tlij8">
+  <RefComponent id="comp-lk9oj2j6" />
+  <Section codeName="section8" id="comp-ljpox75j">
+    <Container codeName="box14" id="comp-ljpoz514">
+      <Container codeName="box13" id="comp-ljvcw7kl">
+        <WRichText codeName="text14" id="comp-ljpozwgh">
+          <![CDATA[<h1 class="font_0">LANDSCAPE &amp;<br />
+ENVIRONMENTAL DESIGN</h1>]]>
+        </WRichText>
+        <WRichText codeName="text13" id="comp-ljpp2d2d">
+          <![CDATA[<p class="font_2">Sustainability, Consciousness&nbsp;and Innovation</p>]]>
+        </WRichText>
+      </Container>
+    </Container>
+    <Container codeName="box12" id="comp-ljpp6dua">
+      <WRichText codeName="text12" id="comp-ljpp5ag7">
+        <![CDATA[<h2 class="font_6"><span>Latest Projects</span></h2>]]>
+      </WRichText>
+    </Container>
+    <Container codeName="box11" id="comp-ljpp87mh">
+      <WRichText codeName="text11" id="comp-ljpp7lnv">
+        <![CDATA[<p class="font_8">This is a space to welcome visitors to the site. As the first text readers encounter, this copy should clearly convey what the site is about. Grab their attention with captivating and inviting text, and add an image or video for extra engagement.</p>]]>
+      </WRichText>
+    </Container>
+  </Section>
+  <Section codeName="section7" id="comp-ljppar4o">
+    <Container codeName="box44" id="comp-ljzq2cio">
+      <ImageX alt="" codeName="imageX4" displayMode="fill" id="comp-ljppbfx9" name="Aerial View of Playground" src="11062b_fbf3e44ee9454c6389d23e82905e780c~mv2_d_3304_2247_s_2.jpg?width=3304&amp;height=2247" />
+    </Container>
+    <Container codeName="box47" id="comp-ljzqdx4p">
+      <Container codeName="box70" id="comp-lkjylw0f">
+        <WRichText codeName="text9" id="comp-ljppdufc">
+          <![CDATA[<h3 class="font_3">FRANKLIN<br />
+GARDENS</h3>]]>
+        </WRichText>
+        <WRichText codeName="text10" id="comp-ljppgzoj">
+          <![CDATA[<p class="font_8"><span style="text-decoration:underline"><a dataquery="#textLink_lkqog0ot">View More</a></span></p>]]>
+        </WRichText>
+        <VectorImage codeName="vectorImage4" displayMode="fit" id="comp-ljppjre5" src="11062b_a96638b4ca9a45a6941f2e66f580078a.svg" />
+      </Container>
+    </Container>
+  </Section>
+  <Section codeName="section6" id="comp-ljppkr4f">
+    <Container codeName="box48" id="comp-ljzrk7jw">
+      <Container codeName="box6" id="comp-ljpplhiv">
+        <WRichText codeName="text7" id="comp-ljpplhiz4">
+          <![CDATA[<h3 class="font_3">RESIDENTIAL<br />
+GREEN<br />
+BUILDING</h3>]]>
+        </WRichText>
+        <WRichText codeName="text8" id="comp-ljpplhiy">
+          <![CDATA[<p class="font_8"><span style="text-decoration:underline;"><a dataquery="#textLink_lkqogf2c">View More</a></span></p>]]>
+        </WRichText>
+        <VectorImage codeName="vectorImage3" displayMode="fit" id="comp-ljpplsx2" src="11062b_a96638b4ca9a45a6941f2e66f580078a.svg" />
+      </Container>
+    </Container>
+    <Container codeName="box49" id="comp-ljzrk7lk">
+      <ImageX alt="" codeName="imageX3" id="comp-ljppmnex" name="Green Buildings" src="11062b_6651f299cf614c5fa18d54acad055f2e~mv2.jpg?width=3008&amp;height=2000" />
+    </Container>
+  </Section>
+  <Section codeName="section5" id="comp-ljppr74j">
+    <Container codeName="box45" id="comp-ljzq4b1r">
+      <ImageX alt="" codeName="imageX2" id="comp-ljppr74n" name="Country Club" src="11062b_cdc62dad3d5945fb9c7aedaaadf3fbbf~mv2.jpg?width=4000&amp;height=3000" />
+    </Container>
+    <Container codeName="box46" id="comp-ljzq4b35">
+      <Container codeName="box3" id="comp-ljv9w4t1">
+        <WRichText codeName="text5" id="comp-ljv9w4t5">
+          <![CDATA[<h3 class="font_3">GREEN-WATER<br />
+OPEN AIR THEATRE</h3>]]>
+        </WRichText>
+        <WRichText codeName="text6" id="comp-ljv9w4t22">
+          <![CDATA[<p class="font_8"><span style="text-decoration:underline;"><a dataquery="#textLink_lkqognuu">View More</a></span></p>]]>
+        </WRichText>
+        <VectorImage codeName="vectorImage2" displayMode="fit" id="comp-ljv9w4t6" src="11062b_a96638b4ca9a45a6941f2e66f580078a.svg" />
+      </Container>
+    </Container>
+  </Section>
+  <Section codeName="section4" id="comp-ljppwvxc">
+    <Container codeName="box50" id="comp-ljzrl8ti">
+      <Container codeName="box1" id="comp-ljppwvxe">
+        <WRichText codeName="text3" id="comp-ljppwvxf2">
+          <![CDATA[<h3 class="font_3"><span>NY ART MUSEUM<br />
+BRIDGE</span></h3>]]>
+        </WRichText>
+        <WRichText codeName="text4" id="comp-ljppwvxe5">
+          <![CDATA[<p class="font_8"><span style="text-decoration:underline;"><a dataquery="#textLink_lkqogwdj">View More</a></span></p>]]>
+        </WRichText>
+        <VectorImage codeName="vectorImage1" displayMode="fit" id="comp-ljppwvxf9" src="11062b_a96638b4ca9a45a6941f2e66f580078a.svg" />
+      </Container>
+    </Container>
+    <Container codeName="box51" id="comp-ljzrl8ux">
+      <ImageX alt="" codeName="imageX1" displayMode="fill" id="comp-ljppwvxg1" name="Roof Garden" src="11062b_970a7dc503524ff383c827cec5f6f82e~mv2.jpg?width=5197&amp;height=3468" />
+    </Container>
+  </Section>
+  <RefComponent id="comp-ljpox7dr" />
+  <RefComponent id="comp-ljpox7wj" />
+</Page>

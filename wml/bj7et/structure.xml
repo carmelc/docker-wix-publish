@@ -1,0 +1,40 @@
+<Page codeName="page1" id="bj7et">
+  <Section codeName="section6" id="comp-ljvfn2ko">
+    <ImageX alt="" codeName="imageX1" displayMode="fill" id="comp-ljvfscoy" name="GettyImages-169274568.jpg" src="c837a6_ae3a3af45eb243678cc55886d1dfd264~mv2.jpg?width=3000&amp;height=2000" />
+  </Section>
+  <Section codeName="section5" id="comp-ljvfu0cp">
+    <Container codeName="box6" id="comp-ljvfx7xz">
+      <Container codeName="box5" id="comp-ljvfwgzk">
+        <WRichText codeName="text8" id="comp-ljvfufcm">
+          <![CDATA[<h1 class="font_0"><span>CONTACT</span></h1>]]>
+        </WRichText>
+        <VectorImage codeName="vectorImage2" displayMode="fit" id="comp-ljvfw18f" src="11062b_a96638b4ca9a45a6941f2e66f580078a.svg" />
+      </Container>
+    </Container>
+    <Container codeName="box4" id="comp-ljvfx7z1">
+      <WRichText codeName="text7" id="comp-ljvfxl17">
+        <![CDATA[<p class="font_8"><span>I&#39;m a paragraph. Click here to add your own text and edit me. It&rsquo;s easy. Just click &ldquo;Edit Text&rdquo; or double click me to add your own content and make changes to the font. Feel free to drag and drop me anywhere you like on your page. I&rsquo;m a great place for you to tell a story and let your users know a little more about you.</span></p>
+
+<p class="font_8"><span>​</span></p>
+
+<p class="font_8"><span>This is a great space to write a long text about your company and your services. You can use this space to go into a little more detail about your company. Talk about your team and what services you provide. Tell your visitors the story of how you came up with the idea for your business and what makes you different from your competitors. Make your company stand out and show your visitors who you are.</span></p>]]>
+      </WRichText>
+    </Container>
+  </Section>
+  <Section codeName="section4" id="comp-ljvg0x5f">
+    <Container codeName="box3" id="comp-ljvg0x5x">
+      <Container codeName="box2" id="comp-ljvg0x5y3">
+        <WRichText codeName="text6" id="comp-ljvg0x625">
+          <![CDATA[<h2 class="font_0"><span>GET IN TOUCH</span></h2>]]>
+        </WRichText>
+        <VectorImage codeName="vectorImage1" displayMode="fit" id="comp-ljvg0x5z3" src="11062b_a96638b4ca9a45a6941f2e66f580078a.svg" />
+      </Container>
+    </Container>
+    <Container codeName="box1" id="comp-ljvg0x65">
+      <TPAWidget codeName="371Ee199389C4A93849Ee35B8A15B7Ca1" id="comp-ljvgbxc6" />
+    </Container>
+  </Section>
+  <RefComponent id="comp-ljvfn2vc" />
+  <RefComponent id="comp-ljvfn2ym" />
+  <RefComponent id="comp-lk9hnelt" />
+</Page>

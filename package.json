@@ -1,13 +1,13 @@
 {
   "devDependencies": {
-    "@wix/cli": "^1.0.0",
+    "@wix/cli": "file:.github/wix-cli-publish/wix_cli.tar.gz",
     "@wix/eslint-plugin-cli": "^1.0.0",
     "eslint": "^8.25.0",
     "react": "16.14.0"
   },
   "scripts": {
     "postinstall": "wix sync-types",
-    "dev": "wix dev",
+    "dev": "wix dev --experimental-wml",
     "lint": "eslint ."
   }
 }

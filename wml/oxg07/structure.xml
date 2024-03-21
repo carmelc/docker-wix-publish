@@ -1,0 +1,102 @@
+<Page codeName="page1" id="oxg07">
+  <Section codeName="section6" id="comp-ljvh5z7f">
+    <ImageX alt="" codeName="imageX1" displayMode="fill" id="comp-ljvh5z7k6" name="wiktor-karkocha-WA2uSCbTXkI-unsplash_1_edited.jpg" src="c837a6_98146746f5274bf0979ffacf751e7401~mv2.jpg?width=3000&amp;height=2000" />
+  </Section>
+  <Section codeName="section5" id="comp-ljvh5z7p5">
+    <Container codeName="box6" id="comp-ljvh5z7q8">
+      <Container codeName="box5" id="comp-ljvh5z7r5">
+        <WRichText codeName="text8" id="comp-ljvh5z7x7">
+          <![CDATA[<h1 class="font_0"><span>STUDIO</span></h1>]]>
+        </WRichText>
+        <VectorImage codeName="vectorImage2" displayMode="fit" id="comp-ljvh5z7s5" src="11062b_a96638b4ca9a45a6941f2e66f580078a.svg" />
+      </Container>
+    </Container>
+    <Container codeName="box4" id="comp-ljvh5z804">
+      <WRichText codeName="text7" id="comp-ljvh5z815">
+        <![CDATA[<p class="font_8">This is a space to share more about the business: who&#39;s behind it, what it does and what this site has to offer. It&rsquo;s an opportunity to tell the story behind the business or describe a special service or product it offers. You can use this section to share the company history or highlight a particular feature that sets it apart from competitors.<br />
+<br />
+Let the writing speak for itself. Keep a consistent tone and voice throughout the website to stay true to the brand image and give visitors a taste of the company&rsquo;s values and personality.</p>]]>
+      </WRichText>
+    </Container>
+  </Section>
+  <Section codeName="section4" id="comp-ljvh5z8210">
+    <Container codeName="box3" id="comp-ljvh5z853">
+      <Container codeName="box2" id="comp-ljvh5z864">
+        <WRichText codeName="text6" id="comp-ljvh5z8713">
+          <![CDATA[<h2 class="font_0">APPROACH</h2>]]>
+        </WRichText>
+        <VectorImage codeName="vectorImage1" displayMode="fit" id="comp-ljvh5z87" src="11062b_a96638b4ca9a45a6941f2e66f580078a.svg" />
+      </Container>
+    </Container>
+    <Container codeName="box1" id="comp-ljvh5z8813">
+      <WRichText codeName="text22" id="comp-ljvh8ei7">
+        <![CDATA[<p class="font_8"><span>This is a space to share more about the business: who&#39;s behind it, what it does and what this site has to offer. It&rsquo;s an opportunity to tell the story behind the business or describe a special service or product it offers. You can use this section to share the company history or highlight a particular feature that sets it apart from competitors.<br />
+<br />
+Let the writing speak for itself. Keep a consistent tone and voice throughout the website to stay true to the brand image and give visitors a taste of the company&rsquo;s values and personality.</span></p>]]>
+      </WRichText>
+    </Container>
+  </Section>
+  <Section codeName="section7" id="comp-ljvha4dc">
+    <Container codeName="box28" id="comp-ljvhanb7">
+      <WRichText codeName="text23" id="comp-ljvhanba9">
+        <![CDATA[<h2 class="font_0">TEAM</h2>]]>
+      </WRichText>
+      <VectorImage codeName="vectorImage11" displayMode="fit" id="comp-ljvhanb96" src="11062b_a96638b4ca9a45a6941f2e66f580078a.svg" />
+      <Repeater codeName="repeater2" id="comp-ljvhc5sj">
+        <Container codeName="box29" id="comp-ljvhc5sn">
+          <Container codeName="box30" id="comp-ljvhilm0">
+            <ImageX alt="" codeName="imageX2" displayMode="fill" id="comp-ljvhdqgg" name="GettyImages-83266013.jpg" src="c837a6_4c21c2f6066d4021b3bfdb4f7f148115~mv2.jpg?width=4822&amp;height=3611" />
+            <WRichText codeName="text25" id="comp-ljvhh52e">
+              <![CDATA[<h3 class="font_8">Adam Safitz - Founder</h3>]]>
+            </WRichText>
+            <WRichText codeName="text26" id="comp-ljvhho3h">
+              <![CDATA[<p class="font_8">Landscape Architect</p>]]>
+            </WRichText>
+            <WRichText codeName="text24" id="comp-ljvhezat">
+              <![CDATA[<p class="font_8">Describe the team member here. Write a brief description of their role and responsibilities, or a short bio with a background summary.</p>]]>
+            </WRichText>
+            <WRichText codeName="text27" id="comp-ljvhhrgy">
+              <![CDATA[<p class="font_8"><span style="text-decoration:underline"><a dataquery="#textLink_lk9fug2q">info@mysite.com</a></span></p>]]>
+            </WRichText>
+            <WRichText codeName="text28" id="comp-ljvhhwdo">
+              <![CDATA[<p class="font_8">Tel: 123-456-7890</p>]]>
+            </WRichText>
+          </Container>
+        </Container>
+      </Repeater>
+    </Container>
+  </Section>
+  <Section codeName="section8" id="comp-ljvhm2rc">
+    <Container codeName="box35" id="comp-ljvhv50m">
+      <FiveGridLine codeName="line1" id="comp-ljwkaq0l" />
+      <WRichText codeName="text29" id="comp-ljvhmda63">
+        <![CDATA[<h2 class="font_0">JOBS</h2>]]>
+      </WRichText>
+      <VectorImage codeName="vectorImage12" displayMode="fit" id="comp-ljvhmda46" src="11062b_a96638b4ca9a45a6941f2e66f580078a.svg" />
+      <Container codeName="box34" id="comp-ljvhureb">
+        <WRichText codeName="text30" id="comp-ljvhmyhx">
+          <![CDATA[<p class="font_8">I&#39;m a paragraph. Click here to add your own text and edit me. It&rsquo;s easy. Just click &ldquo;Edit Text&rdquo; or double click me to add your own content and make changes to the font. Feel free to drag and drop me anywhere you like on your page. I&rsquo;m a great place for you to tell a story and let your users know a little more about you.</p>
+
+<p class="font_8">​</p>
+
+<p class="font_8">This is a great space to write a long text about your company and your services. You can use this space to go into a little more detail about your company. Talk about your team and what services you provide. Tell your visitors the story of how you came up with the idea for your business and what makes you different from your competitors. Make your company stand out and show your visitors who you are.</p>]]>
+        </WRichText>
+        <Repeater codeName="repeater3" id="comp-ljvhp9zx">
+          <Container codeName="box32" id="comp-ljvhpa02">
+            <Container codeName="box33" id="comp-ljvhto4t">
+              <WRichText codeName="text31" id="comp-ljvhs9y0">
+                <![CDATA[<h3 class="font_8">Open Vacancy</h3>]]>
+              </WRichText>
+              <WRichText codeName="text32" id="comp-ljvht63c">
+                <![CDATA[<p class="font_8">I&#39;m a paragraph. Click here to add your own text and edit me. It&rsquo;s easy. Just click &ldquo;Edit Text&rdquo; or double click me to add your own content and make changes to the font. I&rsquo;m a great place for you to tell a story and let your users know a little more about you.</p>]]>
+              </WRichText>
+            </Container>
+          </Container>
+        </Repeater>
+      </Container>
+    </Container>
+  </Section>
+  <RefComponent id="comp-ljvh5z7o" />
+  <RefComponent id="comp-ljvh5z8b5" />
+  <RefComponent id="comp-lk9fkrut" />
+</Page>

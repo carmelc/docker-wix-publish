@@ -1,0 +1,979 @@
+{
+  externalRefs: {
+    'variants-ljvh5z773': 'variants-ljvh5z773',
+    'variants-ljvh5z772': 'variants-ljvh5z772',
+    'comp-kbgakgyt': 'comp-kbgakgyt',
+    'comp-kd5px9hr': 'comp-kd5px9hr',
+    'comp-ljvfr7jd': 'comp-ljvfr7jd',
+  },
+  components: {
+    'comp-ljvh5z7f': {
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.RectangleArea',
+      },
+    },
+    'comp-ljvh5z7k6': {
+      data: {
+        type: 'ImageX',
+      },
+      structure: {
+        skin: 'wixui.skins.ImageX',
+      },
+    },
+    'comp-ljvh5z7o': {
+      data: {
+        rootCompId: 'comp-kbgakgyt',
+        type: 'InternalRef',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.ResponsiveContainerRefSkin',
+      },
+    },
+    'comp-ljvh5z7p5': {
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.RectangleArea',
+      },
+    },
+    'comp-ljvh5z7q8': {
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.DefaultAreaSkin',
+      },
+    },
+    'comp-ljvh5z7r5': {
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.DefaultAreaSkin',
+      },
+    },
+    'comp-ljvh5z7s5': {
+      data: {
+        type: 'VectorImage',
+      },
+      props: {
+        type: 'VectorImageProperties',
+      },
+      structure: {
+        skin: 'skins.viewer.VectorImageSkin',
+      },
+    },
+    'comp-ljvh5z7x7': {
+      data: {
+        linkList: [],
+        stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+        type: 'StyledText',
+      },
+      props: {
+        packed: true,
+        type: 'WRichTextProperties',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.WRichTextNewSkin',
+      },
+    },
+    'comp-ljvh5z804': {
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.DefaultAreaSkin',
+      },
+    },
+    'comp-ljvh5z815': {
+      data: {
+        linkList: [],
+        stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+        type: 'StyledText',
+      },
+      props: {
+        packed: true,
+        type: 'WRichTextProperties',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.WRichTextNewSkin',
+      },
+    },
+    'comp-ljvh5z8210': {
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.RectangleArea',
+      },
+    },
+    'comp-ljvh5z853': {
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.DefaultAreaSkin',
+      },
+    },
+    'comp-ljvh5z864': {
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.DefaultAreaSkin',
+      },
+    },
+    'comp-ljvh5z87': {
+      data: {
+        type: 'VectorImage',
+      },
+      props: {
+        type: 'VectorImageProperties',
+      },
+      structure: {
+        skin: 'skins.viewer.VectorImageSkin',
+      },
+    },
+    'comp-ljvh5z8713': {
+      data: {
+        linkList: [],
+        stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+        type: 'StyledText',
+      },
+      props: {
+        packed: true,
+        type: 'WRichTextProperties',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.WRichTextNewSkin',
+      },
+    },
+    'comp-ljvh5z8813': {
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.DefaultAreaSkin',
+      },
+    },
+    'comp-ljvh5z8b5': {
+      data: {
+        rootCompId: 'comp-kd5px9hr',
+        type: 'InternalRef',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.ResponsiveContainerRefSkin',
+      },
+    },
+    'comp-ljvh8ei7': {
+      data: {
+        linkList: [],
+        stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+        type: 'StyledText',
+      },
+      effects: {
+        type: 'EffectsList',
+        values: [
+          {
+            id: 'effects-lk9jxkce',
+            name: 'FadeIn',
+            type: 'TimeAnimation',
+            value: {
+              default: {
+                type: 'TimeAnimationOptions',
+              },
+              variants: [
+                {
+                  conditions: [
+                    '#variants-ljvh5z772',
+                  ],
+                  value: {
+                    delay: 0,
+                    duration: 1500,
+                    fill: 'backwards',
+                    namedEffect: {
+                      type: 'FadeIn',
+                    },
+                    type: 'TimeAnimationOptions',
+                  },
+                },
+              ],
+            },
+          },
+        ],
+      },
+      props: {
+        packed: true,
+        type: 'WRichTextProperties',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.WRichTextNewSkin',
+      },
+      triggers: {
+        type: 'Triggers',
+        values: [
+          {
+            componentId: 'comp-ljvh8ei7',
+            id: 'variants-lk9jxkc9',
+            params: {
+              threshold: 0.15,
+            },
+            trigger: 'viewport-enter',
+            type: 'Trigger',
+          },
+        ],
+      },
+    },
+    'comp-ljvha4dc': {
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.RectangleArea',
+      },
+    },
+    'comp-ljvhanb7': {
+      effects: {
+        type: 'EffectsList',
+        values: [
+          {
+            id: 'effects-lk9jzuj3',
+            name: 'FadeIn',
+            type: 'TimeAnimation',
+            value: {
+              default: {
+                type: 'TimeAnimationOptions',
+              },
+              variants: [
+                {
+                  conditions: [
+                    '#variants-ljvh5z772',
+                  ],
+                  value: {
+                    delay: 0,
+                    duration: 1500,
+                    fill: 'backwards',
+                    namedEffect: {
+                      type: 'FadeIn',
+                    },
+                    type: 'TimeAnimationOptions',
+                  },
+                },
+              ],
+            },
+          },
+        ],
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.DefaultAreaSkin',
+      },
+      triggers: {
+        type: 'Triggers',
+        values: [
+          {
+            componentId: 'comp-ljvhanb7',
+            id: 'variants-lk9jzuiq',
+            params: {
+              threshold: 0.15,
+            },
+            trigger: 'viewport-enter',
+            type: 'Trigger',
+          },
+        ],
+      },
+    },
+    'comp-ljvhanb96': {
+      data: {
+        type: 'VectorImage',
+      },
+      props: {
+        type: 'VectorImageProperties',
+      },
+      structure: {
+        skin: 'skins.viewer.VectorImageSkin',
+      },
+    },
+    'comp-ljvhanba9': {
+      data: {
+        linkList: [],
+        stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+        type: 'StyledText',
+      },
+      props: {
+        packed: true,
+        type: 'WRichTextProperties',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.WRichTextNewSkin',
+      },
+    },
+    'comp-ljvhc5sj': {
+      data: {
+        items: [
+          'item1',
+          'item-j9ples3e',
+          'item-j9plerjk',
+          'item-kbjje84i',
+        ],
+        type: 'Repeater',
+      },
+      effects: {
+        type: 'EffectsList',
+        values: [
+          {
+            id: 'effects-lk9jycf5',
+            name: 'FadeIn',
+            type: 'TimeAnimation',
+            value: {
+              default: {
+                type: 'TimeAnimationOptions',
+              },
+              variants: [
+                {
+                  conditions: [
+                    '#variants-ljvh5z772',
+                  ],
+                  value: {
+                    delay: 0,
+                    duration: 1500,
+                    fill: 'backwards',
+                    namedEffect: {
+                      type: 'FadeIn',
+                    },
+                    type: 'TimeAnimationOptions',
+                  },
+                },
+              ],
+            },
+          },
+        ],
+      },
+      props: {
+        gap: {
+          horizontal: 5,
+          vertical: 5,
+        },
+        type: 'CardsLayoutProperties',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.DefaultAreaSkin',
+      },
+      triggers: {
+        type: 'Triggers',
+        values: [
+          {
+            componentId: 'comp-ljvhc5sj',
+            id: 'variants-ljy0oocl',
+            params: {
+              threshold: 0.15,
+            },
+            trigger: 'viewport-enter',
+            type: 'Trigger',
+          },
+        ],
+      },
+    },
+    'comp-ljvhc5sn': {
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.DefaultAreaSkin',
+      },
+    },
+    'comp-ljvhdqgg': {
+      data: {
+        type: 'ImageX',
+      },
+      overrides: {
+        data: {
+          'dataItem-ljvhdqgi__item-j9plerjk': {
+            image: {
+              alt: '',
+              height: 3386,
+              name: 'GettyImages-589935431.jpg',
+              uri: 'c837a6_22eba85742f3445eac3628035efdfd2f~mv2.jpg',
+              width: 5080,
+            },
+            scopedData: [
+              {
+                crop: {
+                  flip: 'none',
+                  height: 2487,
+                  width: 2394,
+                  x: 1022,
+                  y: 583,
+                },
+                displayMode: 'fill',
+                focalPoint: {
+                  x: 50,
+                  y: 50,
+                },
+              },
+            ],
+            type: 'ImageX',
+          },
+          'dataItem-ljvhdqgi__item-j9ples3e': {
+            image: {
+              alt: '',
+              height: 3414,
+              name: 'GettyImages-656228271.jpg',
+              uri: 'c837a6_0f370e7410344260abed87bcc43d9fc4~mv2.jpg',
+              width: 5119,
+            },
+            scopedData: [
+              {
+                crop: {
+                  flip: 'none',
+                  height: 3324,
+                  width: 3200,
+                  x: 92,
+                  y: 54,
+                },
+                displayMode: 'fill',
+                focalPoint: {
+                  x: 50,
+                  y: 50,
+                },
+              },
+            ],
+            type: 'ImageX',
+          },
+          'dataItem-ljvhdqgi__item-kbjje84i': {
+            image: {
+              alt: '',
+              height: 3800,
+              name: 'GettyImages-1192886186.jpg',
+              uri: 'c837a6_4e56cdc88f694060b828ffbf2a76066b~mv2.jpg',
+              width: 5700,
+            },
+            scopedData: [
+              {
+                crop: {
+                  flip: 'none',
+                  height: 2421,
+                  width: 2330,
+                  x: 2979,
+                  y: 220,
+                },
+                displayMode: 'fill',
+                focalPoint: {
+                  x: 50,
+                  y: 50,
+                },
+              },
+            ],
+            type: 'ImageX',
+          },
+          'dataItem-ljvhdqgi__item1': {
+            image: {
+              alt: '',
+              height: 3611,
+              name: 'GettyImages-83266013.jpg',
+              uri: 'c837a6_4c21c2f6066d4021b3bfdb4f7f148115~mv2.jpg',
+              width: 4822,
+            },
+            scopedData: [
+              {
+                crop: {
+                  flip: 'none',
+                  height: 2007,
+                  width: 1932,
+                  x: 1626,
+                  y: 0,
+                },
+                displayMode: 'fill',
+                focalPoint: {
+                  x: 50,
+                  y: 50,
+                },
+              },
+            ],
+            type: 'ImageX',
+          },
+        },
+      },
+      structure: {
+        skin: 'wixui.skins.ImageX',
+      },
+    },
+    'comp-ljvhezat': {
+      data: {
+        linkList: [],
+        stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+        type: 'StyledText',
+      },
+      overrides: {
+        data: {
+          'dataItem-ljvhezav__item-j9plerjk': {
+            linkList: [],
+            stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+            text: '<p class="font_8">Describe the team member here. Write a brief description of their role and responsibilities, or a short bio with a background summary.</p>',
+            type: 'StyledText',
+          },
+          'dataItem-ljvhezav__item-j9ples3e': {
+            linkList: [],
+            stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+            text: '<p class="font_8">Describe the team member here. Write a brief description of their role and responsibilities, or a short bio with a background summary.</p>',
+            type: 'StyledText',
+          },
+          'dataItem-ljvhezav__item-kbjje84i': {
+            linkList: [],
+            stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+            text: '<p class="font_8">Describe the team member here. Write a brief description of their role and responsibilities, or a short bio with a background summary.</p>',
+            type: 'StyledText',
+          },
+          'dataItem-ljvhezav__item1': {
+            linkList: [],
+            stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+            text: '<p class="font_8">Describe the team member here. Write a brief description of their role and responsibilities, or a short bio with a background summary.</p>',
+            type: 'StyledText',
+          },
+        },
+      },
+      props: {
+        packed: true,
+        type: 'WRichTextProperties',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.WRichTextNewSkin',
+      },
+    },
+    'comp-ljvhh52e': {
+      data: {
+        linkList: [],
+        stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+        type: 'StyledText',
+      },
+      overrides: {
+        data: {
+          'dataItem-ljvhh52f__item-j9plerjk': {
+            linkList: [],
+            stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+            text: '<h3 class="font_8">Benjamin Ansel - Urban Strategist</h3>',
+            type: 'StyledText',
+          },
+          'dataItem-ljvhh52f__item-j9ples3e': {
+            linkList: [],
+            stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+            text: '<h3 class="font_8">Laura Anderson - Director</h3>',
+            type: 'StyledText',
+          },
+          'dataItem-ljvhh52f__item-kbjje84i': {
+            linkList: [],
+            stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+            text: '<h3 class="font_8"><span>Dena Lavin - Senior Urban Planner</span></h3>',
+            type: 'StyledText',
+          },
+          'dataItem-ljvhh52f__item1': {
+            linkList: [],
+            stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+            text: '<h3 class="font_8">Adam Safitz - Founder</h3>',
+            type: 'StyledText',
+          },
+        },
+      },
+      props: {
+        packed: true,
+        type: 'WRichTextProperties',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.WRichTextNewSkin',
+      },
+    },
+    'comp-ljvhho3h': {
+      data: {
+        linkList: [],
+        stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+        type: 'StyledText',
+      },
+      overrides: {
+        data: {
+          'dataItem-ljvhho3j__item-j9plerjk': {
+            linkList: [],
+            stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+            text: '<p class="font_8"><span>Senior Landscape Architect</span></p>',
+            type: 'StyledText',
+          },
+          'dataItem-ljvhho3j__item-j9ples3e': {
+            linkList: [],
+            stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+            text: '<p class="font_8">Landscape Architect</p>',
+            type: 'StyledText',
+          },
+          'dataItem-ljvhho3j__item-kbjje84i': {
+            linkList: [],
+            stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+            text: '<p class="font_8">Studio Manager</p>',
+            type: 'StyledText',
+          },
+          'dataItem-ljvhho3j__item1': {
+            linkList: [],
+            stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+            text: '<p class="font_8">Landscape Architect</p>',
+            type: 'StyledText',
+          },
+        },
+      },
+      props: {
+        packed: true,
+        type: 'WRichTextProperties',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.WRichTextNewSkin',
+      },
+    },
+    'comp-ljvhhrgy': {
+      data: {
+        linkList: [],
+        stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+        type: 'StyledText',
+      },
+      overrides: {
+        data: {
+          'dataItem-ljvhhrgz__item-j9plerjk': {
+            linkList: [
+              {
+                recipient: 'info@mysite.com',
+                subject: '',
+                type: 'EmailLink',
+              },
+            ],
+            stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+            text: '<p class="font_8"><span style="text-decoration:underline"><a dataquery="#textLink_lk9fvhkd">info@mysite.com</a></span></p>',
+            type: 'StyledText',
+          },
+          'dataItem-ljvhhrgz__item-j9ples3e': {
+            linkList: [
+              {
+                recipient: 'info@mysite.com',
+                subject: '',
+                type: 'EmailLink',
+              },
+            ],
+            stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+            text: '<p class="font_8"><span style="text-decoration:underline"><a dataquery="#textLink_lk9fvfqw">info@mysite.com</a></span></p>',
+            type: 'StyledText',
+          },
+          'dataItem-ljvhhrgz__item-kbjje84i': {
+            linkList: [
+              {
+                recipient: 'info@mysite.com',
+                subject: '',
+                type: 'EmailLink',
+              },
+            ],
+            stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+            text: '<p class="font_8"><span><span style="text-decoration:underline"><a dataquery="#textLink_lk9fvnns">info@mysite.com</a></span></span></p>',
+            type: 'StyledText',
+          },
+          'dataItem-ljvhhrgz__item1': {
+            linkList: [
+              {
+                recipient: 'info@mysite.com',
+                subject: '',
+                type: 'EmailLink',
+              },
+            ],
+            stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+            text: '<p class="font_8"><span style="text-decoration:underline"><a dataquery="#textLink_lk9fug2q">info@mysite.com</a></span></p>',
+            type: 'StyledText',
+          },
+        },
+      },
+      props: {
+        packed: true,
+        type: 'WRichTextProperties',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.WRichTextNewSkin',
+      },
+    },
+    'comp-ljvhhwdo': {
+      data: {
+        linkList: [],
+        stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+        type: 'StyledText',
+      },
+      overrides: {
+        data: {
+          'dataItem-ljvhhwdp__item-j9plerjk': {
+            linkList: [],
+            stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+            text: '<p class="font_8">Tel: 123-456-7890</p>',
+            type: 'StyledText',
+          },
+          'dataItem-ljvhhwdp__item-j9ples3e': {
+            linkList: [],
+            stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+            text: '<p class="font_8">Tel: 123-456-7890</p>',
+            type: 'StyledText',
+          },
+          'dataItem-ljvhhwdp__item-kbjje84i': {
+            linkList: [],
+            stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+            text: '<p class="font_8"><span>Tel: 123-456-7890</span></p>',
+            type: 'StyledText',
+          },
+          'dataItem-ljvhhwdp__item1': {
+            linkList: [],
+            stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+            text: '<p class="font_8">Tel: 123-456-7890</p>',
+            type: 'StyledText',
+          },
+        },
+      },
+      props: {
+        packed: true,
+        type: 'WRichTextProperties',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.WRichTextNewSkin',
+      },
+    },
+    'comp-ljvhilm0': {
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.DefaultAreaSkin',
+      },
+    },
+    'comp-ljvhm2rc': {
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.RectangleArea',
+      },
+    },
+    'comp-ljvhmda46': {
+      data: {
+        type: 'VectorImage',
+      },
+      props: {
+        type: 'VectorImageProperties',
+      },
+      structure: {
+        skin: 'skins.viewer.VectorImageSkin',
+      },
+    },
+    'comp-ljvhmda63': {
+      data: {
+        linkList: [],
+        stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+        type: 'StyledText',
+      },
+      props: {
+        packed: true,
+        type: 'WRichTextProperties',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.WRichTextNewSkin',
+      },
+    },
+    'comp-ljvhmyhx': {
+      data: {
+        linkList: [],
+        stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+        type: 'StyledText',
+      },
+      props: {
+        packed: true,
+        type: 'WRichTextProperties',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.WRichTextNewSkin',
+      },
+    },
+    'comp-ljvhp9zx': {
+      data: {
+        items: [
+          'item1',
+          'item-ljvhu9ld',
+          'item-ljvhuacp',
+        ],
+        type: 'Repeater',
+      },
+      effects: {
+        type: 'EffectsList',
+        values: [
+          {
+            id: 'effects-lk9k0uo1',
+            name: 'FadeIn',
+            type: 'TimeAnimation',
+            value: {
+              default: {
+                type: 'TimeAnimationOptions',
+              },
+              variants: [
+                {
+                  conditions: [
+                    '#variants-ljvh5z772',
+                  ],
+                  value: {
+                    delay: 0,
+                    duration: 1500,
+                    fill: 'backwards',
+                    namedEffect: {
+                      type: 'FadeIn',
+                    },
+                    type: 'TimeAnimationOptions',
+                  },
+                },
+              ],
+            },
+          },
+        ],
+      },
+      props: {
+        gap: {
+          horizontal: 5,
+          vertical: 5,
+        },
+        type: 'CardsLayoutProperties',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.DefaultAreaSkin',
+      },
+      triggers: {
+        type: 'Triggers',
+        values: [
+          {
+            componentId: 'comp-ljvhp9zx',
+            id: 'variants-lk9k0uno',
+            params: {
+              threshold: 0.15,
+            },
+            trigger: 'viewport-enter',
+            type: 'Trigger',
+          },
+        ],
+      },
+    },
+    'comp-ljvhpa02': {
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.DefaultAreaSkin',
+      },
+    },
+    'comp-ljvhs9y0': {
+      data: {
+        linkList: [],
+        stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+        type: 'StyledText',
+      },
+      overrides: {
+        data: {
+          'dataItem-ljvhs9y4__item-ljvhu9ld': {
+            linkList: [],
+            stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+            text: '<h3 class="font_8">Open Vacancy</h3>',
+            type: 'StyledText',
+          },
+          'dataItem-ljvhs9y4__item-ljvhuacp': {
+            linkList: [],
+            stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+            text: '<h3 class="font_8"><span>Open Vacancy</span></h3>',
+            type: 'StyledText',
+          },
+          'dataItem-ljvhs9y4__item1': {
+            linkList: [],
+            stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+            text: '<h3 class="font_8">Open Vacancy</h3>',
+            type: 'StyledText',
+          },
+        },
+      },
+      props: {
+        packed: true,
+        type: 'WRichTextProperties',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.WRichTextNewSkin',
+      },
+    },
+    'comp-ljvht63c': {
+      data: {
+        linkList: [],
+        stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+        type: 'StyledText',
+      },
+      overrides: {
+        data: {
+          'dataItem-ljvht63e__item-ljvhu9ld': {
+            linkList: [],
+            stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+            text: '<p class="font_8"><span>I&#39;m a paragraph. Click here to add your own text and edit me. It&rsquo;s easy. Just click &ldquo;Edit Text&rdquo; or double click me to add your own content and make changes to the font. I&rsquo;m a great place for you to tell a story and let your users know a little more about you.</span></p>',
+            type: 'StyledText',
+          },
+          'dataItem-ljvht63e__item-ljvhuacp': {
+            linkList: [],
+            stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+            text: '<p class="font_8"><span>I&#39;m a paragraph. Click here to add your own text and edit me. It&rsquo;s easy. Just click &ldquo;Edit Text&rdquo; or double click me to add your own content and make changes to the font. I&rsquo;m a great place for you to tell a story and let your users know a little more about you.</span></p>',
+            type: 'StyledText',
+          },
+          'dataItem-ljvht63e__item1': {
+            linkList: [],
+            stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+            text: '<p class="font_8">I&#39;m a paragraph. Click here to add your own text and edit me. It&rsquo;s easy. Just click &ldquo;Edit Text&rdquo; or double click me to add your own content and make changes to the font. I&rsquo;m a great place for you to tell a story and let your users know a little more about you.</p>',
+            type: 'StyledText',
+          },
+        },
+      },
+      props: {
+        packed: true,
+        type: 'WRichTextProperties',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.WRichTextNewSkin',
+      },
+    },
+    'comp-ljvhto4t': {
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.DefaultAreaSkin',
+      },
+    },
+    'comp-ljvhureb': {
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.DefaultAreaSkin',
+      },
+    },
+    'comp-ljvhv50m': {
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.DefaultAreaSkin',
+      },
+    },
+    'comp-ljwkaq0l': {
+      props: {
+        type: 'FiveGridLineProperties',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.line.SolidLineStudio',
+      },
+    },
+    'comp-lk9fkrut': {
+      data: {
+        rootCompId: 'comp-ljvfr7jd',
+        type: 'InternalRef',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.ResponsiveContainerRefSkin',
+      },
+    },
+    oxg07: {
+      data: {
+        descriptionSEO: '',
+        hidePage: false,
+        hideTitle: true,
+        icon: '',
+        id: 'oxg07',
+        metaKeywordsSEO: '',
+        pageBackgrounds: {
+          desktop: {
+            custom: true,
+            isPreset: true,
+            ref: {
+              alignType: 'top',
+              color: '{color_11}',
+              fittingType: 'fill',
+              scrollType: 'fixed',
+              type: 'BackgroundMedia',
+            },
+          },
+          mobile: {
+            custom: true,
+            isPreset: true,
+            mediaSizing: 'viewport',
+            ref: {
+              alignType: 'top',
+              color: '{color_11}',
+              colorOverlay: '',
+              colorOverlayOpacity: 0,
+              fittingType: 'fill',
+              scrollType: 'fixed',
+              type: 'BackgroundMedia',
+            },
+          },
+        },
+        pageTitleSEO: '',
+        pageUriSEO: 'studio',
+        title: 'STUDIO',
+        tpaApplicationId: 0,
+        translationData: {
+          uriSEOTranslated: false,
+        },
+        type: 'Page',
+        underConstruction: false,
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.page.ResponsivePageWithColorBG',
+      },
+    },
+  },
+  appControllers: {},
+}

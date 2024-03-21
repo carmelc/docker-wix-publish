@@ -1,0 +1,159 @@
+{
+  externalRefs: {
+    'variants-ljclok931': 'variants-ljclok931',
+    'variants-ljclok932': 'variants-ljclok932',
+    'comp-kd5px9hr': 'comp-kd5px9hr',
+    tlij8: 'tlij8',
+  },
+  components: {
+    c1dmp: {
+      behaviors: {
+        items: '[]',
+        type: 'ObsoleteBehaviorsList',
+      },
+      data: {
+        advancedSeoData: '{"tags":[]}',
+        descriptionSEO: '',
+        hidePage: false,
+        hideTitle: true,
+        icon: '',
+        id: 'c1dmp',
+        ignoreBottomBottomAnchors: true,
+        metaKeywordsSEO: '',
+        ogImage: '',
+        pageBackgrounds: {
+          desktop: {
+            custom: true,
+            isPreset: true,
+            ref: {
+              alignType: 'top',
+              color: '{color_11}',
+              fittingType: 'fill',
+              scrollType: 'fixed',
+              type: 'BackgroundMedia',
+            },
+          },
+          mobile: {
+            custom: true,
+            isPreset: true,
+            mediaSizing: 'viewport',
+            ref: {
+              alignType: 'top',
+              color: '{color_11}',
+              colorOverlay: '',
+              colorOverlayOpacity: 0,
+              fittingType: 'fill',
+              scrollType: 'fixed',
+              type: 'BackgroundMedia',
+            },
+          },
+        },
+        pageSecurity: {
+          requireLogin: false,
+        },
+        pageTitleSEO: '',
+        pageUriSEO: 'intro',
+        title: 'INTRO',
+        tpaApplicationId: 0,
+        translationData: {
+          uriSEOTranslated: false,
+        },
+        type: 'Page',
+        underConstruction: false,
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.page.TransparentPageSkin',
+      },
+    },
+    'comp-kbgaghri': {
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.RectangleArea',
+      },
+    },
+    'comp-kd5px9q0': {
+      data: {
+        rootCompId: 'comp-kd5px9hr',
+        type: 'InternalRef',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.ResponsiveContainerRefSkin',
+      },
+    },
+    'comp-ljpo9v9q': {
+      data: {
+        linkList: [],
+        stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+        type: 'StyledText',
+      },
+      props: {
+        packed: true,
+        type: 'WRichTextProperties',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.WRichTextNewSkin',
+      },
+    },
+    'comp-ljpobc0m': {
+      data: {
+        linkList: [],
+        stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+        type: 'StyledText',
+      },
+      props: {
+        packed: true,
+        type: 'WRichTextProperties',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.WRichTextNewSkin',
+      },
+    },
+    'comp-ljpoeu3c': {
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.DefaultAreaSkin',
+      },
+    },
+    'comp-lk9qff7o': {
+      data: {
+        svgId: '6eea42305e4348869bdaf7b2d13b1bb5.svg',
+        type: 'StylableButton',
+      },
+      props: {
+        type: 'StylableButtonProperties',
+      },
+      structure: {
+        skin: 'wixui.skins.Skinless',
+      },
+    },
+    'comp-lkogdnos': {
+      props: {
+        autoplay: true,
+        loop: true,
+        mute: true,
+        type: 'MediaPlayerProperties',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.mediaPlayerSkin',
+      },
+    },
+    'comp-lkogdnp1': {
+      props: {
+        playerId: 'comp-lkogdnos',
+        type: 'MediaOverlayControlsProperties',
+      },
+      structure: {
+        skin: 'skins.viewer.mediaOverlayControlsDefaultSkin',
+      },
+    },
+    'comp-lkogdnp72': {
+      props: {
+        playerId: 'comp-lkogdnos',
+        showStoryboard: 'none',
+        type: 'MediaControlsProperties',
+      },
+      structure: {
+        skin: 'skins.viewer.mediaControlsLightSkin',
+      },
+    },
+  },
+  appControllers: {},
+}

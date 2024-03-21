@@ -1,0 +1,178 @@
+@media (canvas-size: 1280px) {
+  #comp-lkpeyu1p3 {
+    design-background-alignType: "center";
+    design-background-color: "color_11";
+    design-background-colorOpacity: 0;
+    design-background-colorOverlay: "";
+    design-background-colorOverlayOpacity: 0;
+    design-background-fittingType: "fill";
+    design-background-scrollType: "none";
+    design-background-type: "BackgroundMedia";
+    design-type: "MediaContainerWithDividers";
+    height: auto;
+    max-height: 99999px;
+    max-width: 99999px;
+    min-height: 0px;
+    min-width: 0px;
+    component-layout: ComponentLayout;
+    column-gap: 0spx;
+    grid-template-columns: minmax(0px,1fr);
+    row-gap: 0spx;
+    grid-template-rows: minmax(1419spx,auto);
+    container-layout: GridContainerLayout;
+    align-self: stretch;
+    grid-column-end: 2;
+    grid-column-start: 1;
+    grid-row-end: 3;
+    grid-row-start: 2;
+    justify-self: stretch;
+    item-layout: GridItemLayout;
+    layout-spx-refWidth: 1280;
+    layout-spx-resolverType: "scale";
+    layout-type: SingleLayoutData;
+    comp-id: ;
+    class-name: responsive.components.Section;
+    page-id: ;
+    skin: wysiwyg.viewer.skins.area.RectangleArea;
+    spx-ref-width: 1280;
+    spx-resolver-type: scale;
+    background: rgba(var(--color_11),0.0);
+    style-type: ComponentStyle;
+  }
+
+  #comp-lkpeyu7h {
+    height: auto;
+    component-layout: ComponentLayout;
+    width: auto;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+    container-layout: GridContainerLayout;
+    align-self: stretch;
+    grid-column-end: 2;
+    grid-column-start: 1;
+    grid-row-end: 2;
+    grid-row-start: 1;
+    layout-itemLayout-id: "";
+    justify-self: stretch;
+    item-layout: GridItemLayout;
+    layout-spx-refWidth: 1280;
+    layout-spx-resolverType: "scale";
+    layout-type: SingleLayoutData;
+    comp-id: ;
+    class-name: wysiwyg.viewer.components.RefComponent;
+    page-id: ;
+    skin: wysiwyg.viewer.skins.ResponsiveContainerRefSkin;
+    background: rgba(var(--color_11),0);
+    style-type: ComponentStyle;
+  }
+
+  #comp-lkpeyugb {
+    height: auto;
+    component-layout: ComponentLayout;
+    width: auto;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+    container-layout: GridContainerLayout;
+    align-self: stretch;
+    grid-column-end: 2;
+    grid-column-start: 1;
+    grid-row-end: 4;
+    grid-row-start: 3;
+    layout-itemLayout-id: "";
+    justify-self: stretch;
+    item-layout: GridItemLayout;
+    layout-type: SingleLayoutData;
+    comp-id: ;
+    class-name: wysiwyg.viewer.components.RefComponent;
+    page-id: ;
+    skin: wysiwyg.viewer.skins.ResponsiveContainerRefSkin;
+    background: rgba(var(--color_11),0);
+    style-type: ComponentStyle;
+  }
+
+  #comp-lkpeyunp {
+    height: auto;
+    component-layout: ComponentLayout;
+    width: auto;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+    container-layout: GridContainerLayout;
+    align-self: start;
+    justify-self: end;
+    item-margin-right: 0px;
+    item-margin-top: 0px;
+    item-layout: FixedItemLayout;
+    layout-type: SingleLayoutData;
+    comp-id: ;
+    class-name: wysiwyg.viewer.components.RefComponent;
+    page-id: ;
+    skin: wysiwyg.viewer.skins.ResponsiveContainerRefSkin;
+    background: rgba(var(--color_11),0);
+    style-type: ComponentStyle;
+  }
+
+  #comp-lkpeyye0 {
+    height: auto;
+    hidden: false;
+    min-height: 0px;
+    min-width: 0px;
+    component-layout: ComponentLayout;
+    width: auto;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+    container-layout: GridContainerLayout;
+    align-self: stretch;
+    grid-column-end: 2;
+    grid-column-start: 1;
+    grid-row-end: 2;
+    grid-row-start: 1;
+    layout-itemLayout-id: "";
+    justify-self: stretch;
+    item-margin-bottom: 0%;
+    item-margin-left: 0%;
+    item-margin-right: 0%;
+    item-margin-top: 0%;
+    item-layout: GridItemLayout;
+    layout-spx-refWidth: 1280;
+    layout-spx-resolverType: "scale";
+    layout-type: SingleLayoutData;
+    presets-layout: "variants-lbc5hrjm";
+    presets-style: "variants-lbc5hrjm";
+    presets-type: "PresetData";
+    comp-id: ;
+    class-name: wysiwyg.viewer.components.RefComponent;
+    page-id: ;
+    skin: skins.core.InlineSkin;
+    style-subtype: system;
+    style-type: TopLevelStyle;
+  }
+
+  #p7q22 {
+    height: auto;
+    component-layout: ComponentLayout;
+    grid-template-columns: minmax(0px,1fr);
+    overflow-x: clip;
+    overflow-y: clip;
+    grid-template-rows: auto auto auto;
+    container-layout: GridContainerLayout;
+    layout-spx-refWidth: 1280;
+    layout-spx-resolverType: "scale";
+    layout-type: SingleLayoutData;
+    comp-id: ;
+    class-name: mobile.core.components.Page;
+    page-id: ;
+    skin: wysiwyg.viewer.skins.page.ResponsivePageWithColorBG;
+    background: rgba(var(--color_11),1);
+    style-type: ComponentStyle;
+  }
+
+}
+
+@media (max-width: 750px) and (canvas-size: 390px) {
+  #comp-lkpeyye0 {
+    presets-layout: "variants-lbc5mkrs";
+    presets-style: "variants-lbc5mkrs";
+    presets-type: "PresetData";
+  }
+
+}

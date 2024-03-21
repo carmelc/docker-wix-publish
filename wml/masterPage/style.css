@@ -1,0 +1,4315 @@
+#comp-kbgakgyt {
+  design-background-colorLayers: [{"fill":{"color":"color_11","type":"SolidColor"},"opacity":1,"type":"SolidColorLayer"}];
+  design-background-colorOverlay: "";
+  design-background-colorOverlayOpacity: 1;
+  design-background-type: "BackgroundMedia";
+  design-type: "MediaContainerWithDividers";
+  height: auto;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  column-gap: 0spx;
+  grid-template-columns: 0.5fr 0.5fr;
+  padding-bottom: 50px;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 50px;
+  row-gap: 0spx;
+  grid-template-rows: minmax(459.038spx,auto);
+  container-layout: GridContainerLayout;
+  align-self: stretch;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 8;
+  grid-row-start: 7;
+  justify-self: stretch;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: responsive.components.Section;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.area.RectangleArea;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  background: rgba(var(--color_11),0);
+  style-type: ComponentStyle;
+}
+
+#comp-kbgakgyt.variants-ljclok921 {
+  height: auto;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 600px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  column-gap: 0spx;
+  grid-template-columns: 1.4fr 0.6fr;
+  padding-bottom: 3.125%;
+  padding-left: 3.125%;
+  padding-right: 3.125%;
+  padding-top: 50px;
+  row-gap: 0spx;
+  grid-template-rows: minmax(476.000125px,auto);
+  container-layout: GridContainerLayout;
+  layout-spx-refWidth: 768;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-kbgakgyt.variants-ljclok922 {
+  height: auto;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 500px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  column-gap: 0spx;
+  grid-template-columns: 1.2737430167597765fr 0.7262569832402235fr;
+  padding-bottom: 36px;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 50px;
+  row-gap: 0spx;
+  grid-template-rows: minmax(364px,auto);
+  container-layout: GridContainerLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-kbgakgyt.variants-ljv9zkir {
+  reactions-type: "Reactions";
+  reactions-values: [{"effect":"#effects-ljv9zkj1","once":true,"type":"Play"}];
+}
+
+#comp-kd5pdf7t {
+  height: auto;
+  hidden: false;
+  max-width: 99999px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 264.009spx;
+  align-self: start;
+  item-margin-bottom: 0spx;
+  item-margin-left: 0spx;
+  item-margin-right: 0spx;
+  item-margin-top: 0spx;
+  order: 2;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 768;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.WRichText;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.WRichTextNewSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  color: rgb(var(--color_15));
+  text-align: left;
+  style-type: ComponentStyle;
+}
+
+#comp-kd5pdf7t.variants-ljclok921 {
+  height: auto;
+  hidden: false;
+  max-width: 99999px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 372.46875spx;
+  layout-spx-refWidth: 768;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.WRichText;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.WRichTextNewSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  color: rgb(var(--color_15));
+  text-align: left;
+  style-type: ComponentStyle;
+}
+
+#comp-kd5pdf7t.variants-ljclok922 {
+  height: auto;
+  hidden: false;
+  max-width: 99999px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 100%;
+  align-self: start;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  order: 2;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.WRichText;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.WRichTextNewSkin;
+  spx-ref-width: 390;
+  spx-resolver-type: scale;
+  color: rgb(var(--color_15));
+  font-family: avenir-lt-w01_35-light1475496,avenir-lt-w05_35-light,sans-serif;
+  font-size: 14px;
+  text-align: left;
+  style-type: ComponentStyle;
+}
+
+#comp-kd5pdf7t.variants-ljy4grja {
+  reactions-type: "Reactions";
+  reactions-values: [{"effect":"#effects-ljy4grjd","once":true,"type":"Play"}];
+}
+
+#comp-kd5px9hr {
+  height: 100vh;
+  max-width: 99999px;
+  min-height: 100vh;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 100vw;
+  column-gap: 0px;
+  grid-template-columns: minmax(0px,1fr);
+  hide-scroll-bar: true;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  row-gap: 0px;
+  grid-template-rows: minmax(maxContent,100%);
+  container-layout: GridContainerLayout;
+  align-self: start;
+  justify-self: end;
+  item-margin-bottom: 0px;
+  item-margin-left: 0px;
+  item-margin-right: 0px;
+  item-margin-top: 0px;
+  item-layout: FixedItemLayout;
+  layout-spx-refWidth: 768;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.MenuContainer;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.inlinePopup.ResponsiveInlinePopupWithColorBG;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  background: rgba(var(--color_15),0.8);
+  style-style-containerBackground-value: "color_18";
+  style-type: ComponentStyle;
+}
+
+#comp-kd5px9hr.variants-ljclok925 {
+  height: 100vh;
+  max-width: 99999px;
+  min-height: 100vh;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 100vw;
+  column-gap: 0px;
+  grid-template-columns: minmax(0px,1fr);
+  hide-scroll-bar: true;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  row-gap: 0px;
+  grid-template-rows: minmax(maxContent,100%);
+  container-layout: GridContainerLayout;
+  layout-spx-refWidth: 768;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.MenuContainer;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.inlinePopup.ResponsiveInlinePopupWithColorBG;
+  spx-ref-width: 390;
+  spx-resolver-type: scale;
+  background: rgba(var(--color_18),1.0);
+  style-style-containerBackground-value: "color_18";
+  style-type: ComponentStyle;
+}
+
+#comp-kd5px9hr.variants-ljclok924 {
+  height: 100vh;
+  max-width: 99999px;
+  min-height: 100vh;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 100vw;
+  column-gap: 0px;
+  grid-template-columns: minmax(0px,768fr);
+  hide-scroll-bar: true;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  row-gap: 0px;
+  grid-template-rows: minmax(0px,1fr);
+  container-layout: GridContainerLayout;
+  align-self: start;
+  justify-self: end;
+  item-margin-bottom: 0px;
+  item-margin-left: 0px;
+  item-margin-right: 0px;
+  item-margin-top: 0px;
+  item-layout: FixedItemLayout;
+  layout-spx-refWidth: 768;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.MenuContainer;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.inlinePopup.ResponsiveInlinePopupWithColorBG;
+  spx-ref-width: 768;
+  spx-resolver-type: scale;
+  background: rgba(var(--color_18),0.8);
+  style-style-containerBackground-value: "color_18";
+  style-type: ComponentStyle;
+}
+
+#comp-kd5px9kk {
+  height: auto;
+  component-layout: ComponentLayout;
+  width: 300spx;
+  align-self: start;
+  item-margin-bottom: 0px;
+  item-margin-left: 0px;
+  item-margin-right: 30spx;
+  item-margin-top: 0px;
+  order: 1;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 768;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.ExpandableMenu;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.ResponsiveExpandableMenuSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-style-arrowColor-value: "color_15";
+  background: rgba(var(--color_11),0);
+  style-style-bgexpanded-additionalData-alpha: "0";
+  style-style-bgexpanded-value: "color_11";
+  background-color-hover: rgba(230,234,245,1);
+  style-style-bgs-additionalData-alpha: "0";
+  style-style-bgs-value: "color_11";
+  style-style-bgsSub-additionalData-alpha: "0";
+  style-style-bgsSub-value: "color_11";
+  border-color: rgba(var(--color_15),0.2);
+  border-width: 0px 0px 0px 0px;
+  font: var(--font_0);
+  style-style-fntSubMenu-value: "font_6";
+  style-style-menuSpacing-value: "0.0";
+  border-radius: 90px;
+  style-style-separatorHeight-value: "15";
+  style-style-sepw-value: "1";
+  box-shadow: disabled(0px 1px 4px 0px rgba(0,0,0,0.6));
+  style-style-SKINS\\_bgSubmenu-additionalData-alpha: "0";
+  style-style-SKINS\\_fntSubmenu-value: "normal normal normal 16px/1.4em din-next-w01-light {color_14}";
+  style-style-SKINS\\_submenuBR-value: "90px";
+  style-style-SKINS\\_submenuMargin-value: "0";
+  style-style-subMenuSpacing-value: "0.0";
+  style-style-textSpacing-value: "0";
+  text: rgb(var(--color_11));
+  style-style-txtexpanded-value: "color_11";
+  style-style-txts-value: "color_13";
+  style-style-txtsSub-value: "color_13";
+  padding-vertical: 0.0;
+  style-type: ComponentStyle;
+}
+
+#comp-kd5px9kk.variants-ljclok925 {
+  height: auto;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 100%;
+  align-self: start;
+  item-margin-bottom: 6.057737813535258%;
+  item-margin-left: 0px;
+  item-margin-right: 0px;
+  item-margin-top: 0px;
+  order: 1;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 768;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.ExpandableMenu;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.ResponsiveExpandableMenuSkin;
+  spx-ref-width: 768;
+  spx-resolver-type: scale;
+  style-style-arrowColor-value: "color_15";
+  background: rgba(var(--color_18),0.0);
+  style-style-bgexpanded-additionalData-alpha: "1";
+  style-style-bgexpanded-value: "color_18";
+  background-color-hover: rgba(230,234,245,1);
+  style-style-bgs-additionalData-alpha: "0.0";
+  style-style-bgs-value: "color_18";
+  style-style-bgsSub-additionalData-alpha: "0.0";
+  style-style-bgsSub-value: "color_18";
+  border-color: rgba(var(--color_15),0.2);
+  border-width: 0px 0px 0px 0px;
+  font: overrides(var(--font_0),initial initial 40px initial);
+  style-style-fntSubMenu-value: "font_6";
+  style-style-menuSpacing-value: "0.0";
+  border-radius: 90px;
+  style-style-separatorHeight-value: "15";
+  style-style-sepw-value: "1";
+  box-shadow: disabled(0px 1px 4px 0px rgba(0,0,0,0.6));
+  style-style-SKINS\\_bgSubmenu-additionalData-alpha: "0";
+  style-style-SKINS\\_fntSubmenu-value: "normal normal normal 16px/1.4em din-next-w01-light {color_14}";
+  style-style-SKINS\\_submenuBR-value: "90px";
+  style-style-SKINS\\_submenuMargin-value: "0";
+  style-style-subMenuSpacing-value: "0.0";
+  style-style-textSpacing-value: "0";
+  text: rgb(var(--color_11));
+  style-style-txtexpanded-value: "color_11";
+  style-style-txts-value: "color_16";
+  style-style-txtsSub-value: "color_16";
+  padding-vertical: 0.0;
+  style-type: ComponentStyle;
+}
+
+#comp-kd5px9kk.variants-ljclok924 {
+  height: auto;
+  component-layout: ComponentLayout;
+  width: 327.531spx;
+  align-self: start;
+  item-margin-bottom: 0px;
+  item-margin-left: 0px;
+  item-margin-right: 50spx;
+  item-margin-top: 0px;
+  order: 1;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 768;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.ExpandableMenu;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.ResponsiveExpandableMenuSkin;
+  spx-ref-width: 768;
+  spx-resolver-type: scale;
+  style-style-arrowColor-value: "color_15";
+  background: rgba(var(--color_18),0.0);
+  style-style-bgexpanded-additionalData-alpha: "0.0";
+  style-style-bgexpanded-value: "color_18";
+  background-color-hover: rgba(230,234,245,1);
+  style-style-bgs-additionalData-alpha: "0.0";
+  style-style-bgs-value: "color_18";
+  style-style-bgsSub-additionalData-alpha: "0.0";
+  style-style-bgsSub-value: "color_18";
+  border-color: rgba(var(--color_15),0.2);
+  border-width: 0px 0px 0px 0px;
+  font: overrides(var(--font_0),initial initial 55px initial);
+  style-style-fntSubMenu-value: "font_6";
+  style-style-menuSpacing-value: "0.0";
+  border-radius: 90px;
+  style-style-separatorHeight-value: "15";
+  style-style-sepw-value: "1";
+  box-shadow: disabled(0px 1px 4px 0px rgba(0,0,0,0.6));
+  style-style-SKINS\\_bgSubmenu-additionalData-alpha: "0";
+  style-style-SKINS\\_fntSubmenu-value: "normal normal normal 16px/1.4em din-next-w01-light {color_14}";
+  style-style-SKINS\\_submenuBR-value: "90px";
+  style-style-SKINS\\_submenuMargin-value: "0";
+  style-style-subMenuSpacing-value: "0.0";
+  style-style-textSpacing-value: "0";
+  text: rgb(var(--color_11));
+  style-style-txtexpanded-value: "color_11";
+  style-style-txts-value: "color_16";
+  style-style-txtsSub-value: "color_16";
+  padding-vertical: 0.0;
+  style-type: ComponentStyle;
+}
+
+#comp-kkmqi5tc {
+  override-color1: color_11;
+  opacity: 1;
+  stroke: disabled(rgba(237,21,102,1) 1px);
+  design-type: VectorImageDesignData;
+  height: 30px;
+  hidden: false;
+  component-layout: ComponentLayout;
+  width: 30px;
+  align-self: start;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: end;
+  item-margin-bottom: 0px;
+  item-margin-left: 0%;
+  item-margin-right: 40px;
+  item-margin-top: 30px;
+  position: sticky;
+  top: 0px;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.VectorImage;
+  page-id: ;
+  skin: skins.viewer.VectorImageSkin;
+  style-type: ComponentStyle;
+}
+
+#comp-kkmqi5tc.variants-ljclok925 {
+  height: 20px;
+  hidden: false;
+  component-layout: ComponentLayout;
+  width: 20px;
+  align-self: start;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: end;
+  item-margin-bottom: 0px;
+  item-margin-left: 0%;
+  item-margin-right: 30px;
+  item-margin-top: 40px;
+  position: sticky;
+  top: 0px;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-ljpq9u5k {
+  height: auto;
+  hidden: false;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: auto;
+  grid-template-columns: minmax(0px,1fr);
+  grid-template-rows: 1fr;
+  container-layout: GridContainerLayout;
+  align-self: stretch;
+  grid-column-end: 3;
+  grid-column-start: 2;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: stretch;
+  item-margin-bottom: 0px;
+  item-margin-left: 0px;
+  item-margin-right: 0px;
+  item-margin-top: 0px;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: mobile.core.components.Container;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.area.DefaultAreaSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  background: rgba(var(--color_11),0);
+  border-color: rgba(initial,0);
+  border-width: 0px;
+  border-radius: 0px;
+  box-shadow: disabled(0px 0px 0px 0px rgba(0,0,0,0.6));
+  style-type: ComponentStyle;
+}
+
+#comp-ljpq9u5k.variants-ljclok921 {
+  align-self: stretch;
+  grid-column-end: 3;
+  grid-column-start: 2;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: stretch;
+  item-margin-bottom: 0px;
+  item-margin-left: 0px;
+  item-margin-right: 0px;
+  item-margin-top: 0px;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 768;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-ljpq9u5k.variants-ljclok922 {
+  align-self: stretch;
+  grid-column-end: 3;
+  grid-column-start: 2;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: stretch;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-ljpq9yge {
+  height: auto;
+  hidden: false;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: auto;
+  grid-template-columns: minmax(0px,1fr);
+  grid-template-rows: minmax(maxContent,100%);
+  container-layout: GridContainerLayout;
+  align-self: stretch;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: stretch;
+  item-margin-bottom: 0px;
+  item-margin-left: 0px;
+  item-margin-right: 0px;
+  item-margin-top: 0px;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: mobile.core.components.Container;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.area.DefaultAreaSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  background: rgba(var(--color_11),0);
+  border-color: rgba(initial,0);
+  border-width: 0px;
+  border-radius: 0px;
+  box-shadow: disabled(0px 0px 0px 0px rgba(0,0,0,0.6));
+  style-type: ComponentStyle;
+}
+
+#comp-ljpq9yge.variants-ljclok921 {
+  align-self: stretch;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: stretch;
+  item-margin-bottom: 0px;
+  item-margin-left: 0px;
+  item-margin-right: 0px;
+  item-margin-top: 0px;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 768;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-ljpq9yge.variants-ljclok922 {
+  align-self: stretch;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: stretch;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-ljpqaw78 {
+  height: auto;
+  hidden: false;
+  max-width: 99999px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 100%;
+  align-self: start;
+  item-margin-bottom: 2.039708886618999%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  order: 1;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.WRichText;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.WRichTextNewSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  font-weight: bold;
+  max-font-size: 24px;
+  min-font-size: 18px;
+  text-align: left;
+  text-decoration: none;
+  style-type: ComponentStyle;
+}
+
+#comp-ljpqaw78.variants-ljy4gjnp {
+  reactions-type: "Reactions";
+}
+
+#comp-ljpqaw78.variants-ljclok921 {
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.WRichText;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.WRichTextNewSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  font-weight: bold;
+  max-font-size: 24px;
+  min-font-size: 18px;
+  text-align: left;
+  text-decoration: none;
+  style-type: ComponentStyle;
+}
+
+#comp-ljpqaw78.variants-ljclok922 {
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.WRichText;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.WRichTextNewSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  font-weight: bold;
+  max-font-size: 24px;
+  min-font-size: 16px;
+  text-align: left;
+  text-decoration: none;
+  style-type: ComponentStyle;
+}
+
+#comp-ljpqm080 {
+  override-color1: color_15;
+  opacity: 1;
+  stroke: disabled(rgba(237,21,102,1) 1px);
+  design-type: VectorImageDesignData;
+  height: 86px;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 86px;
+  align-self: end;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: end;
+  item-margin-bottom: -0.0008564532520457154%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.VectorImage;
+  page-id: ;
+  skin: skins.viewer.VectorImageSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-type: ComponentStyle;
+}
+
+#comp-ljpqm080.variants-ljclok921 {
+  align-self: end;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: end;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-ljpqm080.variants-ljy4g48b {
+  reactions-type: "Reactions";
+  reactions-values: [{"effect":"#effects-lk9hn0w6","once":true,"type":"Play"}];
+}
+
+#comp-ljpqm080.variants-ljclok922 {
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.VectorImage;
+  page-id: ;
+  skin: skins.viewer.VectorImageSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-type: ComponentStyle;
+}
+
+#comp-ljvb67tv {
+  height: auto;
+  hidden: false;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: auto;
+  grid-template-columns: minmax(0px,1fr);
+  grid-template-rows: minmax(maxContent,100%);
+  container-layout: GridContainerLayout;
+  align-self: stretch;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: stretch;
+  item-margin-bottom: 0px;
+  item-margin-left: 0px;
+  item-margin-right: 0px;
+  item-margin-top: 0px;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: mobile.core.components.Container;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.area.DefaultAreaSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  background: rgba(var(--color_11),0);
+  border-color: rgba(initial,0);
+  border-width: 0px;
+  border-radius: 0px;
+  box-shadow: disabled(0px 0px 0px 0px rgba(0,0,0,0.6));
+  style-type: ComponentStyle;
+}
+
+#comp-ljvb67tv.variants-ljvfr7nk2 {
+  align-self: stretch;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: stretch;
+  item-margin-bottom: 0px;
+  item-margin-left: 0px;
+  item-margin-right: 0px;
+  item-margin-top: 0px;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-ljvb67tv.variants-ljvfr7nk3 {
+  height: auto;
+  hidden: false;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: auto;
+  grid-template-columns: minmax(0px,1fr);
+  grid-template-rows: minmax(maxContent,100%);
+  container-layout: GridContainerLayout;
+  align-self: stretch;
+  grid-column-end: 4;
+  grid-column-start: 1;
+  grid-row-end: 3;
+  grid-row-start: 2;
+  justify-self: stretch;
+  item-margin-bottom: 0px;
+  item-margin-left: 0px;
+  item-margin-right: 0px;
+  item-margin-top: 0px;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-ljvb67tw4 {
+  height: auto;
+  hidden: false;
+  component-layout: ComponentLayout;
+  width: 50.78125%;
+  flex-direction: column;
+  container-layout: StackContainerLayout;
+  align-self: start;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: start;
+  item-margin-bottom: 0%;
+  item-margin-left: 40px;
+  item-margin-right: 0%;
+  item-margin-top: 16px;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: mobile.core.components.Container;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.area.DefaultAreaSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  background: rgba(var(--color_11),0.0);
+  border-color: rgba(initial,0);
+  border-width: 0px;
+  border-radius: 0px;
+  box-shadow: disabled(0px 0px 0px 0px rgba(0,0,0,0.6));
+  style-type: ComponentStyle;
+}
+
+#comp-ljvb67tw4.variants-ljvfr7nk2 {
+  height: auto;
+  hidden: false;
+  component-layout: ComponentLayout;
+  width: 84.0060379339765%;
+  align-self: start;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: start;
+  item-margin-bottom: 0%;
+  item-margin-left: 10.422004553129646%;
+  item-margin-right: 0%;
+  item-margin-top: 7.521169532674166%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: mobile.core.components.Container;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.area.DefaultAreaSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  background: rgba(var(--color_11),0.0);
+  border-color: rgba(initial,0);
+  border-width: 0px;
+  border-radius: 0px;
+  box-shadow: disabled(0px 0px 0px 0px rgba(0,0,0,0.6));
+  style-type: ComponentStyle;
+}
+
+#comp-ljvb67tw4.variants-ljvfr7nk3 {
+  height: auto;
+  hidden: false;
+  component-layout: ComponentLayout;
+  width: 61.53846153846154%;
+  align-self: start;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: start;
+  item-margin-bottom: -0.006009615384615385%;
+  item-margin-left: 4.1506410256410255%;
+  item-margin-right: 0%;
+  item-margin-top: 2.5641025641025643%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-ljvb67tx5 {
+  height: auto;
+  hidden: false;
+  max-width: 99999px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 260px;
+  align-self: start;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0px;
+  order: 2;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 768;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.WRichText;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.WRichTextNewSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  color: rgb(var(--color_11));
+  font-size: 16px;
+  letter-spacing: 0.39em;
+  text-decoration: none;
+  style-type: ComponentStyle;
+}
+
+#comp-ljvb67tx5.variants-ljvfr7nk3 {
+  height: auto;
+  hidden: false;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 234.3125px;
+  align-self: start;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0px;
+  order: 2;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 768;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.WRichText;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.WRichTextNewSkin;
+  spx-ref-width: 390;
+  spx-resolver-type: scale;
+  color: rgb(var(--color_11));
+  font-size: 14px;
+  letter-spacing: 0.05em;
+  text-decoration: none;
+  style-type: ComponentStyle;
+}
+
+#comp-ljvb67tx5.variants-ljvfr7nk2 {
+  height: auto;
+  hidden: false;
+  max-width: 99999px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 200px;
+  layout-spx-refWidth: 768;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.WRichText;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.WRichTextNewSkin;
+  spx-ref-width: 768;
+  spx-resolver-type: scale;
+  color: rgb(var(--color_11));
+  font-size: 14px;
+  letter-spacing: 0.05em;
+  text-decoration: none;
+  style-type: ComponentStyle;
+}
+
+#comp-ljvb67tz8 {
+  height: auto;
+  hidden: false;
+  max-width: 99999px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 100%;
+  align-self: start;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0px;
+  order: 1;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.WRichText;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.WRichTextNewSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  color: rgb(var(--color_11));
+  font-family: poppins-extralight,poppins,sans-serif;
+  font-size: 22spx;
+  font-weight: normal;
+  letter-spacing: 0.81em;
+  line-height: 1.2em;
+  text-align: left;
+  text-decoration: none;
+  style-type: ComponentStyle;
+}
+
+#comp-ljvb67tz8.variants-ljvfr7nk3 {
+  height: auto;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 100.34675913576955%;
+  align-self: stretch;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0px;
+  order: 1;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.WRichText;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.WRichTextNewSkin;
+  spx-ref-width: 390;
+  spx-resolver-type: scale;
+  color: rgb(var(--color_11));
+  font-family: poppins-extralight,poppins,sans-serif;
+  font-size: 16spx;
+  font-weight: normal;
+  letter-spacing: 0.81em;
+  line-height: 1.2em;
+  max-font-size: 24px;
+  min-font-size: 16px;
+  text-align: left;
+  text-decoration: none;
+  style-type: ComponentStyle;
+}
+
+#comp-ljvb67tz8.variants-ljvfr7nk2 {
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.WRichText;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.WRichTextNewSkin;
+  spx-ref-width: 768;
+  spx-resolver-type: scale;
+  color: rgb(var(--color_11));
+  font-family: poppins-extralight,poppins,sans-serif;
+  font-size: 20spx;
+  font-weight: normal;
+  letter-spacing: 0.81em;
+  line-height: 1.2em;
+  max-font-size: 24px;
+  min-font-size: 20px;
+  text-align: left;
+  text-decoration: none;
+  style-type: ComponentStyle;
+}
+
+#comp-ljvb67u011 {
+  height: auto;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: auto;
+  grid-template-columns: minmax(0px,1fr);
+  grid-template-rows: minmax(maxContent,100%);
+  container-layout: GridContainerLayout;
+  align-self: stretch;
+  grid-column-end: 3;
+  grid-column-start: 2;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: stretch;
+  item-margin-bottom: 0px;
+  item-margin-left: 0px;
+  item-margin-right: 0px;
+  item-margin-top: 0px;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 768;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: mobile.core.components.Container;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.area.DefaultAreaSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  background: rgba(var(--color_11),0);
+  border-color: rgba(initial,0);
+  border-width: 0px;
+  border-radius: 0px;
+  box-shadow: disabled(0px 0px 0px 0px rgba(0,0,0,0.6));
+  style-type: ComponentStyle;
+}
+
+#comp-ljvb67u011.variants-ljvfr7nk2 {
+  align-self: stretch;
+  grid-column-end: 3;
+  grid-column-start: 2;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: stretch;
+  item-margin-bottom: 0px;
+  item-margin-left: 0px;
+  item-margin-right: 0px;
+  item-margin-top: 0px;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 768;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-ljvb67u011.variants-ljvfr7nk3 {
+  height: auto;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: auto;
+  grid-template-columns: minmax(0px,1fr);
+  grid-template-rows: minmax(maxContent,100%);
+  container-layout: GridContainerLayout;
+  align-self: stretch;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: stretch;
+  item-margin-bottom: 0px;
+  item-margin-left: 0px;
+  item-margin-right: 0px;
+  item-margin-top: 0px;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 768;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-ljvb67u9 {
+  height: auto;
+  hidden: false;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: auto;
+  grid-template-columns: minmax(0px,1fr);
+  grid-template-rows: minmax(maxContent,100%);
+  container-layout: GridContainerLayout;
+  align-self: stretch;
+  grid-column-end: 4;
+  grid-column-start: 3;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: stretch;
+  item-margin-bottom: 0px;
+  item-margin-left: 0px;
+  item-margin-right: 0px;
+  item-margin-top: 0px;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: mobile.core.components.Container;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.area.DefaultAreaSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  background: rgba(var(--color_11),0);
+  border-color: rgba(initial,0);
+  border-width: 0px;
+  border-radius: 0px;
+  box-shadow: disabled(0px 0px 0px 0px rgba(0,0,0,0.6));
+  style-type: ComponentStyle;
+}
+
+#comp-ljvb67u9.variants-ljvfr7nk2 {
+  height: auto;
+  hidden: false;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: auto;
+  grid-template-columns: minmax(0px,1fr);
+  grid-template-rows: 1fr;
+  container-layout: GridContainerLayout;
+  align-self: stretch;
+  grid-column-end: 4;
+  grid-column-start: 3;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: stretch;
+  item-margin-bottom: 0px;
+  item-margin-left: 0px;
+  item-margin-right: 0px;
+  item-margin-top: 0px;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-ljvb67u9.variants-ljvfr7nk3 {
+  height: auto;
+  hidden: false;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: auto;
+  grid-template-columns: minmax(0px,1fr);
+  grid-template-rows: 1fr;
+  container-layout: GridContainerLayout;
+  align-self: stretch;
+  grid-column-end: 3;
+  grid-column-start: 2;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: stretch;
+  item-margin-bottom: 0px;
+  item-margin-left: 0px;
+  item-margin-right: 0px;
+  item-margin-top: 0px;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-ljvb67uc12 {
+  height: auto;
+  hidden: false;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: auto;
+  grid-template-columns: minmax(0px,1fr);
+  grid-template-rows: minmax(maxContent,100%);
+  container-layout: GridContainerLayout;
+  align-self: stretch;
+  grid-column-end: 5;
+  grid-column-start: 4;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: stretch;
+  item-margin-bottom: 0px;
+  item-margin-left: 0px;
+  item-margin-right: 0px;
+  item-margin-top: 0px;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: mobile.core.components.Container;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.area.DefaultAreaSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  background: rgba(var(--color_11),0);
+  border-color: rgba(initial,0);
+  border-width: 0px;
+  border-radius: 0px;
+  box-shadow: disabled(0px 0px 0px 0px rgba(0,0,0,0.6));
+  style-type: ComponentStyle;
+}
+
+#comp-ljvb67uc12.variants-ljvfr7nk2 {
+  height: auto;
+  hidden: false;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: auto;
+  grid-template-columns: minmax(0px,1fr);
+  grid-template-rows: 1fr;
+  container-layout: GridContainerLayout;
+  align-self: stretch;
+  grid-column-end: 5;
+  grid-column-start: 4;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: stretch;
+  item-margin-bottom: 0px;
+  item-margin-left: 0px;
+  item-margin-right: 0px;
+  item-margin-top: 0px;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-ljvb67uc12.variants-ljvfr7nk3 {
+  height: auto;
+  hidden: false;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: auto;
+  grid-template-columns: minmax(0px,1fr);
+  grid-template-rows: 1fr;
+  container-layout: GridContainerLayout;
+  align-self: stretch;
+  grid-column-end: 4;
+  grid-column-start: 3;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: stretch;
+  item-margin-bottom: 0px;
+  item-margin-left: 0px;
+  item-margin-right: 0px;
+  item-margin-top: 0px;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-ljvfr7jd {
+  design-background-colorLayers: [{"fill":{"color":"color_11","type":"SolidColor"},"opacity":0,"type":"SolidColorLayer"}];
+  design-background-colorOverlay: "";
+  design-background-colorOverlayOpacity: 1;
+  design-background-type: "BackgroundMedia";
+  design-type: "MediaContainerWithDividers";
+  height: auto;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 100px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: auto;
+  column-gap: 0spx;
+  grid-template-columns: 5.000097658157386fr 3.250063477802301fr 3.250063477802301fr 1.0000195316314773fr;
+  row-gap: 0spx;
+  grid-template-rows: minmax(100px,auto);
+  container-layout: GridContainerLayout;
+  align-self: stretch;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: stretch;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: responsive.components.Section;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.area.RectangleArea;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  background: rgba(var(--color_11),0);
+  style-type: ComponentStyle;
+}
+
+#comp-ljvfr7jd.variants-ljvfr7nk2 {
+  design-background-colorLayers: [{"fill":{"color":"color_11","type":"SolidColor"},"opacity":0,"type":"SolidColorLayer"}];
+  design-background-colorOverlay: "";
+  design-background-colorOverlayOpacity: 1;
+  design-background-type: "BackgroundMedia";
+  design-type: "MediaContainerWithDividers";
+  height: auto;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 100px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: auto;
+  column-gap: 0spx;
+  grid-template-columns: 4.428752664729583fr 4.428752664729583fr 4.428752664729583fr 1.000040924293777fr;
+  overflow-x: visible;
+  overflow-y: visible;
+  row-gap: 0spx;
+  grid-template-rows: minmax(100px,auto);
+  container-layout: GridContainerLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: responsive.components.Section;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.area.RectangleArea;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  background: rgba(var(--color_11),0);
+  style-type: ComponentStyle;
+}
+
+#comp-ljvfr7jd.variants-ljvfr7nk3 {
+  design-background-colorLayers: [{"fill":{"color":"color_11","type":"SolidColor"},"opacity":0,"type":"SolidColorLayer"}];
+  design-background-colorOverlay: "";
+  design-background-colorOverlayOpacity: 1;
+  design-background-type: "BackgroundMedia";
+  design-type: "MediaContainerWithDividers";
+  height: auto;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 129.789075px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: auto;
+  column-gap: 0spx;
+  grid-template-columns: 3.4fr 3.4fr 1fr;
+  overflow-x: visible;
+  overflow-y: visible;
+  row-gap: 0spx;
+  grid-template-rows: minmax(51.915625000000006px,auto) minmax(77.8734375px,auto);
+  container-layout: GridContainerLayout;
+  align-self: stretch;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: stretch;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: responsive.components.Section;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.area.RectangleArea;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  background: rgba(var(--color_11),0);
+  style-type: ComponentStyle;
+}
+
+#comp-lk6y2h0d {
+  override-color1: color_11;
+  opacity: 1;
+  stroke: disabled(rgba(94,151,255,1) 4px);
+  design-type: VectorImageDesignData;
+  height: 34.5px;
+  hidden: false;
+  component-layout: ComponentLayout;
+  width: 34.5px;
+  align-self: start;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: end;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 39.06283569991593%;
+  item-margin-top: 32.55526230981074%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  class-name: wysiwyg.viewer.components.VectorImage;
+  skin: skins.viewer.VectorImageSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-type: ComponentStyle;
+}
+
+#comp-lk6y2h0d.variants-ljvfr7nk3 {
+  height: 17px;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 25px;
+  align-self: start;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: end;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 25.3359375px;
+  item-margin-top: 38.703125%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.VectorImage;
+  page-id: ;
+  skin: skins.viewer.VectorImageSkin;
+  spx-ref-width: 768;
+  spx-resolver-type: scale;
+  style-type: ComponentStyle;
+}
+
+#comp-lk6y2h0d.variants-ljvfr7nk2 {
+  height: 28.953125px;
+  hidden: false;
+  component-layout: ComponentLayout;
+  width: 32px;
+  align-self: start;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: end;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 40.7644100018974%;
+  item-margin-top: 59.250122772881326%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-lk6y4qt7 {
+  height: auto;
+  hidden: false;
+  component-layout: ComponentLayout;
+  width: 300spx;
+  flex-direction: column;
+  container-layout: StackContainerLayout;
+  align-self: start;
+  item-margin-bottom: 0%;
+  item-margin-left: 0px;
+  item-margin-right: 0spx;
+  item-margin-top: 0%;
+  order: 2;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 768;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: mobile.core.components.Container;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.area.DefaultAreaSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  background: rgba(255,255,255,0);
+  border-color: rgba(initial,0);
+  border-width: 0px;
+  border-radius: 0px;
+  box-shadow: disabled(0px 0px 0px 0px rgba(0,0,0,0.6));
+  style-type: ComponentStyle;
+}
+
+#comp-lk6y4qt7.variants-ljclok925 {
+  height: auto;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 99.26633222905822%;
+  flex-direction: column;
+  container-layout: StackContainerLayout;
+  align-self: end;
+  item-margin-bottom: 0%;
+  item-margin-left: 0px;
+  item-margin-right: 0px;
+  item-margin-top: 0px;
+  order: 2;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 768;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: mobile.core.components.Container;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.area.DefaultAreaSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  background: rgba(255,255,255,0);
+  border-color: rgba(initial,0);
+  border-width: 0px;
+  border-radius: 0px;
+  box-shadow: disabled(0px 0px 0px 0px rgba(0,0,0,0.6));
+  style-type: ComponentStyle;
+}
+
+#comp-lk6y4qt7.variants-ljclok924 {
+  height: auto;
+  hidden: false;
+  component-layout: ComponentLayout;
+  width: 289.281spx;
+  align-self: start;
+  item-margin-bottom: 0%;
+  item-margin-left: 0px;
+  item-margin-right: 0spx;
+  item-margin-top: 0.3740449589776922%;
+  order: 2;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 768;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-lk6y4qtu {
+  height: auto;
+  hidden: false;
+  component-layout: ComponentLayout;
+  width: 100%;
+  flex-direction: column;
+  container-layout: StackContainerLayout;
+  align-self: start;
+  item-margin-bottom: 10%;
+  item-margin-left: 0px;
+  item-margin-right: 0%;
+  item-margin-top: 0px;
+  order: 1;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 768;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: mobile.core.components.Container;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.area.DefaultAreaSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  background: rgba(255,255,255,0);
+  border-color: rgba(initial,0);
+  border-width: 0px;
+  border-radius: 0px;
+  box-shadow: disabled(0px 0px 0px 0px rgba(0,0,0,0.6));
+  style-type: ComponentStyle;
+}
+
+#comp-lk6y4qtu.variants-ljclok925 {
+  height: auto;
+  hidden: false;
+  component-layout: ComponentLayout;
+  width: 100%;
+  flex-direction: column;
+  container-layout: StackContainerLayout;
+  align-self: start;
+  item-margin-bottom: 6.102648454075187%;
+  item-margin-left: 0px;
+  item-margin-right: 0%;
+  item-margin-top: 0px;
+  order: 1;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 768;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: mobile.core.components.Container;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.area.DefaultAreaSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  background: rgba(255,255,255,0);
+  border-color: rgba(initial,0);
+  border-width: 0px;
+  border-radius: 0px;
+  box-shadow: disabled(0px 0px 0px 0px rgba(0,0,0,0.6));
+  style-type: ComponentStyle;
+}
+
+#comp-lk6y4qtu.variants-ljclok924 {
+  height: auto;
+  hidden: false;
+  component-layout: ComponentLayout;
+  width: 99.30952590377342%;
+  align-self: end;
+  item-margin-bottom: 6.913686939613266%;
+  item-margin-left: 0px;
+  item-margin-right: 0%;
+  item-margin-top: 0px;
+  order: 1;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 768;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: mobile.core.components.Container;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.area.DefaultAreaSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  background: rgba(255,255,255,0);
+  border-color: rgba(initial,0);
+  border-width: 0px;
+  border-radius: 0px;
+  box-shadow: disabled(0px 0px 0px 0px rgba(0,0,0,0.6));
+  style-type: ComponentStyle;
+}
+
+#comp-lk6y4qtv12 {
+  height: auto;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 99.6515625%;
+  align-self: start;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0px;
+  order: 2;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.WRichText;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.WRichTextNewSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  color: rgb(var(--color_11));
+  font-family: poppins-extralight,poppins,sans-serif;
+  font-size: 24spx;
+  font-weight: bold;
+  max-font-size: 22px;
+  min-font-size: 16px;
+  text-align: left;
+  text-decoration: none;
+  style-type: ComponentStyle;
+}
+
+#comp-lk6y4qtv12.variants-ljclok925 {
+  height: auto;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 100%;
+  align-self: start;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0px;
+  order: 2;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.WRichText;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.WRichTextNewSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  color: rgb(var(--color_11));
+  font-family: poppins-extralight,poppins,sans-serif;
+  font-size: 52.513spx;
+  font-weight: bold;
+  max-font-size: 22px;
+  min-font-size: 16px;
+  text-align: left;
+  text-decoration: none;
+  style-type: ComponentStyle;
+}
+
+#comp-lk6y4qtv12.variants-ljclok924 {
+  height: auto;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 100%;
+  align-self: start;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0px;
+  order: 2;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.WRichText;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.WRichTextNewSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  color: rgb(var(--color_11));
+  font-family: poppins-extralight,poppins,sans-serif;
+  font-size: 33.333spx;
+  font-weight: bold;
+  max-font-size: 22px;
+  min-font-size: 16px;
+  text-align: left;
+  text-decoration: none;
+  style-type: ComponentStyle;
+}
+
+#comp-lk6y4qtw14 {
+  height: auto;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 100%;
+  align-self: start;
+  item-margin-bottom: 4%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0px;
+  order: 1;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.WRichText;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.WRichTextNewSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  color: rgb(var(--color_11));
+  font-family: poppins-extralight,poppins,sans-serif;
+  font-size: 22spx;
+  font-weight: bold;
+  max-font-size: 22px;
+  min-font-size: 16px;
+  text-align: left;
+  text-decoration: none;
+  style-type: ComponentStyle;
+}
+
+#comp-lk6y4qtw14.variants-ljclok924 {
+  height: auto;
+  hidden: false;
+  max-width: 99999px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 100%;
+  align-self: start;
+  item-margin-bottom: 2.8342411762100883%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0px;
+  order: 1;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 768;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.WRichText;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.WRichTextNewSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  color: rgb(var(--color_11));
+  font-family: poppins-extralight,poppins,sans-serif;
+  font-size: 33.333spx;
+  font-weight: bold;
+  max-font-size: 22px;
+  min-font-size: 16px;
+  text-align: left;
+  text-decoration: none;
+  style-type: ComponentStyle;
+}
+
+#comp-lk6y4qtw14.variants-ljclok925 {
+  height: auto;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 100%;
+  align-self: start;
+  item-margin-bottom: 3.0513242270375933%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0px;
+  order: 1;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.WRichText;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.WRichTextNewSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  color: rgb(var(--color_11));
+  font-family: poppins-extralight,poppins,sans-serif;
+  font-size: 52.513spx;
+  font-weight: bold;
+  max-font-size: 22px;
+  min-font-size: 16px;
+  text-align: left;
+  text-decoration: none;
+  style-type: ComponentStyle;
+}
+
+#comp-lk6ynwh3 {
+  height: auto;
+  hidden: false;
+  component-layout: ComponentLayout;
+  width: maxContent;
+  flex-direction: row;
+  container-layout: StackContainerLayout;
+  align-self: start;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: start;
+  item-margin-bottom: 0%;
+  item-margin-left: 9.993896484375%;
+  item-margin-right: 0%;
+  item-margin-top: 9.970703125%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 768;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: mobile.core.components.Container;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.area.DefaultAreaSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  background: rgba(255,255,255,0);
+  border-color: rgba(initial,0);
+  border-width: 0px;
+  border-radius: 0px;
+  box-shadow: disabled(0px 0px 0px 0px rgba(0,0,0,0.6));
+  style-type: ComponentStyle;
+}
+
+#comp-lk6ynwh3.variants-ljclok924 {
+  height: 336px;
+  hidden: false;
+  component-layout: ComponentLayout;
+  width: maxContent;
+  align-self: start;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: start;
+  item-margin-bottom: 0%;
+  item-margin-left: 6.571451822916667%;
+  item-margin-right: 50px;
+  item-margin-top: 10.3759765625%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 768;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-lk6ynwh3.variants-ljclok925 {
+  height: auto;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 330.15625px;
+  flex-direction: column;
+  container-layout: StackContainerLayout;
+  align-self: start;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: start;
+  item-margin-bottom: -0.0039743589743597325%;
+  item-margin-left: 7.652243589743589%;
+  item-margin-right: 0%;
+  item-margin-top: 15.496794871794872%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 768;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: mobile.core.components.Container;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.area.DefaultAreaSkin;
+  spx-ref-width: 390;
+  spx-resolver-type: scale;
+  background: rgba(255,255,255,0);
+  border-color: rgba(initial,0);
+  border-width: 0px;
+  border-radius: 0px;
+  box-shadow: disabled(0px 0px 0px 0px rgba(0,0,0,0.6));
+  style-type: ComponentStyle;
+}
+
+#comp-lk9dmcw3 {
+  height: 32px;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 220px;
+  align-self: start;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: start;
+  item-margin-bottom: 0%;
+  item-margin-left: 16.56180419294645%;
+  item-margin-right: 0%;
+  item-margin-top: 10.772802188721652%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wixui.StylableButton;
+  page-id: ;
+  skin: wixui.skins.Skinless;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-style-$st_css-value: ":import{-st-from: 'wix-ui-santa/index.st.css'\;-st-named: StylableButton}.root{-st-extends: StylableButton\;transition: all 0.2s ease, visibility 0s\;padding-right: 8px\;border: 0px solid value(site_1_5)\;border-radius: 0px\;background: rgba(0, 0, 0, 0)}.root:hover {\\n    border: 0px solid value(site_1_5)\;\\n    background: rgba(255, 255, 255, 0)\;\\n}.root:hover::icon {\\n    transform: rotate(90deg)\;\\n    fill: value(site_1_1)\;}.root:hover::label {\\n    font-family: avenir-lt-w01_35-light1475496,avenir-lt-w05_35-light,sans-serif\;\\n    text-shadow: 1px 0 rgba(0,0,0,0), -1px 0 rgba(0,0,0,0), 0 1px rgba(0,0,0,0), 0 -1px rgba(0,0,0,0)\;\\n    color: value(site_1_1)\;\\n    -st-mixin: font_8\;\\n    font-weight: 700\;\\n    font-size: 22px\;\\n}.root:disabled{background: #E2E2E2}.root:disabled::label{color: #8F8F8F}.root:disabled::icon{fill: #8F8F8F}.root::container{transition: inherit\;flex-direction: row\;justify-content: flex-start\;align-items: center}.root::label{transition: inherit\;letter-spacing: 0em\;margin: 0px 0px 0px 4px\;margin-left: 0px\;text-shadow: 1px 0 rgba(0,0,0,0), -1px 0 rgba(0,0,0,0), 0 1px rgba(0,0,0,0), 0 -1px rgba(0,0,0,0)\;background-color: rgba(255,255,255,0)\;margin-right: 3px\;display: initial\;-st-mixin: font_8\;font-size: 22px\;color: value(site_1_1)}.root::icon{transition: inherit\;display: inherited\;margin: 0px 4px 0px 0px\;margin-right: 0px\;margin-left: 3px\;transform: rotate(90deg)\;width: 25px\;height: 25px\;fill: value(site_1_1)}";
+  style-type: ComponentStyle;
+}
+
+#comp-lk9dmcw3.variants-ljvfr7nk2 {
+  height: 23.34375px;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 200px;
+  align-self: start;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: start;
+  item-margin-bottom: 0%;
+  item-margin-left: 8.400608204033972%;
+  item-margin-right: 0%;
+  item-margin-top: 14.848731298145985%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wixui.StylableButton;
+  page-id: ;
+  skin: wixui.skins.Skinless;
+  spx-ref-width: 768;
+  spx-resolver-type: scale;
+  style-style-$st_css-value: ":import{-st-from: 'wix-ui-santa/index.st.css'\;-st-named: StylableButton}.root{-st-extends: StylableButton\;transition: all 0.2s ease, visibility 0s\;padding-right: 8px\;border: 0px solid value(site_1_5)\;border-radius: 0px\;background: rgba(0, 0, 0, 0)}.root:hover {\\n    border: 0px solid value(site_1_5)\;\\n    background: rgba(255, 255, 255, 0)\;\\n}.root:hover::icon {\\n    transform: rotate(90deg)\;\\n    fill: value(site_1_1)\;}.root:hover::label {\\n    font-family: avenir-lt-w01_35-light1475496,avenir-lt-w05_35-light,sans-serif\;\\n    text-shadow: 1px 0 rgba(0,0,0,0), -1px 0 rgba(0,0,0,0), 0 1px rgba(0,0,0,0), 0 -1px rgba(0,0,0,0)\;\\n    color: value(site_1_1)\;\\n    -st-mixin: font_8\;\\n    font-weight: 700\;\\n    font-size: 20px\;\\n}.root:disabled{background: #E2E2E2}.root:disabled::label{color: #8F8F8F}.root:disabled::icon{fill: #8F8F8F}.root::container{transition: inherit\;flex-direction: row\;justify-content: flex-start\;align-items: center}.root::label{transition: inherit\;letter-spacing: 0em\;margin: 0px 0px 0px 4px\;margin-left: 0px\;text-shadow: 1px 0 rgba(0,0,0,0), -1px 0 rgba(0,0,0,0), 0 1px rgba(0,0,0,0), 0 -1px rgba(0,0,0,0)\;background-color: rgba(255,255,255,0)\;margin-right: 3px\;display: initial\;color: value(site_1_1)\;-st-mixin: font_8\;font-size: 20px}.root::icon{transition: inherit\;display: inherited\;margin: 0px 4px 0px 0px\;margin-right: 0px\;margin-left: 3px\;transform: rotate(90deg)\;width: 25px\;height: 25px\;fill: value(site_1_1)}";
+  style-type: ComponentStyle;
+}
+
+#comp-lk9dmcw3.variants-ljvfr7nk3 {
+  height: 25.296875px;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 150px;
+  align-self: start;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: start;
+  item-margin-bottom: 0%;
+  item-margin-left: 9.523809523809524%;
+  item-margin-right: 0%;
+  item-margin-top: 9.058779761904763%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wixui.StylableButton;
+  page-id: ;
+  skin: wixui.skins.Skinless;
+  spx-ref-width: 390;
+  spx-resolver-type: scale;
+  style-style-$st_css-value: ":import{-st-from: 'wix-ui-santa/index.st.css'\;-st-named: StylableButton}.root{-st-extends: StylableButton\;transition: all 0.2s ease, visibility 0s\;padding-right: 8px\;border: 0px solid value(site_1_5)\;border-radius: 0px\;background: rgba(0, 0, 0, 0)}.root:hover {\\n    border: 0px solid value(site_1_5)\;\\n    background: rgba(255, 255, 255, 0)\;\\n}.root:hover::icon {\\n    transform: rotate(90deg)\;\\n    fill: value(site_1_1)\;}.root:hover::label {\\n    font-family: avenir-lt-w01_35-light1475496,avenir-lt-w05_35-light,sans-serif\;\\n    text-shadow: 1px 0 rgba(0,0,0,0), -1px 0 rgba(0,0,0,0), 0 1px rgba(0,0,0,0), 0 -1px rgba(0,0,0,0)\;\\n    color: value(site_1_1)\;\\n    -st-mixin: font_8\;\\n    font-size: 16px\;\\n    font-weight: 700\;\\n}.root:disabled{background: #E2E2E2}.root:disabled::label{color: #8F8F8F}.root:disabled::icon{fill: #8F8F8F}.root::container{transition: inherit\;flex-direction: row\;justify-content: flex-start\;align-items: center}.root::label{transition: inherit\;letter-spacing: 0em\;margin: 0px 0px 0px 4px\;margin-left: 0px\;text-shadow: 1px 0 rgba(0,0,0,0), -1px 0 rgba(0,0,0,0), 0 1px rgba(0,0,0,0), 0 -1px rgba(0,0,0,0)\;background-color: rgba(255,255,255,0)\;margin-right: 3px\;display: initial\;color: value(site_1_1)\;-st-mixin: font_8\;font-size: 16px}.root::icon{transition: inherit\;display: inherited\;margin: 0px 4px 0px 0px\;margin-right: 0px\;margin-left: 3px\;transform: rotate(90deg)\;fill: value(site_1_1)\;width: 20px\;height: 20px}";
+  style-type: ComponentStyle;
+}
+
+#comp-lk9dnyi8 {
+  height: 32px;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 220px;
+  align-self: start;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: start;
+  item-margin-bottom: 0%;
+  item-margin-left: 16.392782236618718%;
+  item-margin-right: 0%;
+  item-margin-top: 10.93243403636451%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wixui.StylableButton;
+  page-id: ;
+  skin: wixui.skins.Skinless;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-style-$st_css-value: ":import{-st-from: 'wix-ui-santa/index.st.css'\;-st-named: StylableButton}.root{-st-extends: StylableButton\;transition: all 0.2s ease, visibility 0s\;padding-right: 8px\;border: 0px solid value(site_1_5)\;border-radius: 0px\;background: rgba(0, 0, 0, 0)}.root:hover {\\n    background: rgba(255, 255, 255, 0)\;\\n    border: 0px solid value(site_1_5)\;\\n}.root:hover::icon {\\n    transform: rotate(90deg)\;\\n    fill: value(site_1_1)\;}.root:hover::label {\\n    color: value(site_1_1)\;\\n    -st-mixin: font_8\;\\n    font-weight: 700\;\\n    font-size: 22px\;\\n}.root:disabled{background: #E2E2E2}.root:disabled::label{color: #8F8F8F}.root:disabled::icon{fill: #8F8F8F}.root::container{transition: inherit\;flex-direction: row\;justify-content: flex-start\;align-items: center}.root::label{transition: inherit\;letter-spacing: 0em\;margin: 0px 0px 0px 4px\;margin-left: 0px\;text-shadow: 1px 0 rgba(0,0,0,0), -1px 0 rgba(0,0,0,0), 0 1px rgba(0,0,0,0), 0 -1px rgba(0,0,0,0)\;background-color: rgba(255,255,255,0)\;margin-right: 3px\;display: initial\;-st-mixin: font_8\;font-size: 22px\;color: value(site_1_1)}.root::icon{transition: inherit\;display: inherited\;margin: 0px 4px 0px 0px\;margin-right: 0px\;margin-left: 3px\;transform: rotate(90deg)\;width: 25px\;height: 25px\;fill: value(site_1_1)}";
+  style-type: ComponentStyle;
+}
+
+#comp-lk9dnyi8.variants-ljvfr7nk2 {
+  height: 23.4453125px;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 200px;
+  align-self: start;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: start;
+  item-margin-bottom: 0%;
+  item-margin-left: 11.32769512512706%;
+  item-margin-right: 0%;
+  item-margin-top: 14.550115928393215%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wixui.StylableButton;
+  page-id: ;
+  skin: wixui.skins.Skinless;
+  spx-ref-width: 768;
+  spx-resolver-type: scale;
+  style-style-$st_css-value: ":import{-st-from: 'wix-ui-santa/index.st.css'\;-st-named: StylableButton}.root{-st-extends: StylableButton\;transition: all 0.2s ease, visibility 0s\;padding-right: 8px\;border: 0px solid value(site_1_5)\;border-radius: 0px\;background: rgba(0, 0, 0, 0)}.root:hover {\\n    background: rgba(255, 255, 255, 0)\;\\n    border: 0px solid value(site_1_5)\;\\n}.root:hover::icon {\\n    transform: rotate(90deg)\;\\n    fill: value(site_1_1)\;}.root:hover::label {\\n    color: value(site_1_1)\;\\n    -st-mixin: font_8\;\\n    font-weight: 700\;\\n    font-size: 20px\;\\n}.root:disabled{background: #E2E2E2}.root:disabled::label{color: #8F8F8F}.root:disabled::icon{fill: #8F8F8F}.root::container{transition: inherit\;flex-direction: row\;justify-content: flex-start\;align-items: center}.root::label{transition: inherit\;letter-spacing: 0em\;margin: 0px 0px 0px 4px\;margin-left: 0px\;text-shadow: 1px 0 rgba(0,0,0,0), -1px 0 rgba(0,0,0,0), 0 1px rgba(0,0,0,0), 0 -1px rgba(0,0,0,0)\;background-color: rgba(255,255,255,0)\;margin-right: 3px\;display: initial\;color: value(site_1_1)\;-st-mixin: font_8\;font-size: 20px}.root::icon{transition: inherit\;display: inherited\;margin: 0px 4px 0px 0px\;margin-right: 0px\;margin-left: 3px\;transform: rotate(90deg)\;width: 25px\;height: 25px\;fill: value(site_1_1)}";
+  style-type: ComponentStyle;
+}
+
+#comp-lk9dnyi8.variants-ljvfr7nk3 {
+  height: 24.90625px;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 150px;
+  align-self: start;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: start;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 9.053308823529411%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wixui.StylableButton;
+  page-id: ;
+  skin: wixui.skins.Skinless;
+  spx-ref-width: 390;
+  spx-resolver-type: scale;
+  style-style-$st_css-value: ":import{-st-from: 'wix-ui-santa/index.st.css'\;-st-named: StylableButton}.root{-st-extends: StylableButton\;transition: all 0.2s ease, visibility 0s\;padding-right: 8px\;border: 0px solid value(site_1_5)\;border-radius: 0px\;background: rgba(0, 0, 0, 0)}.root:hover {\\n    background: rgba(255, 255, 255, 0)\;\\n    border: 0px solid value(site_1_5)\;\\n}.root:hover::icon {\\n    transform: rotate(90deg)\;\\n    fill: value(site_1_1)\;}.root:hover::label {\\n    color: value(site_1_1)\;\\n    -st-mixin: font_8\;\\n    font-size: 16px\;\\n    font-weight: 700\;\\n}.root:disabled{background: #E2E2E2}.root:disabled::label{color: #8F8F8F}.root:disabled::icon{fill: #8F8F8F}.root::container{transition: inherit\;flex-direction: row\;justify-content: flex-start\;align-items: center}.root::label{transition: inherit\;letter-spacing: 0em\;margin: 0px 0px 0px 4px\;margin-left: 0px\;text-shadow: 1px 0 rgba(0,0,0,0), -1px 0 rgba(0,0,0,0), 0 1px rgba(0,0,0,0), 0 -1px rgba(0,0,0,0)\;background-color: rgba(255,255,255,0)\;margin-right: 3px\;display: initial\;color: value(site_1_1)\;-st-mixin: font_8\;font-size: 16px}.root::icon{transition: inherit\;display: inherited\;margin: 0px 4px 0px 0px\;margin-right: 0px\;margin-left: 3px\;transform: rotate(90deg)\;fill: value(site_1_1)\;width: 20px\;height: 20px}";
+  style-type: ComponentStyle;
+}
+
+#comp-lk9dxn0p {
+  height: 36px;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 325.625px;
+  align-self: end;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0px;
+  order: 1;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wixui.StylableButton;
+  page-id: ;
+  skin: wixui.skins.Skinless;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-style-$st_css-value: ":import{-st-from: 'wix-ui-santa/index.st.css'\;-st-named: StylableButton}.root{-st-extends: StylableButton\;transition: all 0.2s ease, visibility 0s\;padding-right: 8px\;border: 0px solid value(site_1_5)\;border-radius: 0px\;background: rgba(0, 0, 0, 0)}.root:hover {\\n    border: 0px solid value(site_1_5)\;\\n    background: rgba(255, 255, 255, 0)\;\\n}.root:hover::icon {\\n    fill: value(site_1_5)\;\\n    transform: rotate(90deg)\;}.root:hover::label {\\n    color: value(site_1_5)\;\\n    -st-mixin: font_8\;\\n    font-size: 20px\;\\n    font-weight: 700\;\\n}.root:disabled{background: #E2E2E2}.root:disabled::label{color: #8F8F8F}.root:disabled::icon{fill: #8F8F8F}.root::container{transition: inherit\;flex-direction: row\;justify-content: flex-end\;align-items: center}.root::label{transition: inherit\;letter-spacing: 0em\;margin: 0px 0px 0px 4px\;margin-left: 0px\;color: value(site_1_5)\;text-shadow: 1px 0 rgba(0,0,0,0), -1px 0 rgba(0,0,0,0), 0 1px rgba(0,0,0,0), 0 -1px rgba(0,0,0,0)\;background-color: rgba(255,255,255,0)\;margin-right: 3px\;display: initial\;-st-mixin: font_8\;font-size: 20px}.root::icon{transition: inherit\;display: inherited\;margin: 0px 4px 0px 0px\;margin-right: 0px\;fill: value(site_1_5)\;margin-left: 3px\;transform: rotate(90deg)\;width: 20px\;height: 20px}";
+  style-type: ComponentStyle;
+}
+
+#comp-lk9dxn0p.variants-ljclok922 {
+  height: 36px;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 129.0546875px;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wixui.StylableButton;
+  page-id: ;
+  skin: wixui.skins.Skinless;
+  spx-ref-width: 390;
+  spx-resolver-type: scale;
+  style-style-$st_css-value: ":import{-st-from: 'wix-ui-santa/index.st.css'\;-st-named: StylableButton}.root{-st-extends: StylableButton\;transition: all 0.2s ease, visibility 0s\;padding-right: 8px\;border: 0px solid value(site_1_5)\;border-radius: 0px\;background: rgba(0, 0, 0, 0)}.root:hover {\\n    background: rgba(255, 255, 255, 0)\;\\n    border: 0px solid value(site_1_5)\;\\n}.root:hover::icon {\\n    fill: value(site_1_5)\;\\n    transform: rotate(90deg)\;}.root:hover::label {\\n    color: value(site_1_5)\;\\n    -st-mixin: font_8\;\\n    font-weight: 700\;\\n    font-size: 18px\;\\n}.root:disabled{background: #E2E2E2}.root:disabled::label{color: #8F8F8F}.root:disabled::icon{fill: #8F8F8F}.root::container{transition: inherit\;flex-direction: row\;justify-content: flex-end\;align-items: center}.root::label{transition: inherit\;letter-spacing: 0em\;margin: 0px 0px 0px 4px\;margin-left: 0px\;color: value(site_1_5)\;text-shadow: 1px 0 rgba(0,0,0,0), -1px 0 rgba(0,0,0,0), 0 1px rgba(0,0,0,0), 0 -1px rgba(0,0,0,0)\;background-color: rgba(255,255,255,0)\;margin-right: 3px\;display: initial\;-st-mixin: font_8\;font-size: 16px}.root::icon{transition: inherit\;display: inherited\;margin: 0px 4px 0px 0px\;margin-right: 0px\;fill: value(site_1_5)\;margin-left: 3px\;transform: rotate(90deg)\;width: 16px\;height: 16px}";
+  style-type: ComponentStyle;
+}
+
+#comp-lk9dxn0p.variants-ljclok921 {
+  comp-id: ;
+  class-name: wixui.StylableButton;
+  page-id: ;
+  skin: wixui.skins.Skinless;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-style-$st_css-value: ":import{-st-from: 'wix-ui-santa/index.st.css'\;-st-named: StylableButton}.root{-st-extends: StylableButton\;transition: all 0.2s ease, visibility 0s\;padding-right: 8px\;border: 0px solid value(site_1_5)\;border-radius: 0px\;background: rgba(0, 0, 0, 0)}.root:hover {\\n    background: rgba(255, 255, 255, 0)\;\\n    border: 0px solid value(site_1_5)\;\\n}.root:hover::icon {\\n    fill: value(site_1_5)\;\\n    transform: rotate(90deg)\;\\n    width: 18px\;\\n    height: 18px\;}.root:hover::label {\\n    color: value(site_1_5)\;\\n    -st-mixin: font_8\;\\n    font-size: 18px\;\\n    font-weight: 700\;\\n}.root:disabled{background: #E2E2E2}.root:disabled::label{color: #8F8F8F}.root:disabled::icon{fill: #8F8F8F}.root::container{transition: inherit\;flex-direction: row\;justify-content: flex-end\;align-items: center}.root::label{transition: inherit\;letter-spacing: 0em\;margin: 0px 0px 0px 4px\;margin-left: 0px\;color: value(site_1_5)\;text-shadow: 1px 0 rgba(0,0,0,0), -1px 0 rgba(0,0,0,0), 0 1px rgba(0,0,0,0), 0 -1px rgba(0,0,0,0)\;background-color: rgba(255,255,255,0)\;margin-right: 3px\;display: initial\;-st-mixin: font_8\;font-size: 18px}.root::icon{transition: inherit\;display: inherited\;margin: 0px 4px 0px 0px\;margin-right: 0px\;fill: value(site_1_5)\;margin-left: 3px\;transform: rotate(90deg)\;width: 18px\;height: 18px}";
+  style-type: ComponentStyle;
+}
+
+#comp-lk9dxyie {
+  height: 36px;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 325.625px;
+  align-self: end;
+  item-margin-bottom: -0.0023992322456813818%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0px;
+  order: 2;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wixui.StylableButton;
+  page-id: ;
+  skin: wixui.skins.Skinless;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-style-$st_css-value: ":import{-st-from: 'wix-ui-santa/index.st.css'\;-st-named: StylableButton}.root{-st-extends: StylableButton\;transition: all 0.2s ease, visibility 0s\;padding-right: 8px\;border: 0px solid value(site_1_5)\;border-radius: 0px\;background: rgba(0, 0, 0, 0)}.root:hover {\\n    border: 0px solid value(site_1_5)\;\\n    background: rgba(255, 255, 255, 0)\;\\n}.root:hover::icon {\\n    fill: value(site_1_5)\;\\n    transform: rotate(90deg)\;}.root:hover::label {\\n    color: value(site_1_5)\;\\n    -st-mixin: font_8\;\\n    font-size: 20px\;\\n    font-weight: 700\;\\n}.root:disabled{background: #E2E2E2}.root:disabled::label{color: #8F8F8F}.root:disabled::icon{fill: #8F8F8F}.root::container{transition: inherit\;flex-direction: row\;justify-content: flex-end\;align-items: center}.root::label{transition: inherit\;letter-spacing: 0em\;margin: 0px 0px 0px 4px\;margin-left: 0px\;color: value(site_1_5)\;text-shadow: 1px 0 rgba(0,0,0,0), -1px 0 rgba(0,0,0,0), 0 1px rgba(0,0,0,0), 0 -1px rgba(0,0,0,0)\;background-color: rgba(255,255,255,0)\;margin-right: 3px\;display: initial\;-st-mixin: font_8\;font-size: 20px}.root::icon{transition: inherit\;display: inherited\;margin: 0px 4px 0px 0px\;margin-right: 0px\;fill: value(site_1_5)\;margin-left: 3px\;transform: rotate(90deg)\;width: 20px\;height: 20px}";
+  style-type: ComponentStyle;
+}
+
+#comp-lk9dxyie.variants-ljclok922 {
+  height: 36px;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 129.0546875px;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wixui.StylableButton;
+  page-id: ;
+  skin: wixui.skins.Skinless;
+  spx-ref-width: 390;
+  spx-resolver-type: scale;
+  style-style-$st_css-value: ":import{-st-from: 'wix-ui-santa/index.st.css'\;-st-named: StylableButton}.root{-st-extends: StylableButton\;transition: all 0.2s ease, visibility 0s\;padding-right: 8px\;border: 0px solid value(site_1_5)\;border-radius: 0px\;background: rgba(0, 0, 0, 0)}.root:hover {\\n    background: rgba(255, 255, 255, 0)\;\\n    border: 0px solid value(site_1_5)\;\\n}.root:hover::icon {\\n    fill: value(site_1_5)\;\\n    transform: rotate(90deg)\;\\n    width: 16px\;\\n    height: 16px\;}.root:hover::label {\\n    color: value(site_1_5)\;\\n    -st-mixin: font_8\;\\n    font-size: 16px\;\\n    font-weight: 700\;\\n}.root:disabled{background: #E2E2E2}.root:disabled::label{color: #8F8F8F}.root:disabled::icon{fill: #8F8F8F}.root::container{transition: inherit\;flex-direction: row\;justify-content: flex-end\;align-items: center}.root::label{transition: inherit\;letter-spacing: 0em\;margin: 0px 0px 0px 4px\;margin-left: 0px\;color: value(site_1_5)\;text-shadow: 1px 0 rgba(0,0,0,0), -1px 0 rgba(0,0,0,0), 0 1px rgba(0,0,0,0), 0 -1px rgba(0,0,0,0)\;background-color: rgba(255,255,255,0)\;margin-right: 3px\;display: initial\;-st-mixin: font_8\;font-size: 16px}.root::icon{transition: inherit\;display: inherited\;margin: 0px 4px 0px 0px\;margin-right: 0px\;fill: value(site_1_5)\;margin-left: 3px\;transform: rotate(90deg)\;width: 16px\;height: 16px}";
+  style-type: ComponentStyle;
+}
+
+#comp-lk9dxyie.variants-ljclok921 {
+  comp-id: ;
+  class-name: wixui.StylableButton;
+  page-id: ;
+  skin: wixui.skins.Skinless;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-style-$st_css-value: ":import{-st-from: 'wix-ui-santa/index.st.css'\;-st-named: StylableButton}.root{-st-extends: StylableButton\;transition: all 0.2s ease, visibility 0s\;padding-right: 8px\;border: 0px solid value(site_1_5)\;border-radius: 0px\;background: rgba(0, 0, 0, 0)}.root:hover {\\n    background: rgba(255, 255, 255, 0)\;\\n    border: 0px solid value(site_1_5)\;\\n}.root:hover::icon {\\n    fill: value(site_1_5)\;\\n    transform: rotate(90deg)\;\\n    width: 18px\;\\n    height: 18px\;}.root:hover::label {\\n    color: value(site_1_5)\;\\n    -st-mixin: font_8\;\\n    font-size: 18px\;\\n    font-weight: 700\;\\n}.root:disabled{background: #E2E2E2}.root:disabled::label{color: #8F8F8F}.root:disabled::icon{fill: #8F8F8F}.root::container{transition: inherit\;flex-direction: row\;justify-content: flex-end\;align-items: center}.root::label{transition: inherit\;letter-spacing: 0em\;margin: 0px 0px 0px 4px\;margin-left: 0px\;color: value(site_1_5)\;text-shadow: 1px 0 rgba(0,0,0,0), -1px 0 rgba(0,0,0,0), 0 1px rgba(0,0,0,0), 0 -1px rgba(0,0,0,0)\;background-color: rgba(255,255,255,0)\;margin-right: 3px\;display: initial\;-st-mixin: font_8\;font-size: 18px}.root::icon{transition: inherit\;display: inherited\;margin: 0px 4px 0px 0px\;margin-right: 0px\;fill: value(site_1_5)\;margin-left: 3px\;transform: rotate(90deg)\;width: 18px\;height: 18px}";
+  style-type: ComponentStyle;
+}
+
+#comp-lk9dy0lh {
+  height: 36px;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 325.625px;
+  align-self: end;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0px;
+  order: 4;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wixui.StylableButton;
+  page-id: ;
+  skin: wixui.skins.Skinless;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-style-$st_css-value: ":import{-st-from: 'wix-ui-santa/index.st.css'\;-st-named: StylableButton}.root{-st-extends: StylableButton\;transition: all 0.2s ease, visibility 0s\;padding-right: 8px\;border: 0px solid value(site_1_5)\;border-radius: 0px\;background: rgba(0, 0, 0, 0)}.root:hover {\\n    background: rgba(255, 255, 255, 0)\;\\n    border: 0px solid value(site_1_5)\;\\n}.root:hover::icon {\\n    fill: value(site_1_5)\;\\n    transform: rotate(90deg)\;}.root:hover::label {\\n    color: value(site_1_5)\;\\n    -st-mixin: font_8\;\\n    font-size: 20px\;\\n    font-weight: 700\;\\n}.root:disabled{background: #E2E2E2}.root:disabled::label{color: #8F8F8F}.root:disabled::icon{fill: #8F8F8F}.root::container{transition: inherit\;flex-direction: row\;justify-content: flex-end\;align-items: center}.root::label{transition: inherit\;letter-spacing: 0em\;margin: 0px 0px 0px 4px\;margin-left: 0px\;color: value(site_1_5)\;text-shadow: 1px 0 rgba(0,0,0,0), -1px 0 rgba(0,0,0,0), 0 1px rgba(0,0,0,0), 0 -1px rgba(0,0,0,0)\;background-color: rgba(255,255,255,0)\;margin-right: 3px\;display: initial\;-st-mixin: font_8\;font-size: 20px}.root::icon{transition: inherit\;display: inherited\;margin: 0px 4px 0px 0px\;margin-right: 0px\;fill: value(site_1_5)\;margin-left: 3px\;transform: rotate(90deg)\;width: 20px\;height: 20px}";
+  style-type: ComponentStyle;
+}
+
+#comp-lk9dy0lh.variants-ljclok922 {
+  height: 36px;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 129.0546875px;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wixui.StylableButton;
+  page-id: ;
+  skin: wixui.skins.Skinless;
+  spx-ref-width: 390;
+  spx-resolver-type: scale;
+  style-style-$st_css-value: ":import{-st-from: 'wix-ui-santa/index.st.css'\;-st-named: StylableButton}.root{-st-extends: StylableButton\;transition: all 0.2s ease, visibility 0s\;padding-right: 8px\;border: 0px solid value(site_1_5)\;border-radius: 0px\;background: rgba(0, 0, 0, 0)}.root:hover {\\n    background: rgba(255, 255, 255, 0)\;\\n    border: 0px solid value(site_1_5)\;\\n}.root:hover::icon {\\n    fill: value(site_1_5)\;\\n    transform: rotate(90deg)\;\\n    width: 16px\;\\n    height: 16px\;}.root:hover::label {\\n    color: value(site_1_5)\;\\n    -st-mixin: font_8\;\\n    font-size: 16px\;\\n    font-weight: 700\;\\n}.root:disabled{background: #E2E2E2}.root:disabled::label{color: #8F8F8F}.root:disabled::icon{fill: #8F8F8F}.root::container{transition: inherit\;flex-direction: row\;justify-content: flex-end\;align-items: center}.root::label{transition: inherit\;letter-spacing: 0em\;margin: 0px 0px 0px 4px\;margin-left: 0px\;color: value(site_1_5)\;text-shadow: 1px 0 rgba(0,0,0,0), -1px 0 rgba(0,0,0,0), 0 1px rgba(0,0,0,0), 0 -1px rgba(0,0,0,0)\;background-color: rgba(255,255,255,0)\;margin-right: 3px\;display: initial\;-st-mixin: font_8\;font-size: 16px}.root::icon{transition: inherit\;display: inherited\;margin: 0px 4px 0px 0px\;margin-right: 0px\;fill: value(site_1_5)\;margin-left: 3px\;transform: rotate(90deg)\;width: 16px\;height: 16px}";
+  style-type: ComponentStyle;
+}
+
+#comp-lk9dy0lh.variants-ljclok921 {
+  comp-id: ;
+  class-name: wixui.StylableButton;
+  page-id: ;
+  skin: wixui.skins.Skinless;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-style-$st_css-value: ":import{-st-from: 'wix-ui-santa/index.st.css'\;-st-named: StylableButton}.root{-st-extends: StylableButton\;transition: all 0.2s ease, visibility 0s\;padding-right: 8px\;border: 0px solid value(site_1_5)\;border-radius: 0px\;background: rgba(0, 0, 0, 0)}.root:hover {\\n    background: rgba(255, 255, 255, 0)\;\\n    border: 0px solid value(site_1_5)\;\\n}.root:hover::icon {\\n    fill: value(site_1_5)\;\\n    transform: rotate(90deg)\;\\n    width: 18px\;\\n    height: 18px\;}.root:hover::label {\\n    color: value(site_1_5)\;\\n    -st-mixin: font_8\;\\n    font-size: 18px\;\\n    font-weight: 700\;\\n}.root:disabled{background: #E2E2E2}.root:disabled::label{color: #8F8F8F}.root:disabled::icon{fill: #8F8F8F}.root::container{transition: inherit\;flex-direction: row\;justify-content: flex-end\;align-items: center}.root::label{transition: inherit\;letter-spacing: 0em\;margin: 0px 0px 0px 4px\;margin-left: 0px\;color: value(site_1_5)\;text-shadow: 1px 0 rgba(0,0,0,0), -1px 0 rgba(0,0,0,0), 0 1px rgba(0,0,0,0), 0 -1px rgba(0,0,0,0)\;background-color: rgba(255,255,255,0)\;margin-right: 3px\;display: initial\;-st-mixin: font_8\;font-size: 18px}.root::icon{transition: inherit\;display: inherited\;margin: 0px 4px 0px 0px\;margin-right: 0px\;fill: value(site_1_5)\;margin-left: 3px\;transform: rotate(90deg)\;width: 18px\;height: 18px}";
+  style-type: ComponentStyle;
+}
+
+#comp-lk9dy3xw {
+  height: 36px;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 325.625px;
+  align-self: end;
+  item-margin-bottom: 0.0023992322456813818%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0px;
+  order: 3;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wixui.StylableButton;
+  page-id: ;
+  skin: wixui.skins.Skinless;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-style-$st_css-value: ":import{-st-from: 'wix-ui-santa/index.st.css'\;-st-named: StylableButton}.root{-st-extends: StylableButton\;transition: all 0.2s ease, visibility 0s\;padding-right: 8px\;border: 0px solid value(site_1_5)\;border-radius: 0px\;background: rgba(0, 0, 0, 0)}.root:hover {\\n    border: 0px solid value(site_1_5)\;\\n    background: rgba(255, 255, 255, 0)\;\\n}.root:hover::icon {\\n    fill: value(site_1_5)\;\\n    transform: rotate(90deg)\;}.root:hover::label {\\n    color: value(site_1_5)\;\\n    -st-mixin: font_8\;\\n    font-size: 20px\;\\n    font-weight: 700\;\\n}.root:disabled{background: #E2E2E2}.root:disabled::label{color: #8F8F8F}.root:disabled::icon{fill: #8F8F8F}.root::container{transition: inherit\;flex-direction: row\;justify-content: flex-end\;align-items: center}.root::label{transition: inherit\;letter-spacing: 0em\;margin: 0px 0px 0px 4px\;margin-left: 0px\;color: value(site_1_5)\;text-shadow: 1px 0 rgba(0,0,0,0), -1px 0 rgba(0,0,0,0), 0 1px rgba(0,0,0,0), 0 -1px rgba(0,0,0,0)\;background-color: rgba(255,255,255,0)\;margin-right: 3px\;display: initial\;-st-mixin: font_8\;font-size: 20px}.root::icon{transition: inherit\;display: inherited\;margin: 0px 4px 0px 0px\;margin-right: 0px\;fill: value(site_1_5)\;margin-left: 3px\;transform: rotate(90deg)\;width: 20px\;height: 20px}";
+  style-type: ComponentStyle;
+}
+
+#comp-lk9dy3xw.variants-ljclok922 {
+  height: 36px;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 129.0546875px;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wixui.StylableButton;
+  page-id: ;
+  skin: wixui.skins.Skinless;
+  spx-ref-width: 390;
+  spx-resolver-type: scale;
+  style-style-$st_css-value: ":import{-st-from: 'wix-ui-santa/index.st.css'\;-st-named: StylableButton}.root{-st-extends: StylableButton\;transition: all 0.2s ease, visibility 0s\;padding-right: 8px\;border: 0px solid value(site_1_5)\;border-radius: 0px\;background: rgba(0, 0, 0, 0)}.root:hover {\\n    background: rgba(255, 255, 255, 0)\;\\n    border: 0px solid value(site_1_5)\;\\n}.root:hover::icon {\\n    fill: value(site_1_5)\;\\n    transform: rotate(90deg)\;}.root:hover::label {\\n    color: value(site_1_5)\;\\n    -st-mixin: font_8\;\\n    font-size: 16px\;\\n    font-weight: 700\;\\n}.root:disabled{background: #E2E2E2}.root:disabled::label{color: #8F8F8F}.root:disabled::icon{fill: #8F8F8F}.root::container{transition: inherit\;flex-direction: row\;justify-content: flex-end\;align-items: center}.root::label{transition: inherit\;letter-spacing: 0em\;margin: 0px 0px 0px 4px\;margin-left: 0px\;color: value(site_1_5)\;text-shadow: 1px 0 rgba(0,0,0,0), -1px 0 rgba(0,0,0,0), 0 1px rgba(0,0,0,0), 0 -1px rgba(0,0,0,0)\;background-color: rgba(255,255,255,0)\;margin-right: 3px\;display: initial\;-st-mixin: font_8\;font-size: 16px}.root::icon{transition: inherit\;display: inherited\;margin: 0px 4px 0px 0px\;margin-right: 0px\;fill: value(site_1_5)\;margin-left: 3px\;transform: rotate(90deg)\;width: 16px\;height: 16px}";
+  style-type: ComponentStyle;
+}
+
+#comp-lk9dy3xw.variants-ljclok921 {
+  comp-id: ;
+  class-name: wixui.StylableButton;
+  page-id: ;
+  skin: wixui.skins.Skinless;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-style-$st_css-value: ":import{-st-from: 'wix-ui-santa/index.st.css'\;-st-named: StylableButton}.root{-st-extends: StylableButton\;transition: all 0.2s ease, visibility 0s\;padding-right: 8px\;border: 0px solid value(site_1_5)\;border-radius: 0px\;background: rgba(0, 0, 0, 0)}.root:hover {\\n    background: rgba(255, 255, 255, 0)\;\\n    border: 0px solid value(site_1_5)\;\\n}.root:hover::icon {\\n    fill: value(site_1_5)\;\\n    transform: rotate(90deg)\;}.root:hover::label {\\n    color: value(site_1_5)\;\\n    -st-mixin: font_8\;\\n    font-size: 18px\;\\n    font-weight: 700\;\\n}.root:disabled{background: #E2E2E2}.root:disabled::label{color: #8F8F8F}.root:disabled::icon{fill: #8F8F8F}.root::container{transition: inherit\;flex-direction: row\;justify-content: flex-end\;align-items: center}.root::label{transition: inherit\;letter-spacing: 0em\;margin: 0px 0px 0px 4px\;margin-left: 0px\;color: value(site_1_5)\;text-shadow: 1px 0 rgba(0,0,0,0), -1px 0 rgba(0,0,0,0), 0 1px rgba(0,0,0,0), 0 -1px rgba(0,0,0,0)\;background-color: rgba(255,255,255,0)\;margin-right: 3px\;display: initial\;-st-mixin: font_8\;font-size: 18px}.root::icon{transition: inherit\;display: inherited\;margin: 0px 4px 0px 0px\;margin-right: 0px\;fill: value(site_1_5)\;margin-left: 3px\;transform: rotate(90deg)\;width: 18px\;height: 18px}";
+  style-type: ComponentStyle;
+}
+
+#comp-lk9fm7rj {
+  design-background-colorLayers: [{"fill":{"color":"color_11","type":"SolidColor"},"opacity":1,"type":"SolidColorLayer"}];
+  design-background-colorOverlay: "";
+  design-background-colorOverlayOpacity: 1;
+  design-background-type: "BackgroundMedia";
+  design-type: "MediaContainerWithDividers";
+  height: auto;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 100.1171875px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: auto;
+  column-gap: 0spx;
+  grid-template-columns: 5.000097658157386fr 3.250063477802301fr 3.250063477802301fr 1.0000195316314773fr;
+  row-gap: 0spx;
+  grid-template-rows: minmax(100.1171875px,auto);
+  container-layout: GridContainerLayout;
+  align-self: stretch;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: stretch;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: responsive.components.HeaderSection;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.area.RectangleArea;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  background: rgba(var(--color_11),0);
+  style-type: ComponentStyle;
+}
+
+#comp-lk9fm7rj.variants-lk9fm7rz2 {
+  design-background-colorLayers: [{"fill":{"color":"color_11","type":"SolidColor"},"opacity":1,"type":"SolidColorLayer"}];
+  design-background-colorOverlay: "";
+  design-background-colorOverlayOpacity: 1;
+  design-background-type: "BackgroundMedia";
+  design-type: "MediaContainerWithDividers";
+  column-gap: 0spx;
+  grid-template-columns: 4.428752664729583fr 4.428752664729583fr 4.428752664729583fr 1.000040924293777fr;
+  row-gap: 0spx;
+  grid-template-rows: minmax(100.1171875px,auto);
+  container-layout: GridContainerLayout;
+  layout-spx-refWidth: 768;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: responsive.components.HeaderSection;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.area.RectangleArea;
+  spx-ref-width: 768;
+  spx-resolver-type: scale;
+  background: rgba(var(--color_11),0);
+  style-type: ComponentStyle;
+}
+
+#comp-lk9fm7rj.variants-lk9fm7rz3 {
+  design-background-colorLayers: [{"fill":{"color":"color_11","type":"SolidColor"},"opacity":1,"type":"SolidColorLayer"}];
+  design-background-colorOverlay: "";
+  design-background-colorOverlayOpacity: 1;
+  design-background-type: "BackgroundMedia";
+  design-type: "MediaContainerWithDividers";
+  height: auto;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 128.14839999999998px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: auto;
+  column-gap: 0spx;
+  grid-template-columns: 169.648fr 169.648fr 50fr 0fr;
+  row-gap: 0spx;
+  grid-template-rows: minmax(51.25625px,auto) minmax(76.88437499999999px,auto);
+  container-layout: GridContainerLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: responsive.components.HeaderSection;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.area.RectangleArea;
+  spx-ref-width: 390;
+  spx-resolver-type: scale;
+  background: rgba(var(--color_11),0);
+  style-type: ComponentStyle;
+}
+
+#comp-lk9fm7s9 {
+  height: auto;
+  hidden: false;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: auto;
+  grid-template-columns: minmax(0px,1fr);
+  grid-template-rows: minmax(maxContent,100%);
+  container-layout: GridContainerLayout;
+  align-self: stretch;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: stretch;
+  item-margin-bottom: 0px;
+  item-margin-left: 0px;
+  item-margin-right: 0px;
+  item-margin-top: 0px;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: mobile.core.components.Container;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.area.DefaultAreaSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  background: rgba(var(--color_11),0);
+  border-color: rgba(initial,0);
+  border-width: 0px;
+  border-radius: 0px;
+  box-shadow: disabled(0px 0px 0px 0px rgba(0,0,0,0.6));
+  style-type: ComponentStyle;
+}
+
+#comp-lk9fm7s9.variants-lk9fm7rz2 {
+  align-self: stretch;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: stretch;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 768;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-lk9fm7s9.variants-lk9fm7rz3 {
+  height: auto;
+  hidden: false;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: auto;
+  grid-template-columns: minmax(0px,1fr);
+  grid-template-rows: minmax(maxContent,100%);
+  container-layout: GridContainerLayout;
+  align-self: stretch;
+  grid-column-end: 4;
+  grid-column-start: 1;
+  grid-row-end: 3;
+  grid-row-start: 2;
+  justify-self: stretch;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-lk9fm7sh8 {
+  height: auto;
+  hidden: false;
+  component-layout: ComponentLayout;
+  width: 50.68359375%;
+  flex-direction: column;
+  container-layout: StackContainerLayout;
+  align-self: start;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: start;
+  item-margin-bottom: 0%;
+  item-margin-left: 40px;
+  item-margin-right: 0%;
+  item-margin-top: 16px;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: mobile.core.components.Container;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.area.DefaultAreaSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  background: rgba(var(--color_11),0.0);
+  border-color: rgba(initial,0);
+  border-width: 0px;
+  border-radius: 0px;
+  box-shadow: disabled(0px 0px 0px 0px rgba(0,0,0,0.6));
+  style-type: ComponentStyle;
+}
+
+#comp-lk9fm7sh8.variants-lk9fm7rz2 {
+  height: auto;
+  hidden: false;
+  component-layout: ComponentLayout;
+  width: 84.05812891166464%;
+  align-self: start;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: start;
+  item-margin-bottom: 0%;
+  item-margin-left: 25px;
+  item-margin-right: 0%;
+  item-margin-top: 17.8046875px;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: mobile.core.components.Container;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.area.DefaultAreaSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  background: rgba(var(--color_11),0.0);
+  border-color: rgba(initial,0);
+  border-width: 0px;
+  border-radius: 0px;
+  box-shadow: disabled(0px 0px 0px 0px rgba(0,0,0,0.6));
+  style-type: ComponentStyle;
+}
+
+#comp-lk9fm7sh8.variants-lk9fm7rz3 {
+  height: auto;
+  hidden: false;
+  component-layout: ComponentLayout;
+  width: 61.65208316609135%;
+  align-self: start;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: start;
+  item-margin-bottom: 0%;
+  item-margin-left: 3.9898092084475416%;
+  item-margin-right: 0%;
+  item-margin-top: 2.683287178920706%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-lk9fm7sj7 {
+  height: auto;
+  hidden: false;
+  max-width: 99999px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 260px;
+  align-self: start;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0px;
+  order: 2;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 768;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.WRichText;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.WRichTextNewSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  color: rgb(var(--color_15));
+  font-size: 16px;
+  letter-spacing: 0.05em;
+  text-decoration: none;
+  style-type: ComponentStyle;
+}
+
+#comp-lk9fm7sj7.variants-lk9fm7rz3 {
+  height: auto;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 234.359375px;
+  align-self: stretch;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0px;
+  order: 2;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 768;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.WRichText;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.WRichTextNewSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  color: rgb(var(--color_15));
+  font-size: 14px;
+  letter-spacing: 0.05em;
+  text-decoration: none;
+  style-type: ComponentStyle;
+}
+
+#comp-lk9fm7sj7.variants-lk9fm7rz2 {
+  height: auto;
+  hidden: false;
+  max-width: 99999px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 200.1484375px;
+  layout-spx-refWidth: 768;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.WRichText;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.WRichTextNewSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  color: rgb(var(--color_15));
+  font-size: 14px;
+  letter-spacing: 0.05em;
+  text-decoration: none;
+  style-type: ComponentStyle;
+}
+
+#comp-lk9fm7sm5 {
+  height: auto;
+  hidden: false;
+  max-width: 99999px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 100%;
+  align-self: start;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0px;
+  order: 1;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.WRichText;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.WRichTextNewSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  color: rgb(var(--color_15));
+  font-family: poppins-extralight,poppins,sans-serif;
+  font-size: 22spx;
+  font-weight: normal;
+  letter-spacing: 0.81em;
+  line-height: 1.2em;
+  text-align: left;
+  text-decoration: none;
+  style-type: ComponentStyle;
+}
+
+#comp-lk9fm7sm5.variants-lk9fm7rz3 {
+  height: auto;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 100%;
+  align-self: start;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0px;
+  order: 1;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.WRichText;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.WRichTextNewSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  color: rgb(var(--color_15));
+  font-family: poppins-extralight,poppins,sans-serif;
+  font-size: 50.244spx;
+  font-weight: normal;
+  letter-spacing: 0.81em;
+  line-height: 1.2em;
+  max-font-size: 20px;
+  min-font-size: 12.87166975432092px;
+  text-align: left;
+  text-decoration: none;
+  style-type: ComponentStyle;
+}
+
+#comp-lk9fm7sm5.variants-lk9fm7rz2 {
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.WRichText;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.WRichTextNewSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  color: rgb(var(--color_15));
+  font-family: poppins-extralight,poppins,sans-serif;
+  font-size: 33.333spx;
+  font-weight: normal;
+  letter-spacing: 0.81em;
+  line-height: 1.2em;
+  max-font-size: 26px;
+  min-font-size: 20px;
+  text-align: left;
+  text-decoration: none;
+  style-type: ComponentStyle;
+}
+
+#comp-lk9fm7sz {
+  height: auto;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: auto;
+  grid-template-columns: minmax(0px,1fr);
+  grid-template-rows: minmax(maxContent,100%);
+  container-layout: GridContainerLayout;
+  align-self: stretch;
+  grid-column-end: 3;
+  grid-column-start: 2;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: stretch;
+  item-margin-bottom: 0px;
+  item-margin-left: 0px;
+  item-margin-right: 0px;
+  item-margin-top: 0px;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 768;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: mobile.core.components.Container;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.area.DefaultAreaSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  background: rgba(var(--color_11),0);
+  border-color: rgba(initial,0);
+  border-width: 0px;
+  border-radius: 0px;
+  box-shadow: disabled(0px 0px 0px 0px rgba(0,0,0,0.6));
+  style-type: ComponentStyle;
+}
+
+#comp-lk9fm7sz.variants-lk9fm7rz2 {
+  align-self: stretch;
+  grid-column-end: 3;
+  grid-column-start: 2;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: stretch;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 768;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-lk9fm7sz.variants-lk9fm7rz3 {
+  height: auto;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: auto;
+  grid-template-columns: minmax(0px,1fr);
+  grid-template-rows: minmax(maxContent,100%);
+  container-layout: GridContainerLayout;
+  align-self: stretch;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: stretch;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-lk9fm7t59 {
+  height: 31.75px;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 220px;
+  align-self: start;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: start;
+  item-margin-bottom: 0%;
+  item-margin-left: 16.60405968202838%;
+  item-margin-right: 0%;
+  item-margin-top: 10.83853294951577%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wixui.StylableButton;
+  page-id: ;
+  skin: wixui.skins.Skinless;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-style-$st_css-value: ":import{-st-from: 'wix-ui-santa/index.st.css'\;-st-named: StylableButton}.root{-st-extends: StylableButton\;transition: all 0.2s ease, visibility 0s\;padding-right: 8px\;border: 0px solid value(site_1_5)\;border-radius: 0px\;background: rgba(0, 0, 0, 0)}.root:hover {\\n    border: 0px solid value(site_1_5)\;\\n    background: rgba(255, 255, 255, 0)\;\\n}.root:hover::icon {\\n    fill: value(site_1_5)\;\\n    transform: rotate(90deg)\;}.root:hover::label {\\n    color: value(site_1_5)\;\\n    font-family: avenir-lt-w01_35-light1475496,avenir-lt-w05_35-light,sans-serif\;\\n    text-shadow: 1px 0 rgba(0,0,0,0), -1px 0 rgba(0,0,0,0), 0 1px rgba(0,0,0,0), 0 -1px rgba(0,0,0,0)\;\\n    -st-mixin: font_8\;\\n    font-weight: 700\;\\n    font-size: 22px\;\\n}.root:disabled{background: #E2E2E2}.root:disabled::label{color: #8F8F8F}.root:disabled::icon{fill: #8F8F8F}.root::container{transition: inherit\;flex-direction: row\;justify-content: flex-start\;align-items: center}.root::label{transition: inherit\;letter-spacing: 0em\;margin: 0px 0px 0px 4px\;margin-left: 0px\;color: value(site_1_5)\;text-shadow: 1px 0 rgba(0,0,0,0), -1px 0 rgba(0,0,0,0), 0 1px rgba(0,0,0,0), 0 -1px rgba(0,0,0,0)\;background-color: rgba(255,255,255,0)\;margin-right: 3px\;display: initial\;-st-mixin: font_8\;font-size: 22px}.root::icon{transition: inherit\;display: inherited\;margin: 0px 4px 0px 0px\;margin-right: 0px\;fill: value(site_1_5)\;margin-left: 3px\;transform: rotate(90deg)\;width: 22px\;height: 22px}";
+  style-type: ComponentStyle;
+}
+
+#comp-lk9fm7t59.variants-lk9fm7rz2 {
+  height: 22.734375px;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 200px;
+  align-self: start;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: start;
+  item-margin-bottom: 0%;
+  item-margin-left: 8.279193163585044%;
+  item-margin-right: 0%;
+  item-margin-top: 14.720753282537656%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wixui.StylableButton;
+  page-id: ;
+  skin: wixui.skins.Skinless;
+  spx-ref-width: 768;
+  spx-resolver-type: scale;
+  style-style-$st_css-value: ":import{-st-from: 'wix-ui-santa/index.st.css'\;-st-named: StylableButton}.root{-st-extends: StylableButton\;transition: all 0.2s ease, visibility 0s\;padding-right: 8px\;border: 0px solid value(site_1_5)\;border-radius: 0px\;background: rgba(0, 0, 0, 0)}.root:hover {\\n    border: 0px solid value(site_1_5)\;\\n    background: rgba(255, 255, 255, 0)\;\\n}.root:hover::icon {\\n    fill: value(site_1_5)\;\\n    transform: rotate(90deg)\;}.root:hover::label {\\n    color: value(site_1_5)\;\\n    font-family: avenir-lt-w01_35-light1475496,avenir-lt-w05_35-light,sans-serif\;\\n    text-shadow: 1px 0 rgba(0,0,0,0), -1px 0 rgba(0,0,0,0), 0 1px rgba(0,0,0,0), 0 -1px rgba(0,0,0,0)\;\\n    -st-mixin: font_8\;\\n    font-weight: 700\;\\n    font-size: 20px\;\\n}.root:disabled{background: #E2E2E2}.root:disabled::label{color: #8F8F8F}.root:disabled::icon{fill: #8F8F8F}.root::container{transition: inherit\;flex-direction: row\;justify-content: flex-start\;align-items: center}.root::label{transition: inherit\;letter-spacing: 0em\;margin: 0px 0px 0px 4px\;margin-left: 0px\;color: value(site_1_5)\;text-shadow: 1px 0 rgba(0,0,0,0), -1px 0 rgba(0,0,0,0), 0 1px rgba(0,0,0,0), 0 -1px rgba(0,0,0,0)\;background-color: rgba(255,255,255,0)\;margin-right: 3px\;display: initial\;-st-mixin: font_8\;font-size: 20px}.root::icon{transition: inherit\;display: inherited\;margin: 0px 4px 0px 0px\;margin-right: 0px\;fill: value(site_1_5)\;margin-left: 3px\;transform: rotate(90deg)\;width: 20px\;height: 20px}";
+  style-type: ComponentStyle;
+}
+
+#comp-lk9fm7t59.variants-lk9fm7rz3 {
+  height: 25.390625px;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 150px;
+  align-self: start;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: start;
+  item-margin-bottom: 0%;
+  item-margin-left: 9.648131937444369%;
+  item-margin-right: 0%;
+  item-margin-top: 8.888255197741113%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wixui.StylableButton;
+  page-id: ;
+  skin: wixui.skins.Skinless;
+  spx-ref-width: 390;
+  spx-resolver-type: scale;
+  style-style-$st_css-value: ":import{-st-from: 'wix-ui-santa/index.st.css'\;-st-named: StylableButton}.root{-st-extends: StylableButton\;transition: all 0.2s ease, visibility 0s\;padding-right: 8px\;border: 0px solid value(site_1_5)\;border-radius: 0px\;background: rgba(0, 0, 0, 0)}.root:hover {\\n    border: 0px solid value(site_1_5)\;\\n    background: rgba(255, 255, 255, 0)\;\\n}.root:hover::icon {\\n    fill: value(site_1_5)\;\\n    transform: rotate(90deg)\;}.root:hover::label {\\n    color: value(site_1_5)\;\\n    font-family: avenir-lt-w01_35-light1475496,avenir-lt-w05_35-light,sans-serif\;\\n    text-shadow: 1px 0 rgba(0,0,0,0), -1px 0 rgba(0,0,0,0), 0 1px rgba(0,0,0,0), 0 -1px rgba(0,0,0,0)\;\\n    -st-mixin: font_8\;\\n    font-weight: 700\;\\n    font-size: 16px\;\\n}.root:disabled{background: #E2E2E2}.root:disabled::label{color: #8F8F8F}.root:disabled::icon{fill: #8F8F8F}.root::container{transition: inherit\;flex-direction: row\;justify-content: flex-start\;align-items: center}.root::label{transition: inherit\;letter-spacing: 0em\;margin: 0px 0px 0px 4px\;margin-left: 0px\;color: value(site_1_5)\;text-shadow: 1px 0 rgba(0,0,0,0), -1px 0 rgba(0,0,0,0), 0 1px rgba(0,0,0,0), 0 -1px rgba(0,0,0,0)\;background-color: rgba(255,255,255,0)\;display: initial\;-st-mixin: font_8\;font-size: 16px\;font-weight: 400\;margin-right: 1.5px}.root::icon{transition: inherit\;display: inherited\;margin: 0px 4px 0px 0px\;margin-right: 0px\;fill: value(site_1_5)\;transform: rotate(90deg)\;margin-left: 1.5px\;width: 20px\;height: 20px}";
+  style-type: ComponentStyle;
+}
+
+#comp-lk9fm7tf {
+  height: auto;
+  hidden: false;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: auto;
+  grid-template-columns: minmax(0px,1fr);
+  grid-template-rows: minmax(maxContent,100%);
+  container-layout: GridContainerLayout;
+  align-self: stretch;
+  grid-column-end: 4;
+  grid-column-start: 3;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: stretch;
+  item-margin-bottom: 0px;
+  item-margin-left: 0px;
+  item-margin-right: 0px;
+  item-margin-top: 0px;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: mobile.core.components.Container;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.area.DefaultAreaSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  background: rgba(var(--color_11),0);
+  border-color: rgba(initial,0);
+  border-width: 0px;
+  border-radius: 0px;
+  box-shadow: disabled(0px 0px 0px 0px rgba(0,0,0,0.6));
+  style-type: ComponentStyle;
+}
+
+#comp-lk9fm7tf.variants-lk9fm7rz2 {
+  height: auto;
+  hidden: false;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: auto;
+  grid-template-columns: minmax(0px,1fr);
+  grid-template-rows: 1fr;
+  container-layout: GridContainerLayout;
+  align-self: stretch;
+  grid-column-end: 4;
+  grid-column-start: 3;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: stretch;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 768;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-lk9fm7tf.variants-lk9fm7rz3 {
+  height: auto;
+  hidden: false;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: auto;
+  grid-template-columns: minmax(0px,1fr);
+  grid-template-rows: 1fr;
+  container-layout: GridContainerLayout;
+  align-self: stretch;
+  grid-column-end: 3;
+  grid-column-start: 2;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: stretch;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-lk9fm7tj9 {
+  height: 31.859375px;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 220px;
+  align-self: start;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: start;
+  item-margin-bottom: 0%;
+  item-margin-left: 16.65570527979519%;
+  item-margin-right: 0%;
+  item-margin-top: 10.80801509628993%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 373;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wixui.StylableButton;
+  page-id: ;
+  skin: wixui.skins.Skinless;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-style-$st_css-value: ":import{-st-from: 'wix-ui-santa/index.st.css'\;-st-named: StylableButton}.root{-st-extends: StylableButton\;transition: all 0.2s ease, visibility 0s\;padding-right: 8px\;border: 0px solid value(site_1_5)\;border-radius: 0px\;background: rgba(0, 0, 0, 0)}.root:hover {\\n    background: rgba(255, 255, 255, 0)\;\\n    border: 0px solid value(site_1_5)\;\\n}.root:hover::icon {\\n    fill: value(site_1_5)\;\\n    transform: rotate(90deg)\;}.root:hover::label {\\n    color: value(site_1_5)\;\\n    -st-mixin: font_8\;\\n    font-weight: 700\;\\n    font-size: 22px\;\\n}.root:disabled{background: #E2E2E2}.root:disabled::label{color: #8F8F8F}.root:disabled::icon{fill: #8F8F8F}.root::container{transition: inherit\;flex-direction: row\;justify-content: flex-start\;align-items: center}.root::label{transition: inherit\;letter-spacing: 0em\;margin: 0px 0px 0px 4px\;margin-left: 0px\;color: value(site_1_5)\;text-shadow: 1px 0 rgba(0,0,0,0), -1px 0 rgba(0,0,0,0), 0 1px rgba(0,0,0,0), 0 -1px rgba(0,0,0,0)\;background-color: rgba(255,255,255,0)\;margin-right: 3px\;display: initial\;-st-mixin: font_8\;font-size: 22px}.root::icon{transition: inherit\;display: inherited\;margin: 0px 4px 0px 0px\;margin-right: 0px\;fill: value(site_1_5)\;margin-left: 3px\;transform: rotate(90deg)\;width: 22px\;height: 22px}";
+  style-type: ComponentStyle;
+}
+
+#comp-lk9fm7tj9.variants-lk9fm7rz2 {
+  height: 22.6484375px;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 200px;
+  align-self: start;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: start;
+  item-margin-bottom: 0%;
+  item-margin-left: 11.419960515814676%;
+  item-margin-right: 0%;
+  item-margin-top: 14.717966354433571%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 373;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wixui.StylableButton;
+  page-id: ;
+  skin: wixui.skins.Skinless;
+  spx-ref-width: 768;
+  spx-resolver-type: scale;
+  style-style-$st_css-value: ":import{-st-from: 'wix-ui-santa/index.st.css'\;-st-named: StylableButton}.root{-st-extends: StylableButton\;transition: all 0.2s ease, visibility 0s\;padding-right: 8px\;border: 0px solid value(site_1_5)\;border-radius: 0px\;background: rgba(0, 0, 0, 0)}.root:hover {\\n    background: rgba(255, 255, 255, 0)\;\\n    border: 0px solid value(site_1_5)\;\\n}.root:hover::icon {\\n    fill: value(site_1_5)\;\\n    transform: rotate(90deg)\;}.root:hover::label {\\n    color: value(site_1_5)\;\\n    -st-mixin: font_8\;\\n    font-weight: 700\;\\n    font-size: 20px\;\\n}.root:disabled{background: #E2E2E2}.root:disabled::label{color: #8F8F8F}.root:disabled::icon{fill: #8F8F8F}.root::container{transition: inherit\;flex-direction: row\;justify-content: flex-start\;align-items: center}.root::label{transition: inherit\;letter-spacing: 0em\;margin: 0px 0px 0px 4px\;margin-left: 0px\;color: value(site_1_5)\;text-shadow: 1px 0 rgba(0,0,0,0), -1px 0 rgba(0,0,0,0), 0 1px rgba(0,0,0,0), 0 -1px rgba(0,0,0,0)\;background-color: rgba(255,255,255,0)\;margin-right: 3px\;display: initial\;-st-mixin: font_8\;font-size: 20px}.root::icon{transition: inherit\;display: inherited\;margin: 0px 4px 0px 0px\;margin-right: 0px\;fill: value(site_1_5)\;margin-left: 3px\;transform: rotate(90deg)\;width: 20px\;height: 20px}";
+  style-type: ComponentStyle;
+}
+
+#comp-lk9fm7tj9.variants-lk9fm7rz3 {
+  height: 25.4375px;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 150px;
+  align-self: start;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: start;
+  item-margin-bottom: 0%;
+  item-margin-left: -0.21147729579752317%;
+  item-margin-right: 0%;
+  item-margin-top: 8.872433819141541%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 373;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wixui.StylableButton;
+  page-id: ;
+  skin: wixui.skins.Skinless;
+  spx-ref-width: 390;
+  spx-resolver-type: scale;
+  style-style-$st_css-value: ":import{-st-from: 'wix-ui-santa/index.st.css'\;-st-named: StylableButton}.root{-st-extends: StylableButton\;transition: all 0.2s ease, visibility 0s\;padding-right: 8px\;border: 0px solid value(site_1_5)\;border-radius: 0px\;background: rgba(0, 0, 0, 0)}.root:hover {\\n    background: rgba(255, 255, 255, 0)\;\\n    border: 0px solid value(site_1_5)\;\\n}.root:hover::icon {\\n    fill: value(site_1_5)\;\\n    transform: rotate(90deg)\;}.root:hover::label {\\n    color: value(site_1_5)\;\\n    -st-mixin: font_8\;\\n    font-weight: 700\;\\n    font-size: 16px\;\\n}.root:disabled{background: #E2E2E2}.root:disabled::label{color: #8F8F8F}.root:disabled::icon{fill: #8F8F8F}.root::container{transition: inherit\;flex-direction: row\;justify-content: flex-start\;align-items: center}.root::label{transition: inherit\;letter-spacing: 0em\;margin: 0px 0px 0px 4px\;margin-left: 0px\;color: value(site_1_5)\;text-shadow: 1px 0 rgba(0,0,0,0), -1px 0 rgba(0,0,0,0), 0 1px rgba(0,0,0,0), 0 -1px rgba(0,0,0,0)\;background-color: rgba(255,255,255,0)\;display: initial\;-st-mixin: font_8\;font-size: 16px\;margin-right: 1.5px}.root::icon{transition: inherit\;display: inherited\;margin: 0px 4px 0px 0px\;margin-right: 0px\;fill: value(site_1_5)\;transform: rotate(90deg)\;margin-left: 1.5px\;width: 20px\;height: 20px}";
+  style-type: ComponentStyle;
+}
+
+#comp-lk9fm7tu {
+  height: auto;
+  hidden: false;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: auto;
+  grid-template-columns: minmax(0px,1fr);
+  grid-template-rows: minmax(maxContent,100%);
+  container-layout: GridContainerLayout;
+  align-self: stretch;
+  grid-column-end: 5;
+  grid-column-start: 4;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: stretch;
+  item-margin-bottom: 0px;
+  item-margin-left: 0px;
+  item-margin-right: 0px;
+  item-margin-top: 0px;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: mobile.core.components.Container;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.area.DefaultAreaSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  background: rgba(var(--color_11),0);
+  border-color: rgba(initial,0);
+  border-width: 0px;
+  border-radius: 0px;
+  box-shadow: disabled(0px 0px 0px 0px rgba(0,0,0,0.6));
+  style-type: ComponentStyle;
+}
+
+#comp-lk9fm7tu.variants-lk9fm7rz2 {
+  height: auto;
+  hidden: false;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: auto;
+  grid-template-columns: minmax(0px,1fr);
+  grid-template-rows: 1fr;
+  container-layout: GridContainerLayout;
+  align-self: stretch;
+  grid-column-end: 5;
+  grid-column-start: 4;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: stretch;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 768;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-lk9fm7tu.variants-lk9fm7rz3 {
+  height: auto;
+  hidden: false;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: auto;
+  grid-template-columns: minmax(0px,1fr);
+  grid-template-rows: 1fr;
+  container-layout: GridContainerLayout;
+  align-self: stretch;
+  grid-column-end: 4;
+  grid-column-start: 3;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: stretch;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-lk9fm7tz {
+  override-color1: color_15;
+  opacity: 1;
+  stroke: disabled(rgba(94,151,255,1) 4px);
+  design-type: VectorImageDesignData;
+  height: 34.5px;
+  hidden: false;
+  component-layout: ComponentLayout;
+  width: 34.5px;
+  align-self: start;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: end;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 39.05103964215612%;
+  item-margin-top: 32.03864353312303%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 768;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  class-name: wysiwyg.viewer.components.VectorImage;
+  skin: skins.viewer.VectorImageSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-type: ComponentStyle;
+}
+
+#comp-lk9fm7tz.variants-lk9fm7rz3 {
+  height: 17.125px;
+  hidden: false;
+  component-layout: ComponentLayout;
+  width: 25px;
+  align-self: start;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: end;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 25px;
+  item-margin-top: 38.363131935881626%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 768;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-lk9fm7tz.variants-lk9fm7rz2 {
+  height: 29.125px;
+  hidden: false;
+  component-layout: ComponentLayout;
+  width: 31.75px;
+  align-self: start;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: end;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 22.492174999999975px;
+  item-margin-top: 58.88680340341308%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 768;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-lk9m9px5 {
+  height: auto;
+  hidden: false;
+  max-width: 99999px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 100%;
+  align-self: start;
+  item-margin-bottom: 8.16841164453524%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  order: 2;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.WRichText;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.WRichTextNewSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  font-weight: bold;
+  max-font-size: 24px;
+  min-font-size: 18px;
+  text-align: left;
+  text-decoration: none;
+  style-type: ComponentStyle;
+}
+
+#comp-lk9m9px5.variants-lk9m9pxt {
+  reactions-type: "Reactions";
+}
+
+#comp-lk9m9px5.variants-ljclok921 {
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.WRichText;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.WRichTextNewSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  font-weight: bold;
+  max-font-size: 24px;
+  min-font-size: 18px;
+  text-align: left;
+  text-decoration: none;
+  style-type: ComponentStyle;
+}
+
+#comp-lk9m9px5.variants-ljclok922 {
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.WRichText;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.WRichTextNewSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  font-weight: bold;
+  max-font-size: 24px;
+  min-font-size: 16px;
+  text-align: left;
+  text-decoration: none;
+  style-type: ComponentStyle;
+}
+
+#comp-lk9rpybq {
+  height: auto;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 168px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 100%;
+  align-self: start;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  order: 3;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.ExpandableMenu;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.ResponsiveExpandableMenuSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-style-arrowColor-value: "color_15";
+  background: rgba(var(--color_11),0.0);
+  style-style-bgexpanded-additionalData-alpha: "0.0";
+  style-style-bgexpanded-value: "color_11";
+  background-color-hover: rgba(230,234,245,1);
+  style-style-bgs-additionalData-alpha: "0.0";
+  style-style-bgs-value: "color_11";
+  style-style-bgsSub-additionalData-alpha: "0.0";
+  style-style-bgsSub-value: "color_11";
+  border-color: rgba(var(--color_15),0.0);
+  border-width: 0px;
+  font: overrides(var(--font_8),initial initial 30px initial);
+  style-style-fntSubMenu-value: "font_8";
+  style-style-menuSpacing-value: "0.0";
+  border-radius: 90px;
+  style-style-separatorHeight-value: "15";
+  style-style-sepw-value: "1";
+  box-shadow: disabled(0px 1px 4px 0px rgba(0,0,0,0.6));
+  style-style-SKINS\\_bgSubmenu-additionalData-alpha: "0";
+  style-style-SKINS\\_fntSubmenu-value: "normal normal normal 16px/1.4em din-next-w01-light #8D8D8D";
+  style-style-SKINS\\_submenuBR-value: "90px";
+  style-style-SKINS\\_submenuMargin-value: "0";
+  style-style-subMenuSpacing-value: "0";
+  style-style-textSpacing-value: "0";
+  text: rgb(var(--color_15));
+  style-style-txtexpanded-value: "color_15";
+  style-style-txts-value: "color_18";
+  style-style-txtsSub-value: "color_18";
+  padding-vertical: 0.0;
+  style-type: ComponentStyle;
+}
+
+#comp-lk9rpybq.variants-ljclok922 {
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.ExpandableMenu;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.ResponsiveExpandableMenuSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-style-arrowColor-value: "color_15";
+  background: rgba(var(--color_11),0.0);
+  style-style-bgexpanded-additionalData-alpha: "0.0";
+  style-style-bgexpanded-value: "color_11";
+  background-color-hover: rgba(230,234,245,1);
+  style-style-bgs-additionalData-alpha: "0.0";
+  style-style-bgs-value: "color_11";
+  style-style-bgsSub-additionalData-alpha: "0.0";
+  style-style-bgsSub-value: "color_11";
+  border-color: rgba(var(--color_15),0.0);
+  border-width: 0px;
+  font: overrides(var(--font_8),initial initial 20px initial);
+  style-style-fntSubMenu-value: "font_8";
+  style-style-menuSpacing-value: "0.0";
+  border-radius: 90px;
+  style-style-separatorHeight-value: "15";
+  style-style-sepw-value: "1";
+  box-shadow: disabled(0px 1px 4px 0px rgba(0,0,0,0.6));
+  style-style-SKINS\\_bgSubmenu-additionalData-alpha: "0";
+  style-style-SKINS\\_fntSubmenu-value: "normal normal normal 16px/1.4em din-next-w01-light #8D8D8D";
+  style-style-SKINS\\_submenuBR-value: "90px";
+  style-style-SKINS\\_submenuMargin-value: "0";
+  style-style-subMenuSpacing-value: "0";
+  style-style-textSpacing-value: "0";
+  text: rgb(var(--color_15));
+  style-style-txtexpanded-value: "color_15";
+  style-style-txts-value: "color_18";
+  style-style-txtsSub-value: "color_18";
+  padding-vertical: 0.0;
+  style-type: ComponentStyle;
+}
+
+#comp-lk9rpybq.variants-ljclok921 {
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.ExpandableMenu;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.ResponsiveExpandableMenuSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-style-arrowColor-value: "color_15";
+  background: rgba(var(--color_11),0.0);
+  style-style-bgexpanded-additionalData-alpha: "0.0";
+  style-style-bgexpanded-value: "color_11";
+  background-color-hover: rgba(230,234,245,1);
+  style-style-bgs-additionalData-alpha: "0.0";
+  style-style-bgs-value: "color_11";
+  style-style-bgsSub-additionalData-alpha: "0.0";
+  style-style-bgsSub-value: "color_11";
+  border-color: rgba(var(--color_15),0.0);
+  border-width: 0px;
+  font: overrides(var(--font_8),initial initial 30px initial);
+  style-style-fntSubMenu-overrides-fontSize: "30px";
+  style-style-fntSubMenu-value: "font_8";
+  style-style-menuSpacing-value: "0.0";
+  border-radius: 90px;
+  style-style-separatorHeight-value: "15";
+  style-style-sepw-value: "1";
+  box-shadow: disabled(0px 1px 4px 0px rgba(0,0,0,0.6));
+  style-style-SKINS\\_bgSubmenu-additionalData-alpha: "0";
+  style-style-SKINS\\_fntSubmenu-value: "normal normal normal 16px/1.4em din-next-w01-light #8D8D8D";
+  style-style-SKINS\\_submenuBR-value: "90px";
+  style-style-SKINS\\_submenuMargin-value: "0";
+  style-style-subMenuSpacing-value: "0";
+  style-style-textSpacing-value: "0";
+  text: rgb(var(--color_15));
+  style-style-txtexpanded-value: "color_15";
+  style-style-txts-value: "color_18";
+  style-style-txtsSub-value: "color_18";
+  padding-vertical: 0.0;
+  style-type: ComponentStyle;
+}
+
+#comp-lk9xicln {
+  height: 36px;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 325.60937500000006px;
+  align-self: start;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0px;
+  order: 2;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wixui.StylableButton;
+  page-id: ;
+  skin: wixui.skins.Skinless;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-style-$st_css-value: ":import{-st-from: 'wix-ui-santa/index.st.css'\;-st-named: StylableButton}.root{-st-extends: StylableButton\;transition: all 0.2s ease, visibility 0s\;padding-right: 8px\;border: 0px solid value(site_1_5)\;border-radius: 0px\;background: rgba(0, 0, 0, 0)}.root:hover {\\n    border: 0px solid value(site_1_5)\;\\n    background: rgba(255, 255, 255, 0)\;\\n}.root:hover::icon {\\n    transform: rotate(90deg)\;\\n    width: 22px\;\\n    height: 22px\;\\n    fill: value(site_1_1)\;}.root:hover::label {\\n    -st-mixin: font_8\;\\n    font-size: 22px\;\\n    font-weight: 700\;\\n    color: value(site_1_1)\;\\n}.root:disabled{background: #E2E2E2}.root:disabled::label{color: #8F8F8F}.root:disabled::icon{fill: #8F8F8F}.root::container{transition: inherit\;flex-direction: row-reverse\;justify-content: flex-end\;align-items: center}.root::label{transition: inherit\;letter-spacing: 0em\;margin: 0px 0px 0px 4px\;text-shadow: 1px 0 rgba(0,0,0,0), -1px 0 rgba(0,0,0,0), 0 1px rgba(0,0,0,0), 0 -1px rgba(0,0,0,0)\;background-color: rgba(255,255,255,0)\;display: initial\;-st-mixin: font_8\;font-size: 22px\;color: value(site_1_1)\;margin-right: 0px\;margin-left: 5px}.root::icon{transition: inherit\;display: inherited\;margin: 0px 4px 0px 0px\;transform: rotate(90deg)\;fill: value(site_1_1)\;margin-left: 0px\;margin-right: 5px\;width: 20px\;height: 20px}";
+  style-type: ComponentStyle;
+}
+
+#comp-lk9xicln.variants-ljclok925 {
+  height: 36px;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 213.4216823730469px;
+  align-self: start;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0px;
+  order: 2;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wixui.StylableButton;
+  page-id: ;
+  skin: wixui.skins.Skinless;
+  spx-ref-width: 390;
+  spx-resolver-type: scale;
+  style-style-$st_css-value: ":import{-st-from: 'wix-ui-santa/index.st.css'\;-st-named: StylableButton}.root{-st-extends: StylableButton\;transition: all 0.2s ease, visibility 0s\;padding-right: 8px\;border: 0px solid value(site_1_5)\;border-radius: 0px\;background: rgba(0, 0, 0, 0)}.root:hover {\\n    background: rgba(255, 255, 255, 0)\;\\n    border: 0px solid value(site_1_5)\;\\n}.root:hover::icon {\\n    transform: rotate(90deg)\;\\n    fill: value(site_1_1)\;\\n    width: 18px\;\\n    height: 18px\;}.root:hover::label {\\n    -st-mixin: font_8\;\\n    font-weight: 700\;\\n    font-size: 18px\;\\n    color: value(site_1_1)\;\\n}.root:disabled{background: #E2E2E2}.root:disabled::label{color: #8F8F8F}.root:disabled::icon{fill: #8F8F8F}.root::container{transition: inherit\;flex-direction: row-reverse\;justify-content: flex-end\;align-items: center}.root::label{transition: inherit\;letter-spacing: 0em\;margin: 0px 0px 0px 4px\;text-shadow: 1px 0 rgba(0,0,0,0), -1px 0 rgba(0,0,0,0), 0 1px rgba(0,0,0,0), 0 -1px rgba(0,0,0,0)\;background-color: rgba(255,255,255,0)\;display: initial\;-st-mixin: font_8\;font-size: 18px\;margin-right: 0px\;margin-left: 5px\;color: value(site_1_1)}.root::icon{transition: inherit\;display: inherited\;margin: 0px 4px 0px 0px\;transform: rotate(90deg)\;margin-left: 0px\;margin-right: 5px\;fill: value(site_1_1)\;width: 18px\;height: 18px}";
+  style-type: ComponentStyle;
+}
+
+#comp-lk9xicln.variants-ljclok924 {
+  height: 36px;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 286.609375px;
+  align-self: start;
+  item-margin-bottom: 0%;
+  item-margin-left: 0.16474019660797234%;
+  item-margin-right: 0%;
+  item-margin-top: 0px;
+  order: 2;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wixui.StylableButton;
+  page-id: ;
+  skin: wixui.skins.Skinless;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-style-$st_css-value: ":import{-st-from: 'wix-ui-santa/index.st.css'\;-st-named: StylableButton}.root{-st-extends: StylableButton\;transition: all 0.2s ease, visibility 0s\;padding-right: 8px\;border: 0px solid value(site_1_5)\;border-radius: 0px\;background: rgba(0, 0, 0, 0)}.root:hover {\\n    background: rgba(255, 255, 255, 0)\;\\n    border: 0px solid value(site_1_5)\;\\n}.root:hover::icon {\\n    transform: rotate(90deg)\;\\n    fill: value(site_1_1)\;\\n    width: 20px\;\\n    height: 20px\;}.root:hover::label {\\n    color: value(site_1_1)\;\\n    -st-mixin: font_8\;\\n    font-size: 20px\;\\n    font-weight: 700\;\\n}.root:disabled{background: #E2E2E2}.root:disabled::label{color: #8F8F8F}.root:disabled::icon{fill: #8F8F8F}.root::container{transition: inherit\;flex-direction: row-reverse\;justify-content: flex-end\;align-items: center}.root::label{transition: inherit\;letter-spacing: 0em\;margin: 0px 0px 0px 4px\;text-shadow: 1px 0 rgba(0,0,0,0), -1px 0 rgba(0,0,0,0), 0 1px rgba(0,0,0,0), 0 -1px rgba(0,0,0,0)\;background-color: rgba(255,255,255,0)\;display: initial\;margin-right: 0px\;margin-left: 5px\;-st-mixin: font_8\;font-size: 20px\;color: value(site_1_1)}.root::icon{transition: inherit\;display: inherited\;margin: 0px 4px 0px 0px\;transform: rotate(90deg)\;margin-left: 0px\;margin-right: 5px\;fill: value(site_1_1)\;width: 20px\;height: 20px}";
+  style-type: ComponentStyle;
+}
+
+#comp-lk9xidtf {
+  height: 36px;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 325.60937500000006px;
+  align-self: start;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0px;
+  order: 3;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wixui.StylableButton;
+  page-id: ;
+  skin: wixui.skins.Skinless;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-style-$st_css-value: ":import{-st-from: 'wix-ui-santa/index.st.css'\;-st-named: StylableButton}.root{-st-extends: StylableButton\;transition: all 0.2s ease, visibility 0s\;padding-right: 8px\;border: 0px solid value(site_1_5)\;border-radius: 0px\;background: rgba(0, 0, 0, 0)}.root:hover {\\n    border: 0px solid value(site_1_5)\;\\n    background: rgba(255, 255, 255, 0)\;\\n}.root:hover::icon {\\n    transform: rotate(90deg)\;\\n    fill: value(site_1_1)\;}.root:hover::label {\\n    color: value(site_1_1)\;\\n    -st-mixin: font_8\;\\n    font-size: 22px\;\\n    font-weight: 700\;\\n}.root:disabled{background: #E2E2E2}.root:disabled::label{color: #8F8F8F}.root:disabled::icon{fill: #8F8F8F}.root::container{transition: inherit\;flex-direction: row-reverse\;justify-content: flex-end\;align-items: center}.root::label{transition: inherit\;letter-spacing: 0em\;margin: 0px 0px 0px 4px\;text-shadow: 1px 0 rgba(0,0,0,0), -1px 0 rgba(0,0,0,0), 0 1px rgba(0,0,0,0), 0 -1px rgba(0,0,0,0)\;background-color: rgba(255,255,255,0)\;display: initial\;-st-mixin: font_8\;font-size: 22px\;color: value(site_1_1)\;margin-right: 0px\;margin-left: 5px}.root::icon{transition: inherit\;display: inherited\;margin: 0px 4px 0px 0px\;transform: rotate(90deg)\;fill: value(site_1_1)\;margin-left: 0px\;margin-right: 5px\;width: 20px\;height: 20px}";
+  style-type: ComponentStyle;
+}
+
+#comp-lk9xidtf.variants-ljclok925 {
+  height: 36px;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 213.4216823730469px;
+  align-self: start;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0px;
+  order: 4;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wixui.StylableButton;
+  page-id: ;
+  skin: wixui.skins.Skinless;
+  spx-ref-width: 390;
+  spx-resolver-type: scale;
+  style-style-$st_css-value: ":import{-st-from: 'wix-ui-santa/index.st.css'\;-st-named: StylableButton}.root{-st-extends: StylableButton\;transition: all 0.2s ease, visibility 0s\;padding-right: 8px\;border: 0px solid value(site_1_5)\;border-radius: 0px\;background: rgba(0, 0, 0, 0)}.root:hover {\\n    background: rgba(255, 255, 255, 0)\;\\n    border: 0px solid value(site_1_5)\;\\n}.root:hover::icon {\\n    transform: rotate(90deg)\;\\n    fill: value(site_1_1)\;\\n    width: 18px\;\\n    height: 18px\;}.root:hover::label {\\n    -st-mixin: font_8\;\\n    font-weight: 700\;\\n    font-size: 18px\;\\n    color: value(site_1_1)\;\\n}.root:disabled{background: #E2E2E2}.root:disabled::label{color: #8F8F8F}.root:disabled::icon{fill: #8F8F8F}.root::container{transition: inherit\;flex-direction: row-reverse\;justify-content: flex-end\;align-items: center}.root::label{transition: inherit\;letter-spacing: 0em\;margin: 0px 0px 0px 4px\;text-shadow: 1px 0 rgba(0,0,0,0), -1px 0 rgba(0,0,0,0), 0 1px rgba(0,0,0,0), 0 -1px rgba(0,0,0,0)\;background-color: rgba(255,255,255,0)\;display: initial\;-st-mixin: font_8\;font-size: 18px\;margin-right: 0px\;margin-left: 5px\;color: value(site_1_1)}.root::icon{transition: inherit\;display: inherited\;margin: 0px 4px 0px 0px\;transform: rotate(90deg)\;margin-left: 0px\;margin-right: 5px\;fill: value(site_1_1)\;width: 18px\;height: 18px}";
+  style-type: ComponentStyle;
+}
+
+#comp-lk9xidtf.variants-ljclok924 {
+  height: 36px;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 286.609375px;
+  align-self: start;
+  item-margin-bottom: 0%;
+  item-margin-left: 0.16474019660797234%;
+  item-margin-right: 0%;
+  item-margin-top: 0px;
+  order: 3;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wixui.StylableButton;
+  page-id: ;
+  skin: wixui.skins.Skinless;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-style-$st_css-value: ":import{-st-from: 'wix-ui-santa/index.st.css'\;-st-named: StylableButton}.root{-st-extends: StylableButton\;transition: all 0.2s ease, visibility 0s\;padding-right: 8px\;border: 0px solid value(site_1_5)\;border-radius: 0px\;background: rgba(0, 0, 0, 0)}.root:hover {\\n    background: rgba(255, 255, 255, 0)\;\\n    border: 0px solid value(site_1_5)\;\\n}.root:hover::icon {\\n    transform: rotate(90deg)\;\\n    fill: value(site_1_1)\;}.root:hover::label {\\n    -st-mixin: font_8\;\\n    font-size: 20px\;\\n    font-weight: 700\;\\n    color: value(site_1_1)\;\\n}.root:disabled{background: #E2E2E2}.root:disabled::label{color: #8F8F8F}.root:disabled::icon{fill: #8F8F8F}.root::container{transition: inherit\;flex-direction: row-reverse\;justify-content: flex-end\;align-items: center}.root::label{transition: inherit\;letter-spacing: 0em\;margin: 0px 0px 0px 4px\;text-shadow: 1px 0 rgba(0,0,0,0), -1px 0 rgba(0,0,0,0), 0 1px rgba(0,0,0,0), 0 -1px rgba(0,0,0,0)\;background-color: rgba(255,255,255,0)\;display: initial\;margin-right: 0px\;margin-left: 5px\;-st-mixin: font_8\;font-size: 20px\;color: value(site_1_1)}.root::icon{transition: inherit\;display: inherited\;margin: 0px 4px 0px 0px\;transform: rotate(90deg)\;margin-left: 0px\;margin-right: 5px\;fill: value(site_1_1)\;width: 20px\;height: 20px}";
+  style-type: ComponentStyle;
+}
+
+#comp-lk9xifd0 {
+  height: 36px;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 325.60937500000006px;
+  align-self: start;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0px;
+  order: 5;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wixui.StylableButton;
+  page-id: ;
+  skin: wixui.skins.Skinless;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-style-$st_css-value: ":import{-st-from: 'wix-ui-santa/index.st.css'\;-st-named: StylableButton}.root{-st-extends: StylableButton\;transition: all 0.2s ease, visibility 0s\;padding-right: 8px\;border: 0px solid value(site_1_5)\;border-radius: 0px\;background: rgba(0, 0, 0, 0)}.root:hover {\\n    background: rgba(255, 255, 255, 0)\;\\n    border: 0px solid value(site_1_5)\;\\n}.root:hover::icon {\\n    transform: rotate(90deg)\;\\n    fill: value(site_1_1)\;}.root:hover::label {\\n    -st-mixin: font_8\;\\n    font-size: 22px\;\\n    font-weight: 700\;\\n    color: value(site_1_1)\;\\n}.root:disabled{background: #E2E2E2}.root:disabled::label{color: #8F8F8F}.root:disabled::icon{fill: #8F8F8F}.root::container{transition: inherit\;flex-direction: row-reverse\;justify-content: flex-end\;align-items: center}.root::label{transition: inherit\;letter-spacing: 0em\;margin: 0px 0px 0px 4px\;text-shadow: 1px 0 rgba(0,0,0,0), -1px 0 rgba(0,0,0,0), 0 1px rgba(0,0,0,0), 0 -1px rgba(0,0,0,0)\;background-color: rgba(255,255,255,0)\;margin-right: 0px\;margin-left: 5px\;color: value(site_1_1)\;-st-mixin: font_8\;font-size: 22px\;display: initial}.root::icon{transition: inherit\;margin: 0px 4px 0px 0px\;transform: rotate(90deg)\;margin-left: 0px\;margin-right: 5px\;fill: value(site_1_1)\;width: 20px\;height: 20px\;display: initial}";
+  style-type: ComponentStyle;
+}
+
+#comp-lk9xifd0.variants-ljclok925 {
+  height: 36px;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 213.4216823730469px;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wixui.StylableButton;
+  page-id: ;
+  skin: wixui.skins.Skinless;
+  spx-ref-width: 390;
+  spx-resolver-type: scale;
+  style-style-$st_css-value: ":import{-st-from: 'wix-ui-santa/index.st.css'\;-st-named: StylableButton}.root{-st-extends: StylableButton\;transition: all 0.2s ease, visibility 0s\;padding-right: 8px\;border: 0px solid value(site_1_5)\;border-radius: 0px\;background: rgba(0, 0, 0, 0)}.root:hover {\\n    background: rgba(255, 255, 255, 0)\;\\n    border: 0px solid value(site_1_5)\;\\n}.root:hover::icon {\\n    transform: rotate(90deg)\;\\n    fill: value(site_1_1)\;\\n    width: 18px\;\\n    height: 18px\;}.root:hover::label {\\n    -st-mixin: font_8\;\\n    font-weight: 700\;\\n    font-size: 18px\;\\n    color: value(site_1_1)\;\\n}.root:disabled{background: #E2E2E2}.root:disabled::label{color: #8F8F8F}.root:disabled::icon{fill: #8F8F8F}.root::container{transition: inherit\;flex-direction: row-reverse\;justify-content: flex-end\;align-items: center}.root::label{transition: inherit\;letter-spacing: 0em\;margin: 0px 0px 0px 4px\;text-shadow: 1px 0 rgba(0,0,0,0), -1px 0 rgba(0,0,0,0), 0 1px rgba(0,0,0,0), 0 -1px rgba(0,0,0,0)\;background-color: rgba(255,255,255,0)\;display: initial\;-st-mixin: font_8\;font-size: 18px\;margin-right: 0px\;margin-left: 5px\;color: value(site_1_1)}.root::icon{transition: inherit\;display: inherited\;margin: 0px 4px 0px 0px\;transform: rotate(90deg)\;margin-left: 0px\;margin-right: 5px\;fill: value(site_1_1)\;width: 18px\;height: 18px}";
+  style-type: ComponentStyle;
+}
+
+#comp-lk9xifd0.variants-ljclok924 {
+  height: 36px;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 286.609375px;
+  align-self: start;
+  item-margin-bottom: 0%;
+  item-margin-left: 0.16474019660797234%;
+  item-margin-right: 0%;
+  item-margin-top: 0px;
+  order: 4;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wixui.StylableButton;
+  page-id: ;
+  skin: wixui.skins.Skinless;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-style-$st_css-value: ":import{-st-from: 'wix-ui-santa/index.st.css'\;-st-named: StylableButton}.root{-st-extends: StylableButton\;transition: all 0.2s ease, visibility 0s\;padding-right: 8px\;border: 0px solid value(site_1_5)\;border-radius: 0px\;background: rgba(0, 0, 0, 0)}.root:hover {\\n    background: rgba(255, 255, 255, 0)\;\\n    border: 0px solid value(site_1_5)\;\\n}.root:hover::icon {\\n    transform: rotate(90deg)\;\\n    fill: value(site_1_1)\;}.root:hover::label {\\n    color: value(site_1_1)\;\\n    -st-mixin: font_8\;\\n    font-size: 20px\;\\n    font-weight: 700\;\\n}.root:disabled{background: #E2E2E2}.root:disabled::label{color: #8F8F8F}.root:disabled::icon{fill: #8F8F8F}.root::container{transition: inherit\;flex-direction: row-reverse\;justify-content: flex-end\;align-items: center}.root::label{transition: inherit\;letter-spacing: 0em\;margin: 0px 0px 0px 4px\;text-shadow: 1px 0 rgba(0,0,0,0), -1px 0 rgba(0,0,0,0), 0 1px rgba(0,0,0,0), 0 -1px rgba(0,0,0,0)\;background-color: rgba(255,255,255,0)\;display: initial\;margin-right: 0px\;margin-left: 5px\;-st-mixin: font_8\;font-size: 20px\;color: value(site_1_1)}.root::icon{transition: inherit\;display: inherited\;margin: 0px 4px 0px 0px\;transform: rotate(90deg)\;margin-left: 0px\;margin-right: 5px\;fill: value(site_1_1)\;width: 20px\;height: 20px}";
+  style-type: ComponentStyle;
+}
+
+#comp-lk9xigib {
+  height: 36px;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 325.60937500000006px;
+  align-self: start;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0px;
+  order: 4;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wixui.StylableButton;
+  page-id: ;
+  skin: wixui.skins.Skinless;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-style-$st_css-value: ":import{-st-from: 'wix-ui-santa/index.st.css'\;-st-named: StylableButton}.root{-st-extends: StylableButton\;transition: all 0.2s ease, visibility 0s\;padding-right: 8px\;border: 0px solid value(site_1_5)\;border-radius: 0px\;background: rgba(0, 0, 0, 0)}.root:hover {\\n    border: 0px solid value(site_1_5)\;\\n    background: rgba(255, 255, 255, 0)\;\\n}.root:hover::icon {\\n    transform: rotate(90deg)\;\\n    fill: value(site_1_1)\;}.root:hover::label {\\n    -st-mixin: font_8\;\\n    font-size: 22px\;\\n    font-weight: 700\;\\n    color: value(site_1_1)\;\\n}.root:disabled{background: #E2E2E2}.root:disabled::label{color: #8F8F8F}.root:disabled::icon{fill: #8F8F8F}.root::container{transition: inherit\;flex-direction: row-reverse\;justify-content: flex-end\;align-items: center}.root::label{transition: inherit\;letter-spacing: 0em\;margin: 0px 0px 0px 4px\;text-shadow: 1px 0 rgba(0,0,0,0), -1px 0 rgba(0,0,0,0), 0 1px rgba(0,0,0,0), 0 -1px rgba(0,0,0,0)\;background-color: rgba(255,255,255,0)\;display: initial\;-st-mixin: font_8\;font-size: 22px\;color: value(site_1_1)\;margin-right: 0px\;margin-left: 5px}.root::icon{transition: inherit\;display: inherited\;margin: 0px 4px 0px 0px\;transform: rotate(90deg)\;fill: value(site_1_1)\;margin-left: 0px\;margin-right: 5px\;width: 20px\;height: 20px}";
+  style-type: ComponentStyle;
+}
+
+#comp-lk9xigib.variants-ljclok925 {
+  height: 36px;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 213.4216823730469px;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wixui.StylableButton;
+  page-id: ;
+  skin: wixui.skins.Skinless;
+  spx-ref-width: 390;
+  spx-resolver-type: scale;
+  style-style-$st_css-value: ":import{-st-from: 'wix-ui-santa/index.st.css'\;-st-named: StylableButton}.root{-st-extends: StylableButton\;transition: all 0.2s ease, visibility 0s\;padding-right: 8px\;border: 0px solid value(site_1_5)\;border-radius: 0px\;background: rgba(0, 0, 0, 0)}.root:hover {\\n    background: rgba(255, 255, 255, 0)\;\\n    border: 0px solid value(site_1_5)\;\\n}.root:hover::icon {\\n    transform: rotate(90deg)\;\\n    fill: value(site_1_1)\;}.root:hover::label {\\n    -st-mixin: font_8\;\\n    font-weight: 700\;\\n    font-size: 18px\;\\n    color: value(site_1_1)\;\\n}.root:disabled{background: #E2E2E2}.root:disabled::label{color: #8F8F8F}.root:disabled::icon{fill: #8F8F8F}.root::container{transition: inherit\;flex-direction: row-reverse\;justify-content: flex-end\;align-items: center}.root::label{transition: inherit\;letter-spacing: 0em\;margin: 0px 0px 0px 4px\;text-shadow: 1px 0 rgba(0,0,0,0), -1px 0 rgba(0,0,0,0), 0 1px rgba(0,0,0,0), 0 -1px rgba(0,0,0,0)\;background-color: rgba(255,255,255,0)\;display: initial\;-st-mixin: font_8\;font-size: 18px\;margin-right: 0px\;margin-left: 5px\;color: value(site_1_1)}.root::icon{transition: inherit\;display: inherited\;margin: 0px 4px 0px 0px\;transform: rotate(90deg)\;margin-left: 0px\;margin-right: 5px\;width: 18px\;height: 18px\;fill: value(site_1_1)}";
+  style-type: ComponentStyle;
+}
+
+#comp-lk9xigib.variants-ljclok924 {
+  height: 36px;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 286.609375px;
+  align-self: start;
+  item-margin-bottom: 0%;
+  item-margin-left: 0.16474019660797234%;
+  item-margin-right: 0%;
+  item-margin-top: 0px;
+  order: 5;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wixui.StylableButton;
+  page-id: ;
+  skin: wixui.skins.Skinless;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-style-$st_css-value: ":import{-st-from: 'wix-ui-santa/index.st.css'\;-st-named: StylableButton}.root{-st-extends: StylableButton\;transition: all 0.2s ease, visibility 0s\;padding-right: 8px\;border: 0px solid value(site_1_5)\;border-radius: 0px\;background: rgba(0, 0, 0, 0)}.root:hover {\\n    background: rgba(255, 255, 255, 0)\;\\n    border: 0px solid value(site_1_5)\;\\n}.root:hover::icon {\\n    transform: rotate(90deg)\;\\n    fill: value(site_1_1)\;}.root:hover::label {\\n    color: value(site_1_1)\;\\n    -st-mixin: font_8\;\\n    font-size: 20px\;\\n    font-weight: 700\;\\n}.root:disabled{background: #E2E2E2}.root:disabled::label{color: #8F8F8F}.root:disabled::icon{fill: #8F8F8F}.root::container{transition: inherit\;flex-direction: row-reverse\;justify-content: flex-end\;align-items: center}.root::label{transition: inherit\;letter-spacing: 0em\;margin: 0px 0px 0px 4px\;text-shadow: 1px 0 rgba(0,0,0,0), -1px 0 rgba(0,0,0,0), 0 1px rgba(0,0,0,0), 0 -1px rgba(0,0,0,0)\;background-color: rgba(255,255,255,0)\;display: initial\;margin-right: 0px\;margin-left: 5px\;-st-mixin: font_8\;font-size: 20px\;color: value(site_1_1)}.root::icon{transition: inherit\;display: inherited\;margin: 0px 4px 0px 0px\;transform: rotate(90deg)\;margin-left: 0px\;margin-right: 5px\;fill: value(site_1_1)\;width: 20px\;height: 20px}";
+  style-type: ComponentStyle;
+}
+
+#comp-lkod70ng {
+  height: auto;
+  hidden: false;
+  component-layout: ComponentLayout;
+  width: 54.270833333333336%;
+  flex-direction: column;
+  container-layout: StackContainerLayout;
+  align-self: start;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  layout-itemLayout-id: "";
+  justify-self: end;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0.3372395833333333%;
+  item-margin-top: 0.0026041666666666665%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: mobile.core.components.Container;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.area.DefaultAreaSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  background: rgba(var(--color_11),0.0);
+  border-color: rgba(initial,0);
+  border-width: 0px;
+  border-radius: 0px;
+  box-shadow: disabled(0px 0px 0px 0px rgba(0,0,0,0.6));
+  style-type: ComponentStyle;
+}
+
+#comp-lkod70ng.variants-ljclok921 {
+  height: auto;
+  hidden: false;
+  component-layout: ComponentLayout;
+  width: 99.27591463414635%;
+  align-self: start;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: end;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: -0.002381859756097561%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-lkod70ng.variants-ljclok922 {
+  height: auto;
+  hidden: false;
+  component-layout: ComponentLayout;
+  width: 99.27283653846153%;
+  align-self: start;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: end;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0.006009615384615385%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-lrhnzuw8 {
+  height: auto;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: maxContent;
+  align-self: end;
+  item-margin-bottom: 0spx;
+  item-margin-left: 0spx;
+  item-margin-right: 21.657spx;
+  item-margin-top: 0spx;
+  order: 1;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.WRichText;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.WRichTextNewSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  color: rgb(var(--color_15));
+  text-align: left;
+  text-decoration: none;
+  style-type: ComponentStyle;
+}
+
+#comp-lrhnzuw8.variants-ljclok921 {
+  align-self: end;
+  item-margin-bottom: 0.016spx;
+  item-margin-left: 0spx;
+  item-margin-right: 21.653spx;
+  item-margin-top: 0spx;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.WRichText;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.WRichTextNewSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  color: rgb(var(--color_15));
+  text-align: left;
+  text-decoration: none;
+  style-type: ComponentStyle;
+}
+
+#comp-lrhnzuw8.variants-ljclok922 {
+  height: auto;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: maxContent;
+  align-self: start;
+  item-margin-bottom: 20spx;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  order: 1;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.WRichText;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.WRichTextNewSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  color: rgb(var(--color_15));
+  font-family: avenir-lt-w01_35-light1475496,avenir-lt-w05_35-light,sans-serif;
+  font-size: 14px;
+  text-align: left;
+  text-decoration: none;
+  style-type: ComponentStyle;
+}
+
+#comp-lrhnzuw8.variants-lrhnzuwf {
+  reactions-type: "Reactions";
+  reactions-values: [{"effect":"#effects-lrhnzuy8","once":true,"type":"Play"}];
+}
+
+#comp-lrho2plh {
+  height: auto;
+  hidden: false;
+  component-layout: ComponentLayout;
+  width: 81.58333333333333%;
+  flex-direction: column;
+  container-layout: StackContainerLayout;
+  align-self: start;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: start;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0.0078125%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: mobile.core.components.Container;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.area.DefaultAreaSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  background: rgba(var(--color_11),0);
+  border-color: rgba(initial,0);
+  border-width: 0px;
+  border-radius: 0px;
+  box-shadow: disabled(0px 0px 0px 0px rgba(0,0,0,0.6));
+  style-type: ComponentStyle;
+}
+
+#comp-lrho3efm {
+  height: auto;
+  hidden: false;
+  min-height: 0px;
+  component-layout: ComponentLayout;
+  width: maxContent;
+  flex-direction: row;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  container-layout: StackContainerLayout;
+  align-self: end;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: start;
+  item-margin-bottom: 0.08329166666665817%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: mobile.core.components.Container;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.area.DefaultAreaSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  background: rgba(var(--color_11),0);
+  border-color: rgba(initial,0);
+  border-width: 0px;
+  border-radius: 0px;
+  box-shadow: disabled(0px 0px 0px 0px rgba(0,0,0,0.6));
+  style-type: ComponentStyle;
+}
+
+#comp-lrho3efm.variants-ljclok921 {
+  align-self: end;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: start;
+  item-margin-bottom: 0.0744047619047619%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-lrho3efm.variants-ljclok922 {
+  height: auto;
+  hidden: false;
+  max-height: 99999px;
+  min-height: unset;
+  component-layout: ComponentLayout;
+  width: 100%;
+  flex-direction: column;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  container-layout: StackContainerLayout;
+  align-self: end;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: start;
+  item-margin-bottom: 0.05482456140350877%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#PAGES_CONTAINER {
+  comp-id: ;
+  class-name: ;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.screenwidthcontainer.BlankScreen;
+  style-subtype: system;
+  style-type: TopLevelStyle;
+}
+
+#SITE_FOOTER {
+  comp-id: ;
+  class-name: ;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.screenwidthcontainer.TransparentScreen;
+  style-subtype: system;
+  style-type: TopLevelStyle;
+}
+
+#SITE_HEADER {
+  comp-id: ;
+  class-name: ;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.screenwidthcontainer.TransparentScreen;
+  style-subtype: system;
+  style-type: TopLevelStyle;
+}

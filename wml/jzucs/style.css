@@ -1,0 +1,184 @@
+@media (canvas-size: 1930px) {
+  #comp-lkpeynx7 {
+    design-background-alignType: "center";
+    design-background-color: "color_11";
+    design-background-colorLayers: [{"fill":{"color":"color_11","type":"SolidColor"},"opacity":0,"type":"SolidColorLayer"}];
+    design-background-colorOpacity: 0;
+    design-background-colorOverlay: "";
+    design-background-colorOverlayOpacity: 0;
+    design-background-fittingType: "fill";
+    design-background-scrollType: "none";
+    design-background-type: "BackgroundMedia";
+    design-type: "MediaContainerWithDividers";
+    height: auto;
+    max-height: 99999px;
+    max-width: 99999px;
+    min-height: 0px;
+    min-width: 0px;
+    component-layout: ComponentLayout;
+    column-gap: 0spx;
+    grid-template-columns: minmax(0px,1fr);
+    row-gap: 0spx;
+    grid-template-rows: minmax(1442.77spx,auto);
+    container-layout: GridContainerLayout;
+    align-self: stretch;
+    grid-column-end: 2;
+    grid-column-start: 1;
+    grid-row-end: 3;
+    grid-row-start: 2;
+    justify-self: stretch;
+    item-layout: GridItemLayout;
+    layout-spx-refWidth: 1280;
+    layout-spx-resolverType: "scale";
+    layout-type: SingleLayoutData;
+    comp-id: ;
+    class-name: responsive.components.Section;
+    page-id: ;
+    skin: wysiwyg.viewer.skins.area.RectangleArea;
+    spx-ref-width: 1280;
+    spx-resolver-type: scale;
+    background: rgba(var(--color_11),0.0);
+    style-type: ComponentStyle;
+  }
+
+  #comp-lkpeyo80 {
+    height: auto;
+    component-layout: ComponentLayout;
+    width: auto;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+    container-layout: GridContainerLayout;
+    align-self: stretch;
+    grid-column-end: 2;
+    grid-column-start: 1;
+    grid-row-end: 4;
+    grid-row-start: 3;
+    layout-itemLayout-id: "";
+    justify-self: stretch;
+    item-layout: GridItemLayout;
+    layout-spx-refWidth: 1280;
+    layout-spx-resolverType: "scale";
+    layout-type: SingleLayoutData;
+    comp-id: ;
+    class-name: wysiwyg.viewer.components.RefComponent;
+    page-id: ;
+    skin: wysiwyg.viewer.skins.ResponsiveContainerRefSkin;
+    background: rgba(var(--color_11),0);
+    style-type: ComponentStyle;
+  }
+
+  #comp-lkpeyoar {
+    height: auto;
+    component-layout: ComponentLayout;
+    width: auto;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+    container-layout: GridContainerLayout;
+    align-self: start;
+    justify-self: end;
+    item-margin-right: 0px;
+    item-margin-top: 0px;
+    item-layout: FixedItemLayout;
+    layout-type: SingleLayoutData;
+    comp-id: ;
+    class-name: wysiwyg.viewer.components.RefComponent;
+    page-id: ;
+    skin: wysiwyg.viewer.skins.ResponsiveContainerRefSkin;
+    background: rgba(var(--color_11),0);
+    style-type: ComponentStyle;
+  }
+
+  #comp-lkpeyqw4 {
+    height: auto;
+    hidden: false;
+    max-height: 99999px;
+    max-width: 99999px;
+    min-height: 0px;
+    min-width: 0px;
+    component-layout: ComponentLayout;
+    width: 100%;
+    column-gap: 0px;
+    grid-template-columns: 1fr;
+    row-gap: 0px;
+    grid-template-rows: 1fr;
+    container-layout: GridContainerLayout;
+    align-self: start;
+    grid-column-end: 2;
+    grid-column-start: 1;
+    grid-row-end: 2;
+    grid-row-start: 1;
+    layout-itemLayout-id: "";
+    justify-self: start;
+    item-margin-left: 0%;
+    item-margin-top: 0px;
+    item-layout: GridItemLayout;
+    layout-spx-refWidth: 1280;
+    layout-spx-resolverType: "scale";
+    layout-type: SingleLayoutData;
+    presets-layout: "variants-l71p97vv";
+    presets-style: "variants-l71p97vv";
+    presets-type: "PresetData";
+    comp-id: ;
+    class-name: wysiwyg.viewer.components.RefComponent;
+    page-id: ;
+    skin: skins.core.InlineSkin;
+    spx-ref-width: 1280;
+    spx-resolver-type: scale;
+    style-type: ComponentStyle;
+  }
+
+  #comp-lkphq0j3 {
+    height: auto;
+    component-layout: ComponentLayout;
+    width: auto;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+    container-layout: GridContainerLayout;
+    align-self: stretch;
+    grid-column-end: 2;
+    grid-column-start: 1;
+    grid-row-end: 2;
+    grid-row-start: 1;
+    layout-itemLayout-id: "";
+    justify-self: stretch;
+    item-layout: GridItemLayout;
+    layout-type: SingleLayoutData;
+    comp-id: ;
+    class-name: wysiwyg.viewer.components.RefComponent;
+    page-id: ;
+    skin: wysiwyg.viewer.skins.ResponsiveContainerRefSkin;
+    background: rgba(var(--color_11),0);
+    style-type: ComponentStyle;
+  }
+
+  #jzucs {
+    height: auto;
+    component-layout: ComponentLayout;
+    grid-template-columns: minmax(0px,1fr);
+    overflow-x: clip;
+    overflow-y: clip;
+    grid-template-rows: auto auto auto;
+    container-layout: GridContainerLayout;
+    layout-spx-refWidth: 1280;
+    layout-spx-resolverType: "scale";
+    layout-type: SingleLayoutData;
+    comp-id: ;
+    class-name: mobile.core.components.Page;
+    page-id: ;
+    skin: wysiwyg.viewer.skins.page.ResponsivePageWithColorBG;
+    spx-ref-width: 1280;
+    spx-resolver-type: scale;
+    background: rgba(var(--color_18),1);
+    style-type: ComponentStyle;
+  }
+
+}
+
+@media (max-width: 750px) and (canvas-size: 390px) {
+  #comp-lkpeyqw4 {
+    presets-layout: "variants-l71pcd2c";
+    presets-style: "variants-l71pcd2c";
+    presets-type: "PresetData";
+  }
+
+}

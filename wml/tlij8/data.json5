@@ -1,0 +1,651 @@
+{
+  externalRefs: {
+    'variants-ljpox79b1': 'variants-ljpox79b1',
+    'variants-ljpox79b2': 'variants-ljpox79b2',
+    'comp-lk9fm7rj': 'comp-lk9fm7rj',
+    'comp-kbgakgyt': 'comp-kbgakgyt',
+    'comp-kd5px9hr': 'comp-kd5px9hr',
+  },
+  components: {
+    'comp-ljpox75j': {
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.RectangleArea',
+      },
+    },
+    'comp-ljpox7dr': {
+      data: {
+        rootCompId: 'comp-kbgakgyt',
+        type: 'InternalRef',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.ResponsiveContainerRefSkin',
+      },
+    },
+    'comp-ljpox7wj': {
+      data: {
+        rootCompId: 'comp-kd5px9hr',
+        type: 'InternalRef',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.ResponsiveContainerRefSkin',
+      },
+    },
+    'comp-ljpoz514': {
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.DefaultAreaSkin',
+      },
+    },
+    'comp-ljpozwgh': {
+      data: {
+        linkList: [],
+        stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+        type: 'StyledText',
+      },
+      props: {
+        packed: true,
+        type: 'WRichTextProperties',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.WRichTextNewSkin',
+      },
+    },
+    'comp-ljpp2d2d': {
+      data: {
+        linkList: [],
+        stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+        type: 'StyledText',
+      },
+      props: {
+        packed: true,
+        type: 'WRichTextProperties',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.WRichTextNewSkin',
+      },
+    },
+    'comp-ljpp5ag7': {
+      data: {
+        linkList: [],
+        stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+        type: 'StyledText',
+      },
+      props: {
+        packed: true,
+        type: 'WRichTextProperties',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.WRichTextNewSkin',
+      },
+    },
+    'comp-ljpp6dua': {
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.DefaultAreaSkin',
+      },
+    },
+    'comp-ljpp7lnv': {
+      data: {
+        linkList: [],
+        stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+        type: 'StyledText',
+      },
+      props: {
+        packed: true,
+        type: 'WRichTextProperties',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.WRichTextNewSkin',
+      },
+    },
+    'comp-ljpp87mh': {
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.DefaultAreaSkin',
+      },
+    },
+    'comp-ljppar4o': {
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.RectangleArea',
+      },
+    },
+    'comp-ljppbfx9': {
+      data: {
+        type: 'ImageX',
+      },
+      effects: {
+        type: 'EffectsList',
+        values: [
+          {
+            id: 'effects-lk9g5nms',
+            name: 'FadeIn',
+            type: 'TimeAnimation',
+            value: {
+              default: {
+                delay: 0,
+                duration: 1500,
+                fill: 'backwards',
+                namedEffect: {
+                  type: 'FadeIn',
+                },
+                type: 'TimeAnimationOptions',
+              },
+              variants: [],
+            },
+          },
+        ],
+      },
+      structure: {
+        skin: 'wixui.skins.ImageX',
+      },
+      triggers: {
+        type: 'Triggers',
+        values: [
+          {
+            componentId: 'comp-ljppbfx9',
+            id: 'variants-ljpqndic',
+            params: {
+              threshold: 0.15,
+            },
+            trigger: 'viewport-enter',
+            type: 'Trigger',
+          },
+          {
+            componentId: 'comp-ljppbfx9',
+            id: 'variants-lk9g3vl0',
+            trigger: 'view-progress',
+            type: 'Trigger',
+          },
+        ],
+      },
+    },
+    'comp-ljppdufc': {
+      data: {
+        linkList: [],
+        stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+        type: 'StyledText',
+      },
+      props: {
+        packed: true,
+        type: 'WRichTextProperties',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.WRichTextNewSkin',
+      },
+    },
+    'comp-ljppgzoj': {
+      data: {
+        linkList: [
+          {
+            innerRoute: 'my-portfolio/franklin-gardens',
+            rel: [],
+            routerId: 'routers-lkpez6jx',
+            type: 'DynamicPageLink',
+          },
+        ],
+        stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+        type: 'StyledText',
+      },
+      props: {
+        packed: true,
+        type: 'WRichTextProperties',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.WRichTextNewSkin',
+      },
+    },
+    'comp-ljppjre5': {
+      data: {
+        type: 'VectorImage',
+      },
+      props: {
+        type: 'VectorImageProperties',
+      },
+      structure: {
+        skin: 'skins.viewer.VectorImageSkin',
+      },
+    },
+    'comp-ljppkr4f': {
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.RectangleArea',
+      },
+    },
+    'comp-ljpplhiv': {
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.DefaultAreaSkin',
+      },
+    },
+    'comp-ljpplhiy': {
+      data: {
+        linkList: [
+          {
+            innerRoute: 'my-portfolio/residential-green-building',
+            rel: [],
+            routerId: 'routers-lkpez6jx',
+            type: 'DynamicPageLink',
+          },
+        ],
+        stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+        type: 'StyledText',
+      },
+      props: {
+        packed: true,
+        type: 'WRichTextProperties',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.WRichTextNewSkin',
+      },
+    },
+    'comp-ljpplhiz4': {
+      data: {
+        linkList: [],
+        stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+        type: 'StyledText',
+      },
+      props: {
+        packed: true,
+        type: 'WRichTextProperties',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.WRichTextNewSkin',
+      },
+    },
+    'comp-ljpplsx2': {
+      data: {
+        type: 'VectorImage',
+      },
+      props: {
+        type: 'VectorImageProperties',
+      },
+      structure: {
+        skin: 'skins.viewer.VectorImageSkin',
+      },
+    },
+    'comp-ljppmnex': {
+      data: {
+        type: 'ImageX',
+      },
+      effects: {
+        type: 'EffectsList',
+        values: [
+          {
+            id: 'effects-ljpqni4y',
+            name: 'FadeIn',
+            type: 'TimeAnimation',
+            value: {
+              default: {
+                delay: 0,
+                duration: 1200,
+                fill: 'backwards',
+                namedEffect: {
+                  type: 'FadeIn',
+                },
+                type: 'TimeAnimationOptions',
+              },
+              variants: [],
+            },
+          },
+        ],
+      },
+      structure: {
+        skin: 'wixui.skins.ImageX',
+      },
+      triggers: {
+        type: 'Triggers',
+        values: [
+          {
+            componentId: 'comp-ljppmnex',
+            id: 'variants-ljpqni4i',
+            params: {
+              threshold: 0.15,
+            },
+            trigger: 'viewport-enter',
+            type: 'Trigger',
+          },
+        ],
+      },
+    },
+    'comp-ljppr74j': {
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.RectangleArea',
+      },
+    },
+    'comp-ljppr74n': {
+      data: {
+        type: 'ImageX',
+      },
+      effects: {
+        type: 'EffectsList',
+        values: [
+          {
+            id: 'effects-ljpqnmau',
+            name: 'FadeIn',
+            type: 'TimeAnimation',
+            value: {
+              default: {
+                delay: 0,
+                duration: 1500,
+                fill: 'backwards',
+                namedEffect: {
+                  type: 'FadeIn',
+                },
+                type: 'TimeAnimationOptions',
+              },
+              variants: [],
+            },
+          },
+        ],
+      },
+      structure: {
+        skin: 'wixui.skins.ImageX',
+      },
+      triggers: {
+        type: 'Triggers',
+        values: [
+          {
+            componentId: 'comp-ljppr74n',
+            id: 'variants-ljpqnmas',
+            params: {
+              threshold: 0.15,
+            },
+            trigger: 'viewport-enter',
+            type: 'Trigger',
+          },
+        ],
+      },
+    },
+    'comp-ljppwvxc': {
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.RectangleArea',
+      },
+    },
+    'comp-ljppwvxe': {
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.DefaultAreaSkin',
+      },
+    },
+    'comp-ljppwvxe5': {
+      data: {
+        linkList: [
+          {
+            innerRoute: 'my-portfolio/ny-art-museum-bridge',
+            rel: [],
+            routerId: 'routers-lkpez6jx',
+            type: 'DynamicPageLink',
+          },
+        ],
+        stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+        type: 'StyledText',
+      },
+      props: {
+        packed: true,
+        type: 'WRichTextProperties',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.WRichTextNewSkin',
+      },
+    },
+    'comp-ljppwvxf2': {
+      data: {
+        linkList: [],
+        stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+        type: 'StyledText',
+      },
+      props: {
+        packed: true,
+        type: 'WRichTextProperties',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.WRichTextNewSkin',
+      },
+    },
+    'comp-ljppwvxf9': {
+      data: {
+        type: 'VectorImage',
+      },
+      props: {
+        type: 'VectorImageProperties',
+      },
+      structure: {
+        skin: 'skins.viewer.VectorImageSkin',
+      },
+    },
+    'comp-ljppwvxg1': {
+      data: {
+        type: 'ImageX',
+      },
+      effects: {
+        type: 'EffectsList',
+        values: [
+          {
+            id: 'effects-ljpqnq54',
+            name: 'FadeIn',
+            type: 'TimeAnimation',
+            value: {
+              default: {
+                delay: 0,
+                duration: 1500,
+                fill: 'backwards',
+                namedEffect: {
+                  type: 'FadeIn',
+                },
+                type: 'TimeAnimationOptions',
+              },
+              variants: [],
+            },
+          },
+        ],
+      },
+      structure: {
+        skin: 'wixui.skins.ImageX',
+      },
+      triggers: {
+        type: 'Triggers',
+        values: [
+          {
+            componentId: 'comp-ljppwvxg1',
+            id: 'variants-ljpqnq4o',
+            params: {
+              threshold: 0.15,
+            },
+            trigger: 'viewport-enter',
+            type: 'Trigger',
+          },
+        ],
+      },
+    },
+    'comp-ljv9w4t1': {
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.DefaultAreaSkin',
+      },
+    },
+    'comp-ljv9w4t22': {
+      data: {
+        linkList: [
+          {
+            innerRoute: 'my-portfolio/green-water-open-air-theatre',
+            rel: [],
+            routerId: 'routers-lkpez6jx',
+            type: 'DynamicPageLink',
+          },
+        ],
+        stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+        type: 'StyledText',
+      },
+      props: {
+        packed: true,
+        type: 'WRichTextProperties',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.WRichTextNewSkin',
+      },
+    },
+    'comp-ljv9w4t5': {
+      data: {
+        linkList: [],
+        stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+        type: 'StyledText',
+      },
+      props: {
+        packed: true,
+        type: 'WRichTextProperties',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.WRichTextNewSkin',
+      },
+    },
+    'comp-ljv9w4t6': {
+      data: {
+        type: 'VectorImage',
+      },
+      props: {
+        type: 'VectorImageProperties',
+      },
+      structure: {
+        skin: 'skins.viewer.VectorImageSkin',
+      },
+    },
+    'comp-ljvcw7kl': {
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.DefaultAreaSkin',
+      },
+    },
+    'comp-ljzq2cio': {
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.DefaultAreaSkin',
+      },
+    },
+    'comp-ljzq4b1r': {
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.DefaultAreaSkin',
+      },
+    },
+    'comp-ljzq4b35': {
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.DefaultAreaSkin',
+      },
+    },
+    'comp-ljzqdx4p': {
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.DefaultAreaSkin',
+      },
+    },
+    'comp-ljzrk7jw': {
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.DefaultAreaSkin',
+      },
+    },
+    'comp-ljzrk7lk': {
+      effects: {
+        type: 'EffectsList',
+        values: [
+          {
+            id: 'effects-lk9g7eq1',
+            name: 'FadeIn',
+            type: 'TimeAnimation',
+            value: {
+              default: {
+                delay: 0,
+                duration: 1500,
+                fill: 'backwards',
+                namedEffect: {
+                  type: 'FadeIn',
+                },
+                type: 'TimeAnimationOptions',
+              },
+              variants: [],
+            },
+          },
+        ],
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.DefaultAreaSkin',
+      },
+      triggers: {
+        type: 'Triggers',
+        values: [
+          {
+            componentId: 'comp-ljzrk7lk',
+            id: 'variants-lk9g7epz',
+            params: {
+              threshold: 0.15,
+            },
+            trigger: 'viewport-enter',
+            type: 'Trigger',
+          },
+        ],
+      },
+    },
+    'comp-ljzrl8ti': {
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.DefaultAreaSkin',
+      },
+    },
+    'comp-ljzrl8ux': {
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.DefaultAreaSkin',
+      },
+    },
+    'comp-lk9oj2j6': {
+      data: {
+        rootCompId: 'comp-lk9fm7rj',
+        type: 'InternalRef',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.ResponsiveContainerRefSkin',
+      },
+    },
+    'comp-lkjylw0f': {
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.DefaultAreaSkin',
+      },
+    },
+    tlij8: {
+      data: {
+        descriptionSEO: '',
+        hidePage: false,
+        hideTitle: true,
+        icon: '',
+        id: 'tlij8',
+        metaKeywordsSEO: '',
+        pageBackgrounds: {
+          desktop: {
+            custom: true,
+            isPreset: true,
+            ref: {
+              alignType: 'top',
+              color: '{color_11}',
+              fittingType: 'fill',
+              scrollType: 'fixed',
+              type: 'BackgroundMedia',
+            },
+          },
+          mobile: {
+            custom: true,
+            isPreset: true,
+            mediaSizing: 'viewport',
+            ref: {
+              alignType: 'top',
+              color: '{color_11}',
+              colorOverlay: '',
+              colorOverlayOpacity: 0,
+              fittingType: 'fill',
+              scrollType: 'fixed',
+              type: 'BackgroundMedia',
+            },
+          },
+        },
+        pageTitleSEO: '',
+        pageUriSEO: 'home',
+        title: 'HOME',
+        tpaApplicationId: 0,
+        translationData: {
+          uriSEOTranslated: false,
+        },
+        type: 'Page',
+        underConstruction: false,
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.page.TransparentPageSkin',
+      },
+    },
+  },
+  appControllers: {},
+}

@@ -1,0 +1,274 @@
+{
+  externalRefs: {
+    'variants-ljvfn2r02': 'variants-ljvfn2r02',
+    'variants-ljvfn2r01': 'variants-ljvfn2r01',
+    'comp-kbgakgyt': 'comp-kbgakgyt',
+    'comp-kd5px9hr': 'comp-kd5px9hr',
+    'comp-ljvfr7jd': 'comp-ljvfr7jd',
+  },
+  components: {
+    bj7et: {
+      data: {
+        advancedSeoData: '{"tags":[]}',
+        descriptionSEO: '',
+        hidePage: false,
+        hideTitle: true,
+        icon: '',
+        id: 'bj7et',
+        metaKeywordsSEO: '',
+        pageBackgrounds: {
+          desktop: {
+            custom: true,
+            isPreset: true,
+            ref: {
+              alignType: 'top',
+              color: '{color_11}',
+              fittingType: 'fill',
+              scrollType: 'fixed',
+              type: 'BackgroundMedia',
+            },
+          },
+          mobile: {
+            custom: true,
+            isPreset: true,
+            mediaSizing: 'viewport',
+            ref: {
+              alignType: 'top',
+              color: '{color_11}',
+              colorOverlay: '',
+              colorOverlayOpacity: 0,
+              fittingType: 'fill',
+              scrollType: 'fixed',
+              type: 'BackgroundMedia',
+            },
+          },
+        },
+        pageTitleSEO: '',
+        pageUriSEO: 'contact',
+        title: 'CONTACT',
+        tpaApplicationId: 0,
+        translationData: {
+          uriSEOTranslated: false,
+        },
+        type: 'Page',
+        underConstruction: false,
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.page.TransparentPageSkin',
+      },
+    },
+    'comp-ljvfn2ko': {
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.RectangleArea',
+      },
+    },
+    'comp-ljvfn2vc': {
+      data: {
+        rootCompId: 'comp-kbgakgyt',
+        type: 'InternalRef',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.ResponsiveContainerRefSkin',
+      },
+    },
+    'comp-ljvfn2ym': {
+      data: {
+        rootCompId: 'comp-kd5px9hr',
+        type: 'InternalRef',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.ResponsiveContainerRefSkin',
+      },
+    },
+    'comp-ljvfscoy': {
+      data: {
+        type: 'ImageX',
+      },
+      structure: {
+        skin: 'wixui.skins.ImageX',
+      },
+    },
+    'comp-ljvfu0cp': {
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.RectangleArea',
+      },
+    },
+    'comp-ljvfufcm': {
+      data: {
+        linkList: [],
+        stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+        type: 'StyledText',
+      },
+      props: {
+        packed: true,
+        type: 'WRichTextProperties',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.WRichTextNewSkin',
+      },
+    },
+    'comp-ljvfw18f': {
+      data: {
+        type: 'VectorImage',
+      },
+      props: {
+        type: 'VectorImageProperties',
+      },
+      structure: {
+        skin: 'skins.viewer.VectorImageSkin',
+      },
+    },
+    'comp-ljvfwgzk': {
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.DefaultAreaSkin',
+      },
+    },
+    'comp-ljvfx7xz': {
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.DefaultAreaSkin',
+      },
+    },
+    'comp-ljvfx7z1': {
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.DefaultAreaSkin',
+      },
+    },
+    'comp-ljvfxl17': {
+      data: {
+        linkList: [],
+        stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+        type: 'StyledText',
+      },
+      props: {
+        packed: true,
+        type: 'WRichTextProperties',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.WRichTextNewSkin',
+      },
+    },
+    'comp-ljvg0x5f': {
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.RectangleArea',
+      },
+    },
+    'comp-ljvg0x5x': {
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.DefaultAreaSkin',
+      },
+    },
+    'comp-ljvg0x5y3': {
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.DefaultAreaSkin',
+      },
+    },
+    'comp-ljvg0x5z3': {
+      data: {
+        type: 'VectorImage',
+      },
+      props: {
+        type: 'VectorImageProperties',
+      },
+      structure: {
+        skin: 'skins.viewer.VectorImageSkin',
+      },
+    },
+    'comp-ljvg0x625': {
+      data: {
+        linkList: [],
+        stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+        type: 'StyledText',
+      },
+      props: {
+        packed: true,
+        type: 'WRichTextProperties',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.WRichTextNewSkin',
+      },
+    },
+    'comp-ljvg0x65': {
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.DefaultAreaSkin',
+      },
+    },
+    'comp-ljvgbxc6': {
+      data: {
+        appDefinitionId: '225dd912-7dea-4738-8688-4b8c6955ffc2',
+        applicationId: '1130',
+        id: 'dataItem-ljvgbxdr',
+        tpaData: {
+          content: '{"presetId":"contactFormAppDesign","formId":"2ee4572e-0652-4c95-9437-de384bf7d4aa","___settingsEvent":{"event":"forceView","payload":{"id":1696574804857,"value":"INPUT_FIELDS_ERROR"}}}',
+          type: 'TPAData',
+        },
+        type: 'TPAWidget',
+        usesCssPerBreakpoint: false,
+        widgetId: '371ee199-389c-4a93-849e-e35b8a15b7ca',
+      },
+      effects: {
+        type: 'EffectsList',
+        values: [
+          {
+            id: 'effects-ljy0wj1m',
+            name: 'FadeIn',
+            type: 'TimeAnimation',
+            value: {
+              default: {
+                delay: 0,
+                duration: 1200,
+                fill: 'backwards',
+                namedEffect: {
+                  type: 'FadeIn',
+                },
+                type: 'TimeAnimationOptions',
+              },
+              variants: [
+                {
+                  conditions: [
+                    '#variants-ljvfn2r01',
+                  ],
+                  value: {
+                    delay: 0,
+                    duration: 1500,
+                    fill: 'backwards',
+                    namedEffect: {
+                      type: 'FadeIn',
+                    },
+                    type: 'TimeAnimationOptions',
+                  },
+                },
+              ],
+            },
+          },
+        ],
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.TPAWidgetSkin',
+      },
+      triggers: {
+        type: 'Triggers',
+        values: [
+          {
+            componentId: 'comp-ljvgbxc6',
+            id: 'variants-ljy0wj18',
+            params: {
+              threshold: 0.15,
+            },
+            trigger: 'viewport-enter',
+            type: 'Trigger',
+          },
+        ],
+      },
+    },
+    'comp-lk9hnelt': {
+      data: {
+        rootCompId: 'comp-ljvfr7jd',
+        type: 'InternalRef',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.ResponsiveContainerRefSkin',
+      },
+    },
+  },
+  appControllers: {},
+}

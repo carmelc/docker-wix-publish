@@ -1,0 +1,833 @@
+{
+  externalRefs: {
+    c1dmp: 'c1dmp',
+    'variants-lk9fm7rz2': 'variants-lk9fm7rz2',
+    'variants-lk9fm7rz3': 'variants-lk9fm7rz3',
+    'variants-ljvfr7nk2': 'variants-ljvfr7nk2',
+    'variants-ljvfr7nk3': 'variants-ljvfr7nk3',
+    'variants-ljclok921': 'variants-ljclok921',
+    'variants-ljclok922': 'variants-ljclok922',
+    'variants-ljclok925': 'variants-ljclok925',
+    'variants-ljclok924': 'variants-ljclok924',
+    tlij8: 'tlij8',
+    lseam: 'lseam',
+    oxg07: 'oxg07',
+    'dataItem-kd46lbuc': 'dataItem-kd46lbuc',
+    l6mnd: 'l6mnd',
+  },
+  components: {
+    'comp-kbgakgyt': {
+      effects: {
+        type: 'EffectsList',
+        values: [
+          {
+            id: 'effects-ljv9zkj1',
+            name: 'FadeIn',
+            type: 'TimeAnimation',
+            value: {
+              default: {
+                delay: 0,
+                duration: 1500,
+                fill: 'backwards',
+                namedEffect: {
+                  type: 'FadeIn',
+                },
+                type: 'TimeAnimationOptions',
+              },
+              variants: [],
+            },
+          },
+        ],
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.RectangleArea',
+      },
+      triggers: {
+        type: 'Triggers',
+        values: [
+          {
+            componentId: 'comp-kbgakgyt',
+            id: 'variants-ljv9zkir',
+            params: {
+              threshold: 0.15,
+            },
+            trigger: 'viewport-enter',
+            type: 'Trigger',
+          },
+        ],
+      },
+    },
+    'comp-kd5pdf7t': {
+      data: {
+        linkList: [
+          {
+            type: 'ExternalLink',
+            url: 'https://www.wix.com/studio',
+          },
+        ],
+        stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+        type: 'StyledText',
+      },
+      effects: {
+        type: 'EffectsList',
+        values: [
+          {
+            id: 'effects-ljy4grjd',
+            name: 'FadeIn',
+            type: 'TimeAnimation',
+            value: {
+              default: {
+                delay: 0,
+                duration: 1200,
+                fill: 'backwards',
+                namedEffect: {
+                  type: 'FadeIn',
+                },
+                type: 'TimeAnimationOptions',
+              },
+              variants: [],
+            },
+          },
+        ],
+      },
+      props: {
+        packed: true,
+        type: 'WRichTextProperties',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.WRichTextNewSkin',
+      },
+      triggers: {
+        type: 'Triggers',
+        values: [
+          {
+            componentId: 'comp-kd5pdf7t',
+            id: 'variants-ljy4grja',
+            params: {
+              threshold: 0.15,
+            },
+            trigger: 'viewport-enter',
+            type: 'Trigger',
+          },
+        ],
+      },
+    },
+    'comp-kd5px9hr': {
+      behaviors: {
+        items: '[{"name":"GlideIn","delay":0,"duration":0.5,"params":{"angle":90,"distance":300},"action":"inlinePopupIn","targetId":"","viewMode":"DESKTOP"},{"name":"GlideOut","delay":0,"duration":0.5,"params":{"angle":90,"distance":300},"action":"inlinePopupOut","targetId":"","viewMode":"DESKTOP"}]',
+        type: 'ObsoleteBehaviorsList',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.inlinePopup.ResponsiveInlinePopupWithColorBG',
+      },
+    },
+    'comp-kd5px9kk': {
+      data: {
+        menuRef: '#dataItem-kd46lbuc',
+        type: 'CustomMenuDataRef',
+      },
+      props: {
+        menuArrowDirection: 'right',
+        menuItemHeight: 56,
+        originalHeight: 225,
+        type: 'ExpandableMenuProperties',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.ResponsiveExpandableMenuSkin',
+      },
+    },
+    'comp-kkmqi5tc': {
+      behaviors: {
+        items: '[{"action":{"sourceId":"comp-kkmqi5tc","name":"click","type":"comp"},"behavior":{"targetId":"comp-kd5px9hr","name":"close","type":"comp"}}]',
+        type: 'ObsoleteBehaviorsList',
+      },
+      data: {
+        type: 'VectorImage',
+      },
+      props: {
+        type: 'VectorImageProperties',
+      },
+      structure: {
+        skin: 'skins.viewer.VectorImageSkin',
+      },
+    },
+    'comp-ljpq9u5k': {
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.DefaultAreaSkin',
+      },
+    },
+    'comp-ljpq9yge': {
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.DefaultAreaSkin',
+      },
+    },
+    'comp-ljpqaw78': {
+      data: {
+        linkList: [],
+        stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+        type: 'StyledText',
+      },
+      effects: {
+        type: 'EffectsList',
+        values: [],
+      },
+      props: {
+        packed: true,
+        type: 'WRichTextProperties',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.WRichTextNewSkin',
+      },
+      triggers: {
+        type: 'Triggers',
+        values: [
+          {
+            componentId: 'comp-ljpqaw78',
+            id: 'variants-ljy4gjnp',
+            params: {
+              threshold: 0.15,
+            },
+            trigger: 'viewport-enter',
+            type: 'Trigger',
+          },
+        ],
+      },
+    },
+    'comp-ljpqm080': {
+      data: {
+        link: {
+          anchorDataId: 'SCROLL_TO_TOP',
+          anchorName: 'Top of Page',
+          pageId: '#masterPage',
+          type: 'AnchorLink',
+        },
+        type: 'VectorImage',
+      },
+      effects: {
+        type: 'EffectsList',
+        values: [
+          {
+            id: 'effects-lk9hn0w6',
+            name: 'FadeIn',
+            type: 'TimeAnimation',
+            value: {
+              default: {
+                delay: 0,
+                duration: 1500,
+                fill: 'backwards',
+                namedEffect: {
+                  type: 'FadeIn',
+                },
+                type: 'TimeAnimationOptions',
+              },
+              variants: [],
+            },
+          },
+        ],
+      },
+      props: {
+        type: 'VectorImageProperties',
+      },
+      structure: {
+        skin: 'skins.viewer.VectorImageSkin',
+      },
+      triggers: {
+        type: 'Triggers',
+        values: [
+          {
+            componentId: 'comp-ljpqm080',
+            id: 'variants-ljy4g48b',
+            params: {
+              threshold: 0.15,
+            },
+            trigger: 'viewport-enter',
+            type: 'Trigger',
+          },
+        ],
+      },
+    },
+    'comp-ljvb67tv': {
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.DefaultAreaSkin',
+      },
+    },
+    'comp-ljvb67tw4': {
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.DefaultAreaSkin',
+      },
+    },
+    'comp-ljvb67tx5': {
+      data: {
+        linkList: [],
+        stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+        type: 'StyledText',
+      },
+      props: {
+        packed: true,
+        type: 'WRichTextProperties',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.WRichTextNewSkin',
+      },
+    },
+    'comp-ljvb67tz8': {
+      data: {
+        linkList: [
+          {
+            pageId: '#tlij8',
+            rel: [],
+            type: 'PageLink',
+          },
+        ],
+        stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+        type: 'StyledText',
+      },
+      props: {
+        packed: true,
+        type: 'WRichTextProperties',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.WRichTextNewSkin',
+      },
+    },
+    'comp-ljvb67u011': {
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.DefaultAreaSkin',
+      },
+    },
+    'comp-ljvb67u9': {
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.DefaultAreaSkin',
+      },
+    },
+    'comp-ljvb67uc12': {
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.DefaultAreaSkin',
+      },
+    },
+    'comp-ljvfr7jd': {
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.RectangleArea',
+      },
+    },
+    'comp-lk6y2h0d': {
+      behaviors: {
+        items: '[{"action":{"sourceId":"comp-lk6y2h0d","name":"click","type":"comp"},"behavior":{"targetId":"comp-kd5px9hr","name":"open","type":"comp"}},{"action":{"sourceId":"comp-lk6y2h0d","name":"click","type":"comp"},"behavior":{"targetId":"comp-kd5px9hr","name":"open","type":"comp"}}]',
+        type: 'ObsoleteBehaviorsList',
+      },
+      data: {
+        link: {
+          anchorDataId: 'SCROLL_TO_TOP',
+          anchorName: 'Top of Page',
+          pageId: '#masterPage',
+          type: 'AnchorLink',
+        },
+        type: 'VectorImage',
+      },
+      props: {
+        type: 'VectorImageProperties',
+      },
+      structure: {
+        skin: 'skins.viewer.VectorImageSkin',
+      },
+    },
+    'comp-lk6y4qt7': {
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.DefaultAreaSkin',
+      },
+    },
+    'comp-lk6y4qtu': {
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.DefaultAreaSkin',
+      },
+    },
+    'comp-lk6y4qtv12': {
+      data: {
+        linkList: [
+          {
+            recipient: 'info@mysite.com',
+            subject: '',
+            type: 'EmailLink',
+          },
+        ],
+        stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+        type: 'StyledText',
+      },
+      props: {
+        packed: true,
+        type: 'WRichTextProperties',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.WRichTextNewSkin',
+      },
+    },
+    'comp-lk6y4qtw14': {
+      data: {
+        linkList: [],
+        stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+        type: 'StyledText',
+      },
+      props: {
+        packed: true,
+        type: 'WRichTextProperties',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.WRichTextNewSkin',
+      },
+    },
+    'comp-lk6ynwh3': {
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.DefaultAreaSkin',
+      },
+    },
+    'comp-lk9dmcw3': {
+      data: {
+        svgId: '11062b_a96638b4ca9a45a6941f2e66f580078a.svg',
+        type: 'StylableButton',
+      },
+      props: {
+        type: 'StylableButtonProperties',
+      },
+      structure: {
+        skin: 'wixui.skins.Skinless',
+      },
+    },
+    'comp-lk9dnyi8': {
+      data: {
+        svgId: '11062b_a96638b4ca9a45a6941f2e66f580078a.svg',
+        type: 'StylableButton',
+      },
+      props: {
+        type: 'StylableButtonProperties',
+      },
+      structure: {
+        skin: 'wixui.skins.Skinless',
+      },
+    },
+    'comp-lk9dxn0p': {
+      data: {
+        svgId: '11062b_a96638b4ca9a45a6941f2e66f580078a.svg',
+        type: 'StylableButton',
+      },
+      props: {
+        type: 'StylableButtonProperties',
+      },
+      structure: {
+        skin: 'wixui.skins.Skinless',
+      },
+    },
+    'comp-lk9dxyie': {
+      data: {
+        svgId: '11062b_a96638b4ca9a45a6941f2e66f580078a.svg',
+        type: 'StylableButton',
+      },
+      props: {
+        type: 'StylableButtonProperties',
+      },
+      structure: {
+        skin: 'wixui.skins.Skinless',
+      },
+    },
+    'comp-lk9dy0lh': {
+      data: {
+        svgId: '11062b_a96638b4ca9a45a6941f2e66f580078a.svg',
+        type: 'StylableButton',
+      },
+      props: {
+        type: 'StylableButtonProperties',
+      },
+      structure: {
+        skin: 'wixui.skins.Skinless',
+      },
+    },
+    'comp-lk9dy3xw': {
+      data: {
+        svgId: '11062b_a96638b4ca9a45a6941f2e66f580078a.svg',
+        type: 'StylableButton',
+      },
+      props: {
+        type: 'StylableButtonProperties',
+      },
+      structure: {
+        skin: 'wixui.skins.Skinless',
+      },
+    },
+    'comp-lk9fm7rj': {
+      behaviors: {
+        items: '[{"name":"AnimateAfterScroll","type":"scrub","params":{"animations":[{"duration":0.3,"delay":0,"name":"HeaderMoveCustom","params":{"to":{"y":"-100%"},"ease":"none"}}]},"targetId":"comp-lk9fm7rj","action":"scrollScrub","viewMode":"DESKTOP"}]',
+        type: 'ObsoleteBehaviorsList',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.RectangleArea',
+      },
+    },
+    'comp-lk9fm7s9': {
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.DefaultAreaSkin',
+      },
+    },
+    'comp-lk9fm7sh8': {
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.DefaultAreaSkin',
+      },
+    },
+    'comp-lk9fm7sj7': {
+      data: {
+        linkList: [
+          {
+            pageId: '#tlij8',
+            rel: [],
+            type: 'PageLink',
+          },
+        ],
+        stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+        type: 'StyledText',
+      },
+      props: {
+        packed: true,
+        type: 'WRichTextProperties',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.WRichTextNewSkin',
+      },
+    },
+    'comp-lk9fm7sm5': {
+      data: {
+        linkList: [
+          {
+            pageId: '#tlij8',
+            rel: [],
+            type: 'PageLink',
+          },
+        ],
+        stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+        type: 'StyledText',
+      },
+      props: {
+        packed: true,
+        type: 'WRichTextProperties',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.WRichTextNewSkin',
+      },
+    },
+    'comp-lk9fm7sz': {
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.DefaultAreaSkin',
+      },
+    },
+    'comp-lk9fm7t59': {
+      data: {
+        svgId: '11062b_a96638b4ca9a45a6941f2e66f580078a.svg',
+        type: 'StylableButton',
+      },
+      props: {
+        type: 'StylableButtonProperties',
+      },
+      structure: {
+        skin: 'wixui.skins.Skinless',
+      },
+    },
+    'comp-lk9fm7tf': {
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.DefaultAreaSkin',
+      },
+    },
+    'comp-lk9fm7tj9': {
+      data: {
+        svgId: '11062b_a96638b4ca9a45a6941f2e66f580078a.svg',
+        type: 'StylableButton',
+      },
+      props: {
+        type: 'StylableButtonProperties',
+      },
+      structure: {
+        skin: 'wixui.skins.Skinless',
+      },
+    },
+    'comp-lk9fm7tu': {
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.DefaultAreaSkin',
+      },
+    },
+    'comp-lk9fm7tz': {
+      behaviors: {
+        items: '[{"action":{"sourceId":"comp-lk9fm7tz","name":"click","type":"comp"},"behavior":{"targetId":"comp-kd5px9hr","name":"open","type":"comp"}},{"action":{"sourceId":"comp-lk9fm7tz","name":"click","type":"comp"},"behavior":{"targetId":"comp-kd5px9hr","name":"open","type":"comp"}}]',
+        type: 'ObsoleteBehaviorsList',
+      },
+      data: {
+        type: 'VectorImage',
+      },
+      props: {
+        type: 'VectorImageProperties',
+      },
+      structure: {
+        skin: 'skins.viewer.VectorImageSkin',
+      },
+    },
+    'comp-lk9m9px5': {
+      data: {
+        linkList: [
+          {
+            recipient: 'info@mysite.com',
+            subject: '',
+            type: 'EmailLink',
+          },
+        ],
+        stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+        type: 'StyledText',
+      },
+      effects: {
+        type: 'EffectsList',
+        values: [],
+      },
+      props: {
+        packed: true,
+        type: 'WRichTextProperties',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.WRichTextNewSkin',
+      },
+      triggers: {
+        type: 'Triggers',
+        values: [
+          {
+            componentId: 'comp-lk9m9px5',
+            id: 'variants-lk9m9pxt',
+            params: {
+              threshold: 0.15,
+            },
+            trigger: 'viewport-enter',
+            type: 'Trigger',
+          },
+        ],
+      },
+    },
+    'comp-lk9rpybq': {
+      data: {
+        menuRef: '#dataItem-kd46lbuc',
+        type: 'CustomMenuDataRef',
+      },
+      props: {
+        menuArrowDirection: 'right',
+        menuItemHeight: 56,
+        originalHeight: 225,
+        type: 'ExpandableMenuProperties',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.ResponsiveExpandableMenuSkin',
+      },
+    },
+    'comp-lk9xicln': {
+      data: {
+        svgId: '11062b_a96638b4ca9a45a6941f2e66f580078a.svg',
+        type: 'StylableButton',
+      },
+      props: {
+        type: 'StylableButtonProperties',
+      },
+      structure: {
+        skin: 'wixui.skins.Skinless',
+      },
+    },
+    'comp-lk9xidtf': {
+      data: {
+        svgId: '11062b_a96638b4ca9a45a6941f2e66f580078a.svg',
+        type: 'StylableButton',
+      },
+      props: {
+        type: 'StylableButtonProperties',
+      },
+      structure: {
+        skin: 'wixui.skins.Skinless',
+      },
+    },
+    'comp-lk9xifd0': {
+      data: {
+        svgId: '11062b_a96638b4ca9a45a6941f2e66f580078a.svg',
+        type: 'StylableButton',
+      },
+      props: {
+        type: 'StylableButtonProperties',
+      },
+      structure: {
+        skin: 'wixui.skins.Skinless',
+      },
+    },
+    'comp-lk9xigib': {
+      data: {
+        svgId: '11062b_a96638b4ca9a45a6941f2e66f580078a.svg',
+        type: 'StylableButton',
+      },
+      props: {
+        type: 'StylableButtonProperties',
+      },
+      structure: {
+        skin: 'wixui.skins.Skinless',
+      },
+    },
+    'comp-lkod70ng': {
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.DefaultAreaSkin',
+      },
+    },
+    'comp-lrhnzuw8': {
+      data: {
+        linkList: [
+          {
+            pageId: '#l6mnd',
+            rel: [],
+            type: 'PageLink',
+          },
+        ],
+        stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+        type: 'StyledText',
+      },
+      effects: {
+        type: 'EffectsList',
+        values: [
+          {
+            id: 'effects-lrhnzuy8',
+            name: 'FadeIn',
+            type: 'TimeAnimation',
+            value: {
+              default: {
+                delay: 0,
+                duration: 1200,
+                fill: 'backwards',
+                namedEffect: {
+                  type: 'FadeIn',
+                },
+                type: 'TimeAnimationOptions',
+              },
+              variants: [],
+            },
+          },
+        ],
+      },
+      props: {
+        packed: true,
+        type: 'WRichTextProperties',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.WRichTextNewSkin',
+      },
+      triggers: {
+        type: 'Triggers',
+        values: [
+          {
+            componentId: 'comp-lrhnzuw8',
+            id: 'variants-lrhnzuwf',
+            params: {
+              threshold: 0.15,
+            },
+            trigger: 'viewport-enter',
+            type: 'Trigger',
+          },
+        ],
+      },
+    },
+    'comp-lrho2plh': {
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.DefaultAreaSkin',
+      },
+    },
+    'comp-lrho3efm': {
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.DefaultAreaSkin',
+      },
+    },
+    masterPage: {
+      componentProperties: {},
+      data: {
+        accessibilitySettings: {
+          skipToContent: true,
+          visualFocusDisabled: false,
+        },
+        appsInstallState: {
+          stateMap: {
+            '14ce1214-b278-a7e4-1373-00cebd1bef7c': {
+              status: 'REMOVED',
+              version: '^0.579.0',
+            },
+            '225dd912-7dea-4738-8688-4b8c6955ffc2': {
+              status: 'INSTALLED',
+              version: '^0.257.0',
+            },
+            'd90652a2-f5a1-4c7c-84c4-d4cdcc41f130': {
+              status: 'INSTALLED',
+              version: '^39.522.0',
+            },
+            dataBinding: {
+              status: 'INSTALLED',
+            },
+            'wix-code': {
+              status: 'INSTALLED',
+            },
+          },
+          type: 'AppsInstallState',
+        },
+        characterSets: [
+          'latin-ext',
+          'latin',
+        ],
+        ignoreBottomBottomAnchors: true,
+        layoutSettings: {
+          mechanism: 'mesh',
+          soapCompsAroundPagesContainer: true,
+          useDesktopSectionsLayout: true,
+        },
+        mainPage: '#c1dmp',
+        mainPageId: 'c1dmp',
+        mobileSettings: {
+          animationsEnabled: true,
+        },
+        renderModifiers: {
+          pageAutoShrink: true,
+        },
+        siteName: 'Template Base',
+        smSettings: {
+          customNoPermissionsPageId: 'whhhx',
+          socialLoginFacebookEnabled: true,
+          socialLoginGoogleEnabled: true,
+        },
+        styleSettings: {
+          stylesPerPage: '1.0',
+        },
+        type: 'Document',
+        usedFonts: [],
+        usesNewAnimations: true,
+      },
+      modes: {
+        definitions: [],
+        overrides: [],
+      },
+      themeData: {},
+    },
+    PAGES_CONTAINER: {
+      structure: {
+        skin: 'wysiwyg.viewer.skins.screenwidthcontainer.BlankScreen',
+      },
+    },
+    SITE_FOOTER: {
+      structure: {
+        skin: 'wysiwyg.viewer.skins.screenwidthcontainer.TransparentScreen',
+      },
+    },
+    SITE_HEADER: {
+      structure: {
+        skin: 'wysiwyg.viewer.skins.screenwidthcontainer.TransparentScreen',
+      },
+    },
+    SITE_PAGES: {
+      props: {
+        transition: 'outIn',
+        type: 'PageGroupProperties',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.PageGroupSkin',
+      },
+    },
+  },
+  appControllers: {},
+}

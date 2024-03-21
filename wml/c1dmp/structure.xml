@@ -1,0 +1,21 @@
+<Page codeName="page1" id="c1dmp">
+  <Section codeName="section1" id="comp-kbgaghri">
+    <MediaPlayer codeName="videoBox1" id="comp-lkogdnos">
+      <MediaOverlayControls id="comp-lkogdnp1" />
+      <MediaControls id="comp-lkogdnp72" />
+    </MediaPlayer>
+    <Container codeName="box2" id="comp-ljpoeu3c">
+      <WRichText codeName="text4" id="comp-ljpo9v9q">
+        <![CDATA[<h1 class="font_0"><span>FIVE<br />
+28</span></h1>]]>
+      </WRichText>
+      <WRichText codeName="text5" id="comp-ljpobc0m">
+        <![CDATA[<p class="font_8"><span>Landscape Design</span></p>]]>
+      </WRichText>
+    </Container>
+    <StylableButton codeName="button13" href="page:#tlij8" id="comp-lk9qff7o" rel="">
+      EXPLORE
+    </StylableButton>
+  </Section>
+  <RefComponent id="comp-kd5px9q0" />
+</Page>

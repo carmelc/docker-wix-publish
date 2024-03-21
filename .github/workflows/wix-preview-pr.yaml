@@ -1,0 +1,49 @@
+name: Create Wix Deploy Preview
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+permissions:
+  contents: read
+  pull-requests: write
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v2
+        name: Checkout repository
+
+      - name: Setup Node.js environment
+        uses: actions/setup-node@v2
+        with:
+          node-version: '18' # Use Node.js version 18
+
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v1
+
+      - name: Build Docker image from subdirectory
+        run: |
+          docker build -t run-wix-dev-once . -f ./.github/wix-cli-publish/Dockerfile
+      - name: Run Docker image and capture output
+        run: |
+          docker run --rm \
+            -e WIX_SESSION2=${{ secrets.WIX_SESSION2 }} \
+            -e WIX_CLI_APP_INFO=${{ secrets.WIX_CLI_APP_INFO }} \
+            --memory="8192m" \
+            run-wix-dev-once | tee publish_output.txt
+
+      - name: Add PR comment with URL
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          SITE_URL=$(grep -o 'http[s]*://[^ ]*' publish_output.txt | tail -1)
+          echo "Deploy preview Site URL: $SITE_URL"
+          PR_COMMENT="Your Wix deploy preview is ready: $SITE_URL"
+          PR_NUMBER=$(jq --raw-output .pull_request.number "$GITHUB_EVENT_PATH")
+          curl -s -H "Authorization: token $GITHUB_TOKEN" \
+               -H "Content-Type: application/json" \
+               -X POST \
+               -d "{\"body\": \"$PR_COMMENT\"}" \
+               "https://api.github.com/repos/${GITHUB_REPOSITORY}/issues/${PR_NUMBER}/comments"
