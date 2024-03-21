@@ -5,7 +5,7 @@ echo "Running custom publish script"
 echo "WIX_CLI_APP_INFO: $WIX_CLI_APP_INFO"
 echo "WIX_SESSION2: $WIX_SESSION2"
 
-// Use the src and wml folders from the shared volume so it is taken from the repo which runs the docker
+# Use the src and wml folders from the shared volume so it is taken from the repo which runs the docker
 rm -rf src wml
 mkdir src wml
 
