@@ -5,12 +5,12 @@ echo "Running custom publish script"
 echo "WIX_CLI_APP_INFO: $WIX_CLI_APP_INFO"
 echo "WIX_SESSION2: $WIX_SESSION2"
 
-ls -l src wml
+ls -l src wml mnt
 
 rm -rf src wml
 
-cp -R /mnt/src/* src
-cp -R /mnt/wml/* wml
+cp -R ./mnt/src/* src
+cp -R ./mnt/wml/* wml
 
 ls -l src wml
 
