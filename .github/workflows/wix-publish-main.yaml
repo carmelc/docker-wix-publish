@@ -26,7 +26,7 @@ jobs:
         id: check-image
         run: |
           IMAGE_EXISTS=$(curl -s -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
-            https://ghcr.io/v2/${{ github.repository_owner }}/run-wix-dev-once/manifests/latest | jq .errors[].code)
+            https://ghcr.io/v2/${{ github.repository }}/run-wix-dev-once/manifests/latest | jq .errors[].code)
           echo "Image exists: $IMAGE_EXISTS"
           if [ "$IMAGE_EXISTS" != "null" ]; then
             echo "exists=false" >> $GITHUB_OUTPUT
