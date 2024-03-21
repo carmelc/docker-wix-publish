@@ -48,4 +48,4 @@ jobs:
             -e WIX_SESSION2=${{ secrets.WIX_SESSION2 }} \
             -e WIX_CLI_APP_INFO=${{ secrets.WIX_CLI_APP_INFO }} \
             --memory="8192m" \
-            run-wix-dev-once:latest | tee publish_output.txt
+            run-wix-dev-once | tee publish_output.txt
