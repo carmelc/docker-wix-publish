@@ -29,26 +29,24 @@ jobs:
           username: ${{github.actor}}
           password: ${{secrets.GITHUB_TOKEN}}
 
-      - name: Check if Docker image exists
-        id: check-image
+      - name: Attempt to pull Docker image
+        id: pull-image
         run: |
-          IMAGE_EXISTS=$(curl -s -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
-            https://ghcr.io/v2/${{ github.repository }}/run-wix-dev-once/manifests/latest | jq .errors[].code)
-          echo "Image exists: $IMAGE_EXISTS"
-          if [ "$IMAGE_EXISTS" != "null" ]; then
-            echo "exists=false" >> $GITHUB_OUTPUT
-          else
+          if docker pull ghcr.io/${{ github.repository }}/run-wix-dev-once:latest; then
             echo "exists=true" >> $GITHUB_OUTPUT
+          else
+            echo "exists=false" >> $GITHUB_OUTPUT
           fi
 
       - name: Build and push Docker image
-        if: ${{ steps.check-image.outputs.exists }} == 'true'
+        if: ${{ steps.check-image.outputs.exists }} != 'true'
         run: |
           docker build . -t ghcr.io/${{ github.repository }}/run-wix-dev-once:latest -f ./.github/wix-cli-publish/Dockerfile
           docker push ghcr.io/${{ github.repository }}/run-wix-dev-once:latest
 
       - name: Run Docker image and capture output
         run: |
+          docker pull ghcr.io/${{ github.repository }}/run-wix-dev-once:latest
           docker run --rm \
             -e PUBLISH=true \
             -e WIX_SESSION2=${{ secrets.WIX_SESSION2 }} \
