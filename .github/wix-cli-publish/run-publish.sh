@@ -9,10 +9,8 @@ echo "WIX_SESSION2: $WIX_SESSION2"
 rm -rf src wml
 mkdir src wml
 
-cp -R /mnt/src/* src
-cp -R /mnt/wml/* wml
-# copy the file wix.config.json from the shared volume
-cp /mnt/wix.config.json .
+# copy the user account over to the shared volume
+cp -R /mnt/* .
 
 echo "Copied the src and wml folders from the shared volume"
 
@@ -30,15 +28,16 @@ jq -r '.cliFiles[] | "\(.name) \(.content)"' response.json | while IFS= read -r 
     echo "$content" > "$name"
 done
 
-CMD="wix preview --source local"
+npm install
+
+CMD="npx wix preview --source local"
 
 if [[ -n $PUBLISH ]]; then
-  CMD="wix publish --force --source local"
+  CMD="npx wix publish --force --source local"
 fi
 
-npm install -g ./.github/wix-cli-publish/wix_cli.tar.gz
 echo "Opening dev Editor"
-BROWSER_APP=$(which chromium) WIX_SESSION2="$WIX_SESSION2" wix dev --experimental-wml --headless
+BROWSER_APP=$(which chromium) WIX_SESSION2="$WIX_SESSION2" npx wix dev --experimental-wml --headless
 echo "Publish/Previewing the site"
 eval $CMD
 echo "Done!"
