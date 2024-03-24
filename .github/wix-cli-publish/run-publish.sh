@@ -30,7 +30,7 @@ jq -r '.cliFiles[] | "\(.name) \(.content)"' response.json | while IFS= read -r 
     echo "$content" > "$name"
 done
 
-ls -la ~/.wix/auth
+ls -la ~/.wix/auth/b42aec4e-9841-41c4-807c-cf2721361b90.json
 
 CMD="wix preview --source local"
 
