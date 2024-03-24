@@ -5,6 +5,8 @@ echo "Running custom publish script"
 echo "WIX_CLI_APP_INFO: $WIX_CLI_APP_INFO"
 echo "WIX_SESSION2: $WIX_SESSION2"
 
+npm install -g ./.github/wix-cli-publish/wix_cli.tar.gz
+
 # Use the src and wml folders from the shared volume so it is taken from the repo which runs the docker
 rm -rf src wml
 mkdir src wml
@@ -28,16 +30,14 @@ jq -r '.cliFiles[] | "\(.name) \(.content)"' response.json | while IFS= read -r 
     echo "$content" > "$name"
 done
 
-npm install
-
-CMD="npx wix preview --source local"
+CMD="wix preview --source local"
 
 if [[ -n $PUBLISH ]]; then
-  CMD="npx wix publish --force --source local"
+  CMD="wix publish --force --source local"
 fi
 
 echo "Opening dev Editor"
-BROWSER_APP=$(which chromium) WIX_SESSION2="$WIX_SESSION2" npx wix dev --experimental-wml --headless
+BROWSER_APP=$(which chromium) WIX_SESSION2="$WIX_SESSION2" wix dev --experimental-wml --headless
 echo "Publish/Previewing the site"
 eval $CMD
 echo "Done!"
