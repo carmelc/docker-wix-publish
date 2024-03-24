@@ -12,10 +12,14 @@ mkdir src wml
 cp -R /mnt/src/* src
 cp -R /mnt/wml/* wml
 
+echo "Copied the src and wml folders from the shared volume"
+
 curl -s -X POST "https://editor.wix.com/templates-with-cli-poc/api/poc-app/cli-access" \
             -H "Content-Type: application/json" \
             -d "{\"encodedAppData\":\"$WIX_CLI_APP_INFO\"}" \
             -o response.json
+
+echo "Got response from the server"
 
 # Assuming response.json is already available in the current directory
 jq -r '.cliFiles[] | "\(.name) \(.content)"' response.json | while IFS= read -r line; do
