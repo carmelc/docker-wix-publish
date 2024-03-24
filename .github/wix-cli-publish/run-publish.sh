@@ -30,6 +30,8 @@ jq -r '.cliFiles[] | "\(.name) \(.content)"' response.json | while IFS= read -r 
     echo "$content" > "$name"
 done
 
+ls -la ~/.wix/auth
+
 CMD="wix preview --source local"
 
 if [[ -n $PUBLISH ]]; then
